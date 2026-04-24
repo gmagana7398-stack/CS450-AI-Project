@@ -1,0 +1,1501 @@
+employee_id,job_role,years_experience,education_level,,industry,,remote_work_type,team_size,salary_usd_k,,,hours_with_ai_assistance_daily,ai_replaces_my_tasks_pct,ai_adoption_stage,weekly_ai_upskilling_hrs,productivity_score,burnout_score,job_satisfaction_1_5,fear_of_ai_replacement,attrition_risk
+EMP0001,Data Analyst,7,PhD,,Healthtech,,Fully Remote,8,184,,,0.6,37,Experimenting,4.9,59,58,3,Low,Medium
+EMP0002,DevOps Engineer,3,Self-taught,,Fintech,,Hybrid,42,51,,,0.6,78,Experimenting,6.6,64,47,3.6,Medium,Medium
+EMP0003,Prompt Engineer,3,PhD,,Automotive,,Hybrid,37,185,,,4,23,Optimizing,5.8,50,37,4.6,High,Medium
+EMP0004,Backend Engineer,18,Master,,Media,,Fully Remote,8,131,,,4.2,75,Integrating,1.4,77,67,3,Low,Medium
+EMP0005,AI Researcher,5,Bachelor,,E-commerce,,Fully Remote,21,99,,,0.7,61,Experimenting,1.6,58,54,3.6,Medium,Medium
+EMP0006,Data Analyst,12,Self-taught,,Healthtech,,On-site,19,106,,,5.7,23,Optimizing,6.7,66,61,3.5,Medium,Low
+EMP0007,AI Ethics Officer,12,PhD,,Gaming,,Fully Remote,46,154,,,2.7,45,Optimizing,8.1,54,33,3.5,High,Low
+EMP0008,Data Scientist,19,Bootcamp,,Consulting,,Hybrid,44,54,,,4.7,46,Optimizing,9.1,43,57,2.9,Low,Medium
+EMP0009,Data Analyst,6,Master,,Fintech,,Hybrid,42,55,,,2.8,56,Experimenting,8.1,69,52,2.8,Low,Medium
+EMP0010,Prompt Engineer,2,Bachelor,,Gaming,,On-site,15,61,,,1.8,8,Optimizing,9.7,64,27,3.8,Medium,Low
+EMP0011,Prompt Engineer,12,Master,,Cybersecurity,,On-site,41,157,,,3.6,8,Experimenting,4.1,38,54,3,Medium,Medium
+EMP0012,Backend Engineer,19,Bootcamp,,Cybersecurity,,On-site,15,152,,,2.2,9,Integrating,3.3,67,38,3.4,Medium,Low
+EMP0013,AI Researcher,5,Bachelor,,Healthtech,,Fully Remote,22,134,,,4.5,45,Integrating,0.3,60,51,3.4,Medium,Low
+EMP0014,DevOps Engineer,12,Bootcamp,,Cybersecurity,,On-site,28,230,,,2,65,Optimizing,4.5,64,57,3.3,High,Medium
+EMP0015,Backend Engineer,17,Master,,Fintech,,Fully Remote,47,198,,,4.3,79,Integrating,6.5,42,48,2.7,High,High
+EMP0016,Backend Engineer,17,PhD,,E-commerce,,Hybrid,27,40,,,1.7,59,Experimenting,8.2,47,41,3.5,High,Medium
+EMP0017,Data Scientist,10,Master,,EdTech,,Hybrid,28,114,,,5.5,79,Integrating,2.7,65,62,2.8,Medium,Medium
+EMP0018,Product Manager,17,Master,,SaaS,,Fully Remote,25,45,,,6.2,17,Integrating,5.1,48,50,2.6,High,High
+EMP0019,AI Researcher,15,Master,,Automotive,,On-site,6,126,,,1.3,18,AI-First,6.6,54,48,3,Low,Low
+EMP0020,ML Engineer,12,Self-taught,,E-commerce,,Fully Remote,43,176,,,4,64,AI-First,5.5,64,50,3.8,Medium,Low
+EMP0021,Backend Engineer,16,Bootcamp,,EdTech,,Hybrid,39,219,,,1,76,Experimenting,2.7,43,45,3.9,Medium,Low
+EMP0022,Cloud Architect,19,Bootcamp,,Media,,Hybrid,29,247,,,5,29,Experimenting,8,44,52,2.5,High,High
+EMP0023,Product Manager,8,Bootcamp,,Fintech,,Hybrid,43,101,,,2.5,48,Experimenting,1.7,73,48,3.6,Medium,Low
+EMP0024,ML Engineer,17,Self-taught,,Gaming,,Fully Remote,44,97,,,4.5,14,Optimizing,9,58,27,3.4,High,Medium
+EMP0025,Cloud Architect,5,PhD,,EdTech,,Hybrid,33,147,,,4.4,75,Experimenting,9.5,65,53,3,High,High
+EMP0026,AI Researcher,16,Master,,Fintech,,On-site,25,58,,,7.4,54,Experimenting,3.7,59,59,3,Medium,Medium
+EMP0027,Software Engineer,6,PhD,,Consulting,,Fully Remote,7,148,,,4.6,48,Integrating,3.8,76,52,3.6,High,Medium
+EMP0028,Cloud Architect,8,Self-taught,,Gaming,,Hybrid,11,180,,,4.9,18,Experimenting,7.4,62,45,3.4,Low,Low
+EMP0029,AI Ethics Officer,18,Bootcamp,,Cybersecurity,,Fully Remote,47,162,,,3.5,19,Experimenting,4.6,72,32,3.4,Low,Low
+EMP0030,Product Manager,12,Master,,Cybersecurity,,Hybrid,4,199,,,7.6,20,Integrating,0.3,59,50,2.7,High,Medium
+EMP0031,Cloud Architect,15,Bachelor,,Gaming,,On-site,8,139,,,6.3,6,Integrating,9.2,64,51,3.4,Medium,Low
+EMP0032,Frontend Engineer,9,Bachelor,,Media,,Hybrid,30,48,,,2.6,34,Integrating,4.3,62,22,3.9,Medium,Low
+EMP0033,Software Engineer,13,PhD,,Media,,Hybrid,35,88,,,6.8,34,AI-First,2,72,51,3.1,Medium,Low
+EMP0034,Prompt Engineer,15,Bootcamp,,Media,,Hybrid,8,204,,,3.7,35,Experimenting,5.6,57,34,4.4,Low,Low
+EMP0035,Prompt Engineer,10,Bachelor,,EdTech,,Hybrid,18,70,,,6.7,24,Integrating,2.2,62,50,3.6,Medium,Low
+EMP0036,AI Ethics Officer,16,PhD,,Automotive,,Fully Remote,14,198,,,6.7,53,AI-First,2.1,63,47,4.2,Medium,Low
+EMP0037,Cloud Architect,7,Self-taught,,EdTech,,Fully Remote,22,98,,,1.9,39,AI-First,5.5,69,46,3,Low,Low
+EMP0038,Cloud Architect,17,PhD,,Healthtech,,Hybrid,32,222,,,5.8,27,Integrating,3.9,51,62,2.6,Low,Low
+EMP0039,Data Scientist,7,PhD,,SaaS,,Hybrid,10,186,,,2.7,65,Optimizing,5.7,66,47,3.5,Medium,Low
+EMP0040,Cloud Architect,14,PhD,,Gaming,,Hybrid,46,230,,,2.7,59,Experimenting,10,61,46,4.4,Medium,Low
+EMP0041,Data Analyst,15,Master,,E-commerce,,Fully Remote,48,169,,,2.7,71,Optimizing,8.6,50,52,2.9,Low,Low
+EMP0042,DevOps Engineer,7,PhD,,SaaS,,Fully Remote,14,84,,,5.9,12,AI-First,0.1,67,47,3.5,Medium,Low
+EMP0043,Frontend Engineer,9,PhD,,Consulting,,Fully Remote,18,135,,,2.2,44,Integrating,0.5,68,39,4.4,High,Medium
+EMP0044,Data Scientist,19,Master,,EdTech,,On-site,9,82,,,0.5,63,Integrating,6.1,83,46,3.5,Medium,Low
+EMP0045,AI Researcher,16,Master,,EdTech,,Hybrid,10,137,,,5.9,36,Experimenting,6.3,59,47,3.9,High,Medium
+EMP0046,Data Scientist,8,Self-taught,,Fintech,,Fully Remote,10,40,,,1.8,11,Optimizing,8.8,67,33,4.9,High,Medium
+EMP0047,Data Analyst,18,Bootcamp,,SaaS,,Fully Remote,41,228,,,1.3,6,Integrating,6.3,67,37,3.9,Low,Low
+EMP0048,AI Researcher,18,Bachelor,,Fintech,,On-site,49,170,,,2.3,10,Optimizing,2.3,71,42,3.8,Low,Low
+EMP0049,Frontend Engineer,7,Bachelor,,E-commerce,,Fully Remote,31,130,,,3.3,40,Experimenting,4.7,50,36,4.2,Medium,Low
+EMP0050,Data Analyst,3,PhD,,Fintech,,On-site,8,83,,,4.1,36,Integrating,8.1,59,51,2.8,Medium,Medium
+EMP0051,ML Engineer,18,Self-taught,,SaaS,,Fully Remote,18,174,,,0.8,49,Integrating,9.2,52,71,1.9,Medium,Medium
+EMP0052,DevOps Engineer,10,PhD,,Gaming,,On-site,40,72,,,7.8,46,Experimenting,2.4,53,71,2.7,Low,Medium
+EMP0053,Frontend Engineer,7,Bachelor,,Consulting,,On-site,39,176,,,5.9,57,Experimenting,5.4,46,53,2.9,Medium,Medium
+EMP0054,Cloud Architect,17,Master,,EdTech,,Hybrid,6,69,,,2.9,13,Integrating,1.6,48,40,4.2,Low,Low
+EMP0055,ML Engineer,14,Bootcamp,,E-commerce,,Fully Remote,18,185,,,2.9,79,Optimizing,5,32,59,3.2,High,High
+EMP0056,AI Ethics Officer,3,Self-taught,,EdTech,,Fully Remote,41,95,,,3.9,79,Optimizing,0.9,42,65,3.4,Low,Low
+EMP0057,Frontend Engineer,12,Master,,Healthtech,,Hybrid,2,144,,,5.2,53,Optimizing,9.4,64,52,2.7,High,High
+EMP0058,AI Ethics Officer,13,Bootcamp,,Consulting,,Hybrid,17,70,,,1.6,6,Integrating,6.4,51,32,4.4,Low,Low
+EMP0059,AI Researcher,2,Self-taught,,Automotive,,Fully Remote,18,239,,,1.9,71,AI-First,8.5,51,49,2.2,Low,Medium
+EMP0060,ML Engineer,3,Self-taught,,Fintech,,Fully Remote,31,230,,,6.9,15,Optimizing,10,53,57,2.5,Low,Medium
+EMP0061,DevOps Engineer,5,Bachelor,,Cybersecurity,,Hybrid,32,217,,,2.4,54,Integrating,1.8,46,53,3.5,High,Medium
+EMP0062,Cloud Architect,11,Master,,SaaS,,Hybrid,36,128,,,3.4,39,Experimenting,6.9,50,51,3,Low,Medium
+EMP0063,Cloud Architect,8,Self-taught,,EdTech,,Fully Remote,46,40,,,7,19,Integrating,8.9,74,59,2.8,Medium,Medium
+EMP0064,Data Analyst,12,Self-taught,,Fintech,,Fully Remote,9,149,,,5.5,79,AI-First,5.8,78,74,2.6,High,High
+EMP0065,Cloud Architect,7,Bootcamp,,E-commerce,,On-site,49,121,,,3.1,35,Integrating,6.4,67,55,3.9,Medium,Low
+EMP0066,Backend Engineer,15,Bachelor,,EdTech,,Hybrid,31,58,,,5.6,66,Integrating,4.1,61,70,1.7,Medium,Medium
+EMP0067,Data Scientist,17,PhD,,Automotive,,Hybrid,40,154,,,0.6,32,Experimenting,6.7,54,53,3.9,High,Medium
+EMP0068,Software Engineer,4,Bachelor,,Consulting,,Hybrid,22,165,,,6,29,Optimizing,4,51,42,4.3,High,Medium
+EMP0069,DevOps Engineer,13,PhD,,Consulting,,Fully Remote,16,103,,,4.2,29,Integrating,4.8,47,44,3.3,Medium,Low
+EMP0070,ML Engineer,18,Master,,EdTech,,Fully Remote,35,92,,,6.6,79,Integrating,1,56,72,2.3,Medium,Medium
+EMP0071,Backend Engineer,1,Master,,E-commerce,,Fully Remote,28,45,,,7.7,5,Integrating,0.1,70,39,3.6,High,Medium
+EMP0072,DevOps Engineer,16,Self-taught,,Consulting,,On-site,3,56,,,7.4,63,Integrating,0.6,71,60,2.6,High,High
+EMP0073,ML Engineer,13,Master,,Consulting,,Hybrid,11,85,,,7.3,73,Integrating,1.9,48,68,2.9,Medium,Medium
+EMP0074,Product Manager,10,Self-taught,,Automotive,,Fully Remote,6,239,,,4.3,78,Integrating,4.6,45,60,3.2,High,Medium
+EMP0075,Product Manager,12,Bachelor,,SaaS,,On-site,28,157,,,3.2,46,Optimizing,0.2,67,50,2.6,Low,Medium
+EMP0076,AI Ethics Officer,2,Master,,E-commerce,,Fully Remote,5,112,,,4,38,Optimizing,1.6,41,40,3.2,Medium,Medium
+EMP0077,DevOps Engineer,3,Bachelor,,E-commerce,,On-site,48,140,,,5.7,70,Optimizing,7.8,55,62,2.3,Low,Medium
+EMP0078,Product Manager,10,Bachelor,,Gaming,,On-site,14,222,,,7.1,22,Experimenting,7.6,64,51,3.4,Low,Medium
+EMP0079,ML Engineer,2,Master,,Gaming,,Fully Remote,18,130,,,2.1,9,Optimizing,7.9,48,49,3.8,Medium,Low
+EMP0080,AI Ethics Officer,13,Bachelor,,Consulting,,Fully Remote,22,45,,,7.4,24,Experimenting,9.2,42,49,2.8,Medium,Low
+EMP0081,Cloud Architect,13,Master,,Cybersecurity,,Hybrid,24,237,,,6.6,70,Experimenting,1.2,48,58,3.5,Low,Low
+EMP0082,ML Engineer,18,Master,,Gaming,,Hybrid,34,148,,,7.8,79,AI-First,1.6,78,75,2,Medium,Medium
+EMP0083,AI Ethics Officer,3,Master,,Consulting,,Hybrid,16,235,,,7.1,66,Optimizing,3.3,67,38,4.1,Medium,Low
+EMP0084,DevOps Engineer,7,PhD,,Media,,On-site,15,79,,,2.6,36,Integrating,9.2,69,43,3.4,High,Medium
+EMP0085,Backend Engineer,14,Bachelor,,Healthtech,,Hybrid,10,130,,,1.3,62,AI-First,7.8,51,47,3.2,High,Medium
+EMP0086,Data Analyst,17,Bootcamp,,Healthtech,,Fully Remote,45,105,,,1.3,54,AI-First,3.2,56,50,3.9,Medium,Low
+EMP0087,Cloud Architect,12,Master,,E-commerce,,Fully Remote,38,176,,,2.7,42,Optimizing,0.9,62,57,4,High,Medium
+EMP0088,Frontend Engineer,16,Bachelor,,Cybersecurity,,Hybrid,31,50,,,5.1,59,Optimizing,6.2,57,70,1.7,Low,High
+EMP0089,Backend Engineer,12,Self-taught,,Automotive,,Fully Remote,30,187,,,6.5,32,Optimizing,2.6,59,54,3.5,Medium,Low
+EMP0090,AI Researcher,15,Master,,SaaS,,Hybrid,24,155,,,7.2,78,Experimenting,5.3,61,55,3.3,High,Medium
+EMP0091,ML Engineer,10,Master,,Gaming,,Fully Remote,35,82,,,5.2,26,Experimenting,9.4,50,44,3.9,Medium,Low
+EMP0092,AI Researcher,7,Bootcamp,,Media,,Fully Remote,8,97,,,0.5,47,Optimizing,5.7,62,41,2.9,Medium,Low
+EMP0093,Backend Engineer,5,PhD,,Consulting,,Fully Remote,10,245,,,1.9,40,Integrating,9.2,68,48,2.9,Low,Low
+EMP0094,AI Ethics Officer,1,PhD,,Cybersecurity,,Hybrid,5,193,,,1.2,56,Experimenting,3.9,67,49,3,Low,Low
+EMP0095,Frontend Engineer,17,Master,,E-commerce,,Fully Remote,3,77,,,3.2,40,Integrating,6.3,71,42,3.7,Medium,Low
+EMP0096,Cloud Architect,3,Bachelor,,Gaming,,Hybrid,28,133,,,4.3,32,Integrating,8.9,64,38,3.4,High,Medium
+EMP0097,Cloud Architect,13,Self-taught,,Cybersecurity,,Hybrid,34,75,,,0.8,62,AI-First,5.9,40,43,3.4,Medium,Low
+EMP0098,Cloud Architect,14,Self-taught,,Gaming,,Hybrid,33,222,,,3.1,40,Optimizing,6.1,42,40,4.1,High,Low
+EMP0099,Frontend Engineer,18,Bachelor,,SaaS,,Hybrid,45,45,,,1.8,74,Integrating,7.2,55,68,3.8,High,Medium
+EMP0100,Software Engineer,4,Master,,SaaS,,Fully Remote,46,170,,,5.4,13,AI-First,8.8,63,38,4.1,Low,Low
+EMP0101,Frontend Engineer,18,Self-taught,,Automotive,,Hybrid,47,104,,,4,25,AI-First,0.9,62,45,3.9,Medium,Low
+EMP0102,Data Analyst,5,PhD,,Healthtech,,Fully Remote,38,163,,,4.2,68,Integrating,3.4,58,66,2.7,Medium,Medium
+EMP0103,Frontend Engineer,16,Bachelor,,Fintech,,Hybrid,28,231,,,3.7,65,AI-First,4,55,58,2.6,Medium,Low
+EMP0104,Backend Engineer,1,Bootcamp,,Fintech,,Fully Remote,29,225,,,7.7,44,Integrating,9.1,71,49,3.2,Low,Low
+EMP0105,Software Engineer,14,Master,,Gaming,,Hybrid,4,156,,,2.1,60,Experimenting,9.6,63,60,3,High,Medium
+EMP0106,Cloud Architect,15,Bachelor,,Automotive,,On-site,37,225,,,4.4,8,Experimenting,1.2,63,44,3,High,Medium
+EMP0107,Backend Engineer,9,Self-taught,,Fintech,,Hybrid,44,57,,,6,35,Optimizing,1.2,45,35,4.2,Medium,Low
+EMP0108,Backend Engineer,15,Master,,E-commerce,,Hybrid,9,190,,,4.7,31,Integrating,9.3,41,58,3.8,Medium,Low
+EMP0109,Prompt Engineer,17,PhD,,Fintech,,Hybrid,45,135,,,7.5,62,Optimizing,3,52,70,2.7,Low,Medium
+EMP0110,Data Scientist,4,Master,,EdTech,,Fully Remote,42,196,,,3.3,29,Optimizing,2.4,53,48,3.9,Medium,Low
+EMP0111,Software Engineer,12,Master,,Consulting,,On-site,38,190,,,4,73,Experimenting,0.4,66,72,3.2,High,High
+EMP0112,Backend Engineer,5,PhD,,Automotive,,Fully Remote,46,167,,,1.2,74,Experimenting,2.8,53,61,2.4,High,Medium
+EMP0113,Data Scientist,5,PhD,,E-commerce,,On-site,39,75,,,5.1,9,Integrating,6.9,48,51,2.4,Low,Medium
+EMP0114,Data Scientist,11,Master,,Cybersecurity,,Hybrid,23,109,,,2.7,12,Experimenting,4.3,59,47,3.2,Medium,Low
+EMP0115,Software Engineer,6,PhD,,E-commerce,,Hybrid,15,248,,,1.7,13,Optimizing,5.2,78,43,3.6,Medium,Low
+EMP0116,Prompt Engineer,7,Bachelor,,Healthtech,,Hybrid,16,249,,,4.6,19,Integrating,9.2,55,30,3.4,Low,Low
+EMP0117,AI Researcher,14,PhD,,Cybersecurity,,Hybrid,47,134,,,4.5,11,Integrating,1.1,57,28,4.8,Low,Low
+EMP0118,AI Ethics Officer,11,PhD,,Media,,Hybrid,5,173,,,1.1,76,Integrating,0.7,33,61,3.9,Medium,Low
+EMP0119,Data Analyst,13,Master,,Consulting,,Fully Remote,19,201,,,5.7,19,Optimizing,8.5,55,56,3.2,Medium,Medium
+EMP0120,AI Ethics Officer,2,Bachelor,,Consulting,,Hybrid,2,83,,,5.2,41,Optimizing,7.7,56,47,2.9,Low,Low
+EMP0121,Frontend Engineer,7,Bootcamp,,Consulting,,Hybrid,13,83,,,1.9,43,AI-First,2.6,64,37,4,Low,Low
+EMP0122,Cloud Architect,4,Bootcamp,,Consulting,,On-site,42,66,,,4,10,Optimizing,3.2,61,43,3.1,Low,Low
+EMP0123,Data Analyst,8,Self-taught,,Gaming,,Hybrid,43,139,,,5.9,61,Integrating,3.1,52,48,4,Low,Low
+EMP0124,Frontend Engineer,19,PhD,,Consulting,,Fully Remote,18,91,,,4.5,23,Experimenting,6.5,65,44,3.4,Medium,Low
+EMP0125,Backend Engineer,13,PhD,,Consulting,,Fully Remote,20,209,,,3.5,67,Optimizing,0.6,65,54,3.6,Low,Low
+EMP0126,Cloud Architect,14,Bachelor,,Consulting,,Hybrid,37,64,,,2.9,35,AI-First,4.9,39,44,4,Low,Low
+EMP0127,ML Engineer,10,Bootcamp,,Automotive,,Fully Remote,49,113,,,5.1,79,Experimenting,1.3,70,78,2.7,High,High
+EMP0128,Software Engineer,11,Self-taught,,Gaming,,Fully Remote,8,78,,,7.5,14,Integrating,8.2,69,44,4.4,Low,Low
+EMP0129,Data Analyst,2,Bachelor,,SaaS,,On-site,10,206,,,5.5,71,Experimenting,3.8,61,62,3,Medium,Medium
+EMP0130,Data Analyst,9,PhD,,E-commerce,,Hybrid,9,179,,,1.1,66,Optimizing,5.3,50,41,3.4,High,Medium
+EMP0131,Backend Engineer,17,Bootcamp,,E-commerce,,Hybrid,26,178,,,4,7,Integrating,0.3,48,47,2.4,Medium,Medium
+EMP0132,AI Researcher,3,Self-taught,,Cybersecurity,,Fully Remote,8,152,,,7.2,22,Experimenting,0.6,63,49,2.2,Medium,Medium
+EMP0133,Data Scientist,6,Master,,Automotive,,Hybrid,43,42,,,1.2,29,AI-First,6.8,42,50,3.7,Medium,Low
+EMP0134,Cloud Architect,5,Bootcamp,,EdTech,,Fully Remote,9,154,,,7.9,24,Integrating,7.7,68,33,3.8,Low,Low
+EMP0135,Backend Engineer,5,Self-taught,,E-commerce,,Hybrid,25,61,,,7.6,62,Integrating,7.1,51,63,2.5,Medium,Medium
+EMP0136,Product Manager,15,Bachelor,,Fintech,,Fully Remote,18,43,,,1.1,54,Integrating,7.4,57,49,2.8,Medium,Medium
+EMP0137,Prompt Engineer,17,Master,,EdTech,,On-site,13,175,,,7.5,14,Integrating,1,55,56,3.5,Low,Medium
+EMP0138,Data Scientist,9,Self-taught,,Consulting,,Hybrid,47,53,,,3.2,25,Integrating,6.9,57,38,3.2,Medium,Low
+EMP0139,Software Engineer,3,Self-taught,,Consulting,,Hybrid,32,53,,,6.8,33,Integrating,1.8,62,59,3.8,High,Medium
+EMP0140,Data Scientist,17,PhD,,Gaming,,Hybrid,13,55,,,3.6,14,Integrating,1,48,37,4.9,Low,Low
+EMP0141,AI Researcher,10,Bootcamp,,EdTech,,Hybrid,3,199,,,3.8,17,Optimizing,7.6,53,43,3.1,Medium,Low
+EMP0142,Data Scientist,3,PhD,,Fintech,,Fully Remote,13,103,,,5.3,51,Optimizing,8.9,70,63,3.2,Medium,Medium
+EMP0143,Software Engineer,18,Master,,Gaming,,Hybrid,28,243,,,6.3,27,Integrating,7.2,58,43,3.8,High,Medium
+EMP0144,AI Researcher,18,Self-taught,,Cybersecurity,,Fully Remote,47,55,,,0.8,54,Integrating,8.1,29,53,2.7,High,Medium
+EMP0145,AI Ethics Officer,17,PhD,,EdTech,,On-site,8,91,,,4.9,8,Optimizing,9.9,56,44,3,High,Medium
+EMP0146,Data Analyst,3,Bootcamp,,Automotive,,On-site,14,58,,,1.9,71,Experimenting,1.3,66,52,3.2,Medium,Low
+EMP0147,Data Analyst,3,Master,,Consulting,,Fully Remote,37,108,,,3.1,57,Experimenting,9.7,58,47,2.9,Low,Medium
+EMP0148,Prompt Engineer,6,Bachelor,,Consulting,,On-site,2,179,,,3.1,6,Integrating,6,78,21,4.8,Low,Low
+EMP0149,Frontend Engineer,13,PhD,,Healthtech,,Fully Remote,36,132,,,4,72,Optimizing,8.1,47,58,2.9,Medium,Low
+EMP0150,AI Ethics Officer,15,Master,,Gaming,,Fully Remote,31,44,,,3,69,Experimenting,6.5,40,54,2.6,Medium,Medium
+EMP0151,AI Ethics Officer,9,Bachelor,,SaaS,,On-site,32,81,,,1.3,61,Optimizing,5.7,51,56,3.1,High,High
+EMP0152,Cloud Architect,4,PhD,,SaaS,,Hybrid,18,56,,,1.6,74,Optimizing,7,45,59,3.3,Medium,Medium
+EMP0153,Data Scientist,14,Master,,Gaming,,Hybrid,9,150,,,0.8,11,AI-First,3.2,61,43,3.2,Medium,Low
+EMP0154,Data Analyst,5,Master,,Automotive,,Fully Remote,4,111,,,4,23,Experimenting,9.2,48,53,2.2,Medium,Medium
+EMP0155,Software Engineer,2,PhD,,Media,,Fully Remote,11,143,,,7.7,48,Optimizing,1.2,78,85,2.2,Low,Medium
+EMP0156,DevOps Engineer,11,Master,,Gaming,,On-site,35,133,,,1.4,67,Experimenting,3.2,59,57,2.5,Medium,Medium
+EMP0157,DevOps Engineer,9,Self-taught,,Automotive,,Fully Remote,23,49,,,7.6,69,Integrating,0.3,60,59,2.6,Medium,Medium
+EMP0158,AI Researcher,3,PhD,,Cybersecurity,,Fully Remote,5,55,,,6,43,Integrating,2.7,65,61,3.2,High,Medium
+EMP0159,Data Analyst,9,Master,,Consulting,,Hybrid,33,183,,,5.3,30,Integrating,2.2,61,62,2.6,Medium,Medium
+EMP0160,Data Analyst,3,Bachelor,,Fintech,,Hybrid,30,81,,,5.3,48,Optimizing,0.5,68,58,3,High,High
+EMP0161,Prompt Engineer,2,Bachelor,,Media,,Hybrid,47,42,,,6.7,16,Experimenting,4.9,51,31,4.7,Medium,Low
+EMP0162,DevOps Engineer,12,Self-taught,,EdTech,,Fully Remote,12,190,,,1.3,26,Integrating,4.7,52,44,3.4,Low,Low
+EMP0163,Data Analyst,10,PhD,,Media,,Fully Remote,47,160,,,4.3,18,Experimenting,0.8,42,38,4.7,Low,Low
+EMP0164,Prompt Engineer,9,Master,,Fintech,,Fully Remote,14,195,,,5.7,34,Optimizing,2.6,82,41,4,Low,Low
+EMP0165,Data Scientist,15,Master,,Healthtech,,On-site,5,212,,,4.9,48,Experimenting,9.5,65,55,2.7,Medium,Medium
+EMP0166,Product Manager,8,Bachelor,,Consulting,,Fully Remote,3,235,,,6.7,42,Optimizing,1.1,65,43,3.3,Low,Low
+EMP0167,Cloud Architect,5,Self-taught,,SaaS,,Hybrid,35,63,,,1,63,Optimizing,3.1,59,59,2.4,Medium,Medium
+EMP0168,ML Engineer,11,Bachelor,,Automotive,,Hybrid,44,58,,,5.7,46,Optimizing,0.4,56,61,3.3,High,Medium
+EMP0169,AI Ethics Officer,2,Bachelor,,Gaming,,On-site,23,114,,,4.5,56,Experimenting,1.5,63,55,3.8,Medium,Low
+EMP0170,Frontend Engineer,15,Self-taught,,Gaming,,On-site,6,79,,,3.3,67,Optimizing,7,58,52,3.1,High,High
+EMP0171,AI Researcher,6,PhD,,SaaS,,Fully Remote,10,85,,,3.1,65,Experimenting,3.7,58,54,2.3,Low,Medium
+EMP0172,Product Manager,8,Master,,Media,,Fully Remote,21,79,,,5.2,38,Optimizing,4.5,50,43,3.7,Medium,Low
+EMP0173,Cloud Architect,5,PhD,,Consulting,,Hybrid,22,101,,,7.2,43,Optimizing,1.6,75,56,2.7,Low,Medium
+EMP0174,Cloud Architect,16,Bootcamp,,E-commerce,,Fully Remote,18,57,,,4.2,45,Integrating,6.8,57,29,3.7,High,Medium
+EMP0175,Cloud Architect,18,Bootcamp,,Automotive,,Hybrid,13,179,,,6.7,41,Optimizing,7.5,77,56,3.3,Low,Low
+EMP0176,Cloud Architect,6,Bootcamp,,Cybersecurity,,Hybrid,29,181,,,3.5,69,Experimenting,1.8,78,58,3.7,Medium,Medium
+EMP0177,DevOps Engineer,5,Self-taught,,Fintech,,On-site,19,121,,,1.3,36,Integrating,0.4,43,50,3.7,Medium,Low
+EMP0178,Prompt Engineer,16,Bachelor,,Media,,Fully Remote,4,228,,,1,12,Integrating,0.8,61,37,4,Medium,Low
+EMP0179,AI Ethics Officer,13,PhD,,EdTech,,On-site,6,147,,,0.9,22,AI-First,6.6,42,46,3.4,High,Medium
+EMP0180,Data Analyst,5,Master,,Healthtech,,Fully Remote,15,51,,,3.4,49,AI-First,1.4,57,55,2.5,Low,Medium
+EMP0181,Cloud Architect,13,Bootcamp,,Gaming,,Hybrid,49,143,,,3,37,Optimizing,4.9,57,55,3.3,Medium,Medium
+EMP0182,Frontend Engineer,17,PhD,,Media,,Hybrid,27,194,,,5.9,9,AI-First,1.5,45,65,3.2,High,High
+EMP0183,Data Analyst,18,Bootcamp,,Healthtech,,Hybrid,20,173,,,6.1,78,Integrating,1.7,50,68,2.4,Medium,Medium
+EMP0184,Software Engineer,8,Bootcamp,,Fintech,,Hybrid,42,127,,,0.9,40,AI-First,0,57,45,3.3,Medium,Low
+EMP0185,Software Engineer,13,Master,,Gaming,,On-site,18,154,,,2.2,27,Integrating,3.2,61,51,3.9,Low,Low
+EMP0186,Frontend Engineer,19,Self-taught,,Gaming,,On-site,40,72,,,2.6,44,Optimizing,0.9,41,44,3.3,High,Medium
+EMP0187,Prompt Engineer,3,Bachelor,,E-commerce,,On-site,43,157,,,4.6,9,Optimizing,3.9,51,40,3.5,High,Medium
+EMP0188,Frontend Engineer,8,Self-taught,,Media,,Fully Remote,5,119,,,1.6,38,Experimenting,6,39,47,3.4,Medium,Low
+EMP0189,DevOps Engineer,2,PhD,,Consulting,,On-site,43,217,,,1.5,28,Integrating,3.7,51,41,4,High,Medium
+EMP0190,Frontend Engineer,8,Self-taught,,SaaS,,Hybrid,36,51,,,7.6,21,Experimenting,7.1,52,52,3.4,Medium,Low
+EMP0191,Data Scientist,13,PhD,,SaaS,,Fully Remote,25,134,,,6.5,75,AI-First,7.4,71,72,2.7,Low,Medium
+EMP0192,Data Analyst,13,PhD,,Cybersecurity,,Fully Remote,42,224,,,1.9,26,Experimenting,7,75,28,4.8,Low,Low
+EMP0193,Product Manager,1,Bachelor,,EdTech,,Fully Remote,14,92,,,3.5,19,Integrating,9.4,72,58,2.9,Medium,Medium
+EMP0194,Backend Engineer,6,Master,,Healthtech,,Fully Remote,34,52,,,3.2,19,Optimizing,2.4,66,45,3,Medium,Low
+EMP0195,Prompt Engineer,19,Bachelor,,Media,,Hybrid,16,161,,,6.4,29,Experimenting,1.9,61,48,3.9,High,Medium
+EMP0196,Frontend Engineer,16,Self-taught,,Automotive,,On-site,16,239,,,4.3,57,Integrating,6.1,56,68,2.8,Medium,Medium
+EMP0197,AI Researcher,8,PhD,,EdTech,,Hybrid,32,141,,,1.5,25,Optimizing,5.9,66,41,3.3,High,Medium
+EMP0198,Software Engineer,1,Bootcamp,,E-commerce,,Hybrid,44,170,,,6,70,Experimenting,5.1,43,64,2.7,Medium,Medium
+EMP0199,Data Scientist,16,Bootcamp,,Gaming,,On-site,29,231,,,3.5,36,Optimizing,0,80,46,2.8,Medium,Low
+EMP0200,AI Ethics Officer,9,PhD,,Consulting,,Fully Remote,11,97,,,2.5,25,Integrating,5.6,36,54,3.3,Low,Low
+EMP0201,Cloud Architect,13,Bachelor,,Media,,On-site,8,43,,,3.3,72,Experimenting,9.3,67,58,2.3,Medium,Medium
+EMP0202,Backend Engineer,11,Master,,EdTech,,Hybrid,34,212,,,4.2,48,Integrating,3.3,56,48,3.7,High,Medium
+EMP0203,Prompt Engineer,13,Bachelor,,EdTech,,Hybrid,8,105,,,3.1,70,Integrating,9.7,45,65,2.6,Low,Medium
+EMP0204,Product Manager,10,PhD,,Consulting,,Fully Remote,6,154,,,2.3,18,AI-First,3.6,59,49,2.7,High,Medium
+EMP0205,Backend Engineer,4,PhD,,Cybersecurity,,Hybrid,27,75,,,3.5,19,AI-First,1.4,54,55,3.7,High,Medium
+EMP0206,Frontend Engineer,6,Master,,Healthtech,,Fully Remote,17,62,,,0.6,24,Integrating,4,57,43,4.7,Medium,Low
+EMP0207,DevOps Engineer,7,Self-taught,,Healthtech,,Hybrid,9,58,,,6.3,38,Integrating,4.9,42,63,3.1,Low,Medium
+EMP0208,Software Engineer,5,Self-taught,,EdTech,,Fully Remote,23,79,,,1.8,40,Integrating,6.3,49,43,3.4,Low,Low
+EMP0209,Software Engineer,11,Master,,Fintech,,On-site,35,111,,,0.8,13,Integrating,5,47,43,3.1,Low,Low
+EMP0210,AI Ethics Officer,13,Self-taught,,EdTech,,Fully Remote,41,183,,,5.4,75,Integrating,5.4,52,69,2.8,Low,Medium
+EMP0211,DevOps Engineer,19,Bootcamp,,EdTech,,Fully Remote,29,97,,,6.3,34,Optimizing,0.2,47,57,3.4,Medium,Low
+EMP0212,Cloud Architect,10,Self-taught,,Consulting,,Hybrid,47,146,,,6.6,67,Integrating,2.5,60,50,3.3,Low,Low
+EMP0213,Data Analyst,10,Self-taught,,Gaming,,Fully Remote,37,57,,,4.2,39,Experimenting,3.1,47,46,3.9,Medium,Low
+EMP0214,ML Engineer,11,Self-taught,,Consulting,,Hybrid,48,75,,,2,17,Integrating,9.9,63,38,4.5,Medium,Low
+EMP0215,Data Scientist,7,Bootcamp,,Media,,On-site,8,191,,,6,50,Experimenting,3,64,61,2.3,Low,Medium
+EMP0216,Software Engineer,18,Self-taught,,EdTech,,Hybrid,41,168,,,5.7,60,Optimizing,9,54,78,2.5,Medium,Medium
+EMP0217,AI Researcher,4,Bootcamp,,Healthtech,,Fully Remote,44,40,,,2.3,13,Integrating,3,51,45,2.5,High,High
+EMP0218,Software Engineer,2,Master,,Automotive,,Hybrid,29,103,,,7.3,40,Integrating,1,48,50,2.9,Medium,Medium
+EMP0219,Backend Engineer,14,Bachelor,,Healthtech,,Hybrid,3,101,,,1.3,7,Integrating,2.5,74,30,4.4,Medium,Low
+EMP0220,Software Engineer,13,Master,,SaaS,,On-site,10,149,,,7.9,23,AI-First,2.7,62,63,2.9,High,Medium
+EMP0221,Prompt Engineer,12,Bachelor,,Cybersecurity,,Fully Remote,7,203,,,7,32,Experimenting,9.8,76,49,2.6,Medium,Medium
+EMP0222,Software Engineer,7,Master,,E-commerce,,Hybrid,2,114,,,5.7,27,AI-First,6.7,46,57,3.6,High,Medium
+EMP0223,ML Engineer,2,Bachelor,,Media,,Hybrid,4,185,,,7.5,11,Integrating,9.3,56,49,3.1,Low,Low
+EMP0224,ML Engineer,13,Bachelor,,Media,,Fully Remote,11,55,,,5.9,18,AI-First,8.3,72,45,3.9,High,Medium
+EMP0225,Cloud Architect,14,PhD,,Cybersecurity,,Fully Remote,38,56,,,1.9,50,Optimizing,5.8,53,44,3.8,Low,Low
+EMP0226,Product Manager,17,Bachelor,,Automotive,,Hybrid,45,63,,,3.8,19,Experimenting,6.8,53,18,4,High,Low
+EMP0227,Data Analyst,9,Bachelor,,E-commerce,,On-site,24,137,,,1,71,Optimizing,6.2,64,57,3.5,Low,Low
+EMP0228,AI Researcher,17,PhD,,Gaming,,On-site,34,235,,,3.4,19,Optimizing,6.7,59,34,4,High,Medium
+EMP0229,Software Engineer,8,Self-taught,,EdTech,,Hybrid,10,246,,,6.1,55,Experimenting,2.6,59,47,3.5,High,Medium
+EMP0230,Software Engineer,2,Self-taught,,E-commerce,,Fully Remote,14,169,,,3.4,12,Experimenting,4.1,69,42,3.4,Low,Low
+EMP0231,Data Scientist,13,PhD,,Automotive,,Fully Remote,29,240,,,3,73,Optimizing,5.9,54,66,2.2,High,High
+EMP0232,ML Engineer,3,Bootcamp,,Fintech,,On-site,8,177,,,5,66,Optimizing,0.4,76,46,3.3,Low,Low
+EMP0233,AI Researcher,16,Bachelor,,SaaS,,On-site,27,220,,,7,55,Optimizing,4.8,36,68,2.5,Low,High
+EMP0234,Cloud Architect,6,Bachelor,,E-commerce,,On-site,17,218,,,0.9,67,Optimizing,8.6,64,44,4,Medium,Low
+EMP0235,AI Ethics Officer,19,PhD,,E-commerce,,Hybrid,41,236,,,3.4,72,Optimizing,4.9,63,63,2.1,High,High
+EMP0236,Product Manager,7,PhD,,SaaS,,Fully Remote,27,53,,,1.7,20,Optimizing,5.5,52,44,4.3,Medium,Low
+EMP0237,Data Analyst,10,Bootcamp,,EdTech,,On-site,40,151,,,5.7,28,Integrating,2,43,48,4.2,Medium,Low
+EMP0238,DevOps Engineer,9,Self-taught,,E-commerce,,Hybrid,33,105,,,1.3,10,Integrating,7.9,55,35,3.5,Medium,Low
+EMP0239,Data Analyst,2,Master,,SaaS,,Fully Remote,37,121,,,5.5,61,AI-First,3.6,68,56,3.8,High,Medium
+EMP0240,Prompt Engineer,15,Self-taught,,SaaS,,Hybrid,43,132,,,2.6,35,Experimenting,9.6,50,47,2.9,High,Medium
+EMP0241,Backend Engineer,5,Bachelor,,SaaS,,Fully Remote,2,220,,,2,10,Integrating,9.9,59,39,4.3,Low,Low
+EMP0242,Prompt Engineer,4,PhD,,Consulting,,Fully Remote,22,231,,,7.5,33,Optimizing,9.2,79,47,3,Low,Low
+EMP0243,Software Engineer,4,Bootcamp,,Automotive,,Hybrid,14,111,,,0.6,71,Integrating,0.8,40,41,4.2,Low,Low
+EMP0244,Product Manager,18,Self-taught,,Consulting,,Hybrid,27,140,,,3.8,79,Experimenting,3.3,36,69,2,Medium,Medium
+EMP0245,Backend Engineer,4,Bootcamp,,Fintech,,On-site,46,88,,,0.7,7,Experimenting,9.5,55,35,4.4,Low,Low
+EMP0246,AI Researcher,17,Self-taught,,Gaming,,Fully Remote,10,129,,,4.1,32,Optimizing,8,55,54,3.8,Low,Low
+EMP0247,DevOps Engineer,12,Bachelor,,Consulting,,Fully Remote,38,229,,,4.3,78,AI-First,9.1,51,56,2.4,High,High
+EMP0248,ML Engineer,17,Master,,Consulting,,Fully Remote,24,76,,,2.9,52,Integrating,5.7,68,44,4.4,Low,Low
+EMP0249,Product Manager,10,Bootcamp,,Automotive,,Fully Remote,2,216,,,1.5,14,Integrating,4.8,58,29,4.5,Medium,Low
+EMP0250,Product Manager,1,Bootcamp,,Gaming,,Fully Remote,3,235,,,3.3,37,Integrating,1.1,57,46,2.5,Medium,Low
+EMP0251,Prompt Engineer,18,Master,,Cybersecurity,,Hybrid,44,200,,,5.5,71,Integrating,8.4,51,64,2.6,Low,Medium
+EMP0252,Software Engineer,18,Bootcamp,,SaaS,,Hybrid,29,189,,,6.4,73,Experimenting,7.5,61,60,3.5,Medium,Medium
+EMP0253,Frontend Engineer,14,Bootcamp,,Media,,Hybrid,37,109,,,4.5,16,Integrating,0.6,56,56,3.5,Medium,Medium
+EMP0254,Cloud Architect,15,Self-taught,,Gaming,,On-site,32,72,,,4.9,61,Integrating,2.1,83,52,3.3,High,Medium
+EMP0255,Prompt Engineer,12,Self-taught,,Fintech,,Hybrid,42,67,,,2,48,Experimenting,5.6,64,50,3.8,Low,Low
+EMP0256,Product Manager,4,Master,,EdTech,,Fully Remote,6,127,,,2.7,17,Experimenting,6.8,71,33,3.5,Medium,Low
+EMP0257,Data Scientist,3,Bachelor,,Fintech,,Fully Remote,38,43,,,1.7,28,Optimizing,1.4,65,36,3.8,High,Medium
+EMP0258,DevOps Engineer,12,Bootcamp,,SaaS,,On-site,26,105,,,2.4,48,AI-First,2.4,43,48,3,High,Medium
+EMP0259,Cloud Architect,7,Bachelor,,Gaming,,Hybrid,9,116,,,2.2,61,AI-First,1.9,58,46,3.5,High,Medium
+EMP0260,Prompt Engineer,11,Master,,Fintech,,On-site,35,149,,,4.4,20,Optimizing,2.2,56,45,4,High,Medium
+EMP0261,DevOps Engineer,1,Master,,Fintech,,On-site,40,88,,,4.7,25,Experimenting,9.2,69,50,3.7,High,Medium
+EMP0262,Data Scientist,6,Self-taught,,Cybersecurity,,On-site,33,167,,,7.6,55,Optimizing,7.2,58,70,2.8,Medium,Medium
+EMP0263,AI Ethics Officer,15,Bootcamp,,Cybersecurity,,On-site,12,178,,,2,25,Experimenting,7.4,67,32,4.4,High,Medium
+EMP0264,Data Scientist,15,PhD,,Gaming,,Hybrid,48,74,,,5.3,64,Optimizing,7.9,39,61,3.5,Medium,Low
+EMP0265,Data Scientist,19,Master,,SaaS,,Fully Remote,26,206,,,6.6,55,Optimizing,3.6,54,59,3.9,Low,Low
+EMP0266,DevOps Engineer,11,Bootcamp,,Consulting,,On-site,4,177,,,4.7,25,Optimizing,7.7,77,32,4.5,Low,Low
+EMP0267,Data Analyst,2,Bachelor,,Healthtech,,Hybrid,46,113,,,2.4,10,AI-First,9.8,48,28,4.4,Low,Low
+EMP0268,DevOps Engineer,14,Self-taught,,E-commerce,,Fully Remote,33,239,,,2.5,77,Optimizing,7,75,61,3.4,Low,Low
+EMP0269,Frontend Engineer,2,Bachelor,,Media,,Hybrid,36,108,,,0.8,69,Optimizing,4.2,64,41,3.8,Low,Low
+EMP0270,Software Engineer,4,Master,,E-commerce,,Hybrid,33,190,,,2.8,62,Integrating,7.2,43,53,3.1,Low,Low
+EMP0271,Backend Engineer,17,Master,,Automotive,,On-site,35,73,,,6.1,10,AI-First,9,67,28,4.5,High,Low
+EMP0272,Data Analyst,3,Bachelor,,Cybersecurity,,Hybrid,38,163,,,0.9,69,Experimenting,1.3,65,51,3.7,High,Medium
+EMP0273,ML Engineer,13,Master,,Gaming,,Fully Remote,6,150,,,2.1,38,AI-First,2.7,62,29,4.2,Medium,Low
+EMP0274,Backend Engineer,9,Bootcamp,,E-commerce,,On-site,46,71,,,5.8,60,Integrating,9.2,38,54,3.1,High,Medium
+EMP0275,Software Engineer,7,Master,,SaaS,,On-site,29,55,,,6.4,79,Experimenting,9.5,53,62,2.8,Low,Medium
+EMP0276,Prompt Engineer,15,Self-taught,,Media,,Hybrid,29,107,,,3.9,7,Optimizing,4.8,56,40,3.5,High,Medium
+EMP0277,Cloud Architect,11,Bootcamp,,E-commerce,,Fully Remote,9,93,,,5.7,46,Experimenting,3.7,35,53,3.9,Medium,Low
+EMP0278,Frontend Engineer,2,PhD,,Media,,Fully Remote,28,163,,,3.4,66,Optimizing,2.8,44,46,4.1,Low,Low
+EMP0279,Frontend Engineer,15,Master,,EdTech,,Hybrid,17,195,,,1.7,10,Integrating,5,46,26,4.7,Low,Low
+EMP0280,ML Engineer,14,Master,,SaaS,,Fully Remote,19,151,,,3.5,10,AI-First,9.3,49,27,3.6,Low,Low
+EMP0281,Data Analyst,11,Self-taught,,Healthtech,,Fully Remote,26,99,,,4.8,67,Optimizing,1.5,67,61,2.8,Low,Medium
+EMP0282,AI Ethics Officer,3,Self-taught,,Fintech,,Hybrid,49,117,,,7.6,24,Optimizing,4.2,67,53,3.1,Low,Medium
+EMP0283,Data Scientist,17,Bachelor,,Media,,Hybrid,2,115,,,1,25,Integrating,9.1,56,44,3.2,Low,Low
+EMP0284,Data Analyst,12,Bachelor,,SaaS,,Hybrid,9,99,,,4.3,6,Experimenting,3.5,67,36,4.7,Low,Low
+EMP0285,Cloud Architect,15,Bachelor,,Media,,Fully Remote,22,124,,,3,60,Optimizing,7.7,65,40,3.9,Low,Low
+EMP0286,AI Ethics Officer,16,Self-taught,,Media,,Hybrid,35,151,,,4.3,14,Experimenting,3.9,55,40,3.8,High,Medium
+EMP0287,Frontend Engineer,5,Bachelor,,Consulting,,Hybrid,25,119,,,0.7,74,Integrating,8,68,53,3,Low,Medium
+EMP0288,DevOps Engineer,6,Bachelor,,Consulting,,Fully Remote,38,157,,,2.8,27,Optimizing,9.8,49,34,4.3,Low,Low
+EMP0289,Cloud Architect,19,PhD,,SaaS,,Fully Remote,27,211,,,6.6,34,Integrating,3.9,50,44,4.6,Medium,Low
+EMP0290,Software Engineer,5,Bachelor,,Consulting,,Hybrid,48,41,,,4.7,41,Experimenting,8.5,46,55,3.2,High,Medium
+EMP0291,ML Engineer,3,Master,,Automotive,,On-site,15,62,,,3.9,59,Experimenting,9.9,61,56,3,Medium,Medium
+EMP0292,Software Engineer,1,Self-taught,,Healthtech,,Hybrid,30,85,,,2.6,53,Experimenting,9.8,54,60,3,High,High
+EMP0293,Cloud Architect,6,Bootcamp,,Gaming,,Fully Remote,31,112,,,2.7,38,AI-First,4.3,65,60,2.8,Low,Medium
+EMP0294,AI Researcher,15,PhD,,SaaS,,Fully Remote,4,93,,,3.4,48,Experimenting,4.9,43,39,3.7,Low,Low
+EMP0295,AI Researcher,2,Self-taught,,SaaS,,On-site,8,110,,,6.8,26,AI-First,3,45,48,3.1,Low,Medium
+EMP0296,Prompt Engineer,3,Self-taught,,Automotive,,Fully Remote,37,164,,,7.8,35,Experimenting,3.1,48,57,2.7,Medium,Low
+EMP0297,Data Analyst,17,Master,,Cybersecurity,,Hybrid,12,120,,,3.8,11,Experimenting,4.9,61,43,3.6,Medium,Low
+EMP0298,Frontend Engineer,12,Bachelor,,Cybersecurity,,Hybrid,33,48,,,3.5,25,Integrating,2,50,52,3.3,Medium,Low
+EMP0299,Frontend Engineer,18,Master,,Consulting,,Fully Remote,13,109,,,6.8,20,Experimenting,7.1,57,55,3,Low,Medium
+EMP0300,Data Scientist,15,Bachelor,,Gaming,,On-site,16,211,,,3.7,24,Optimizing,5.4,59,53,4,Medium,Low
+EMP0301,Data Scientist,12,Bachelor,,Consulting,,Hybrid,39,123,,,4.6,47,AI-First,9,73,53,3.4,Low,Low
+EMP0302,Data Scientist,16,Self-taught,,EdTech,,Hybrid,25,113,,,2.2,48,Experimenting,8.1,68,43,3.9,Medium,Low
+EMP0303,DevOps Engineer,8,Bachelor,,EdTech,,Fully Remote,2,112,,,6.1,51,Optimizing,3.2,45,73,3,Medium,Medium
+EMP0304,Backend Engineer,14,PhD,,Fintech,,Fully Remote,19,51,,,4.5,23,Integrating,5.1,41,47,3.5,Medium,Medium
+EMP0305,Product Manager,17,PhD,,EdTech,,Hybrid,47,71,,,6.6,52,Experimenting,7.5,47,56,3.2,Low,Low
+EMP0306,Backend Engineer,8,PhD,,Cybersecurity,,Hybrid,8,201,,,6.4,73,Experimenting,1.9,65,56,2.7,High,High
+EMP0307,Software Engineer,15,Self-taught,,Healthtech,,Fully Remote,43,122,,,2.1,15,AI-First,0.3,54,39,4,Medium,Low
+EMP0308,Backend Engineer,14,Master,,EdTech,,Fully Remote,42,72,,,5.9,33,Experimenting,8.5,53,59,2.9,Low,Low
+EMP0309,DevOps Engineer,18,Bootcamp,,Consulting,,Fully Remote,3,103,,,6.5,49,AI-First,1.4,56,53,2.9,High,Medium
+EMP0310,Prompt Engineer,7,Bachelor,,Media,,On-site,41,87,,,3.1,72,Integrating,8.9,67,56,3.8,Medium,Medium
+EMP0311,Software Engineer,3,Bootcamp,,SaaS,,Hybrid,32,55,,,1.8,40,Experimenting,9.1,43,47,2.8,Medium,Medium
+EMP0312,Backend Engineer,12,Master,,Healthtech,,On-site,34,217,,,0.5,52,Integrating,4.6,56,50,4.2,Low,Low
+EMP0313,DevOps Engineer,3,Master,,Healthtech,,Fully Remote,31,153,,,3.9,19,Optimizing,8.1,75,41,4.5,Medium,Low
+EMP0314,Product Manager,14,Self-taught,,Consulting,,On-site,32,190,,,3.1,48,Optimizing,3.6,76,47,3.3,Low,Low
+EMP0315,Backend Engineer,15,PhD,,SaaS,,Fully Remote,35,65,,,4.7,71,Integrating,8.6,51,56,4,Medium,Low
+EMP0316,DevOps Engineer,14,PhD,,Cybersecurity,,Hybrid,8,93,,,1.9,78,AI-First,8.2,67,48,3,Medium,Medium
+EMP0317,Data Scientist,7,Master,,Healthtech,,On-site,26,211,,,6.9,44,Experimenting,0.8,49,50,3.8,Medium,Low
+EMP0318,Frontend Engineer,17,Self-taught,,Fintech,,Fully Remote,17,76,,,2.4,18,AI-First,5.8,65,33,3.9,Low,Low
+EMP0319,Data Scientist,12,Self-taught,,Consulting,,Hybrid,23,48,,,2.2,67,Optimizing,6.4,75,42,2.7,High,Medium
+EMP0320,Frontend Engineer,4,Bachelor,,Healthtech,,Fully Remote,37,52,,,4.1,55,Optimizing,0,43,62,2.6,Low,Medium
+EMP0321,ML Engineer,9,PhD,,Gaming,,Fully Remote,28,99,,,4.2,62,Optimizing,9.8,60,59,2.9,Medium,Medium
+EMP0322,ML Engineer,6,Master,,SaaS,,Hybrid,18,145,,,2.1,19,Integrating,4.1,73,41,4,High,Medium
+EMP0323,ML Engineer,16,Bootcamp,,EdTech,,Hybrid,5,165,,,2.5,69,Optimizing,5.2,59,66,2.6,Medium,Medium
+EMP0324,Product Manager,2,PhD,,Healthtech,,Hybrid,36,119,,,1.8,59,Integrating,1.9,57,57,3,Low,Medium
+EMP0325,Data Scientist,8,Bachelor,,Consulting,,Hybrid,42,167,,,5.9,14,Integrating,6.1,58,39,4,Medium,Low
+EMP0326,Frontend Engineer,11,Self-taught,,EdTech,,Hybrid,23,169,,,6.3,46,Integrating,8.1,82,65,3.1,Low,Low
+EMP0327,DevOps Engineer,13,Master,,Fintech,,Fully Remote,48,99,,,4,15,Integrating,5.9,38,50,3.3,Medium,Medium
+EMP0328,Software Engineer,17,PhD,,EdTech,,Fully Remote,36,224,,,5.9,20,Integrating,7.9,59,38,3.6,Low,Low
+EMP0329,DevOps Engineer,8,Bootcamp,,Gaming,,On-site,45,154,,,6,77,Integrating,7.3,47,72,3.1,Medium,Medium
+EMP0330,Software Engineer,18,Bachelor,,Cybersecurity,,Fully Remote,16,82,,,1.5,23,Experimenting,2.4,56,36,3.6,Medium,Low
+EMP0331,AI Researcher,18,Bachelor,,Healthtech,,Hybrid,41,186,,,7.7,35,Integrating,4.4,56,63,2.3,Low,Medium
+EMP0332,DevOps Engineer,14,PhD,,E-commerce,,Fully Remote,45,163,,,6.7,77,AI-First,1.5,59,63,2.7,Low,Medium
+EMP0333,Backend Engineer,15,Bootcamp,,E-commerce,,Hybrid,22,178,,,2,57,Integrating,0.4,53,46,3.7,Low,Low
+EMP0334,Backend Engineer,6,Bachelor,,EdTech,,Hybrid,14,245,,,1.9,12,Optimizing,0.6,57,33,3.8,Medium,Low
+EMP0335,Data Analyst,11,Master,,Automotive,,Fully Remote,48,86,,,1.4,28,Experimenting,9.4,70,33,3.6,Medium,Low
+EMP0336,Data Scientist,13,Bachelor,,SaaS,,Fully Remote,12,102,,,1.5,12,Integrating,9.8,50,24,3.6,Medium,Low
+EMP0337,Software Engineer,1,Bootcamp,,E-commerce,,Hybrid,28,174,,,6.1,52,Experimenting,0.9,72,37,3.7,High,Medium
+EMP0338,Software Engineer,6,Self-taught,,Automotive,,Fully Remote,32,246,,,4,34,Experimenting,3.4,68,39,3.8,Low,Low
+EMP0339,Cloud Architect,9,Self-taught,,E-commerce,,Fully Remote,45,133,,,6.4,62,Optimizing,1.1,74,82,1.8,High,High
+EMP0340,Prompt Engineer,8,PhD,,Automotive,,Hybrid,33,162,,,6.1,59,Optimizing,8.3,58,63,2.8,Low,Medium
+EMP0341,Data Scientist,11,Bootcamp,,SaaS,,Fully Remote,31,70,,,5,77,Experimenting,5,59,78,1.9,Low,Medium
+EMP0342,Product Manager,19,Bachelor,,Media,,On-site,19,94,,,5.6,66,Integrating,6.2,40,58,3,Medium,Medium
+EMP0343,Data Analyst,9,Bachelor,,E-commerce,,Hybrid,17,192,,,0.6,52,AI-First,5.4,46,43,4.4,High,Medium
+EMP0344,Product Manager,17,Self-taught,,Gaming,,Fully Remote,36,239,,,2.8,8,Experimenting,7.1,53,51,3.4,Medium,Low
+EMP0345,Product Manager,12,Self-taught,,Healthtech,,Hybrid,10,69,,,5.3,41,Experimenting,3.2,63,55,2.4,Medium,Medium
+EMP0346,Product Manager,14,Master,,Automotive,,Hybrid,40,75,,,0.6,12,Optimizing,1.4,75,27,4.3,High,Medium
+EMP0347,Data Scientist,15,Self-taught,,Healthtech,,Fully Remote,38,89,,,0.7,5,Experimenting,0.2,55,37,4.4,High,Low
+EMP0348,Product Manager,16,Master,,Consulting,,Hybrid,11,181,,,6.9,74,AI-First,4.5,42,76,1.8,Low,Medium
+EMP0349,Backend Engineer,1,Bachelor,,Consulting,,Fully Remote,13,68,,,5.6,51,Optimizing,9.1,64,45,3,High,Medium
+EMP0350,Prompt Engineer,10,Master,,SaaS,,Fully Remote,9,194,,,2.5,79,Integrating,3.1,66,62,3.1,High,High
+EMP0351,Prompt Engineer,8,Master,,Automotive,,Fully Remote,4,156,,,5.7,9,Integrating,2,47,33,3.9,Medium,Low
+EMP0352,ML Engineer,18,PhD,,Fintech,,Fully Remote,20,217,,,6.4,54,Integrating,9.3,79,68,3.3,High,Medium
+EMP0353,AI Researcher,1,Self-taught,,Consulting,,Fully Remote,12,75,,,2.8,28,Experimenting,1.1,33,45,3.4,High,Medium
+EMP0354,Software Engineer,2,Master,,SaaS,,Hybrid,9,201,,,0.8,51,AI-First,0.5,72,51,3.7,Medium,Low
+EMP0355,Cloud Architect,1,Bachelor,,Consulting,,Hybrid,27,60,,,7.5,22,Optimizing,8.8,51,49,4.1,Low,Low
+EMP0356,Software Engineer,1,Bootcamp,,Consulting,,Hybrid,46,77,,,3.1,32,Experimenting,7,54,31,3.5,Medium,Low
+EMP0357,AI Researcher,9,Master,,Fintech,,Hybrid,24,114,,,1.3,9,Integrating,4.2,82,31,4.3,Low,Low
+EMP0358,Cloud Architect,13,Self-taught,,E-commerce,,On-site,11,246,,,4.2,34,Experimenting,7.5,59,56,2.9,Low,Low
+EMP0359,Data Scientist,1,PhD,,EdTech,,Hybrid,19,243,,,6.3,5,Experimenting,7.4,59,60,1.9,Medium,Medium
+EMP0360,DevOps Engineer,13,Bachelor,,Media,,Hybrid,13,217,,,2.2,50,Optimizing,0.4,54,51,3.5,Low,Low
+EMP0361,Data Scientist,7,PhD,,Consulting,,Fully Remote,40,165,,,2.5,73,Optimizing,6.8,60,51,3.6,Medium,Low
+EMP0362,Software Engineer,2,Bootcamp,,Consulting,,On-site,27,76,,,2.3,35,Integrating,6.4,53,49,2.6,High,Medium
+EMP0363,Software Engineer,6,Master,,Gaming,,Fully Remote,12,242,,,7.9,74,Experimenting,9.6,68,74,2.3,Medium,Medium
+EMP0364,Cloud Architect,7,Master,,Media,,Fully Remote,11,159,,,2,60,Optimizing,9.7,52,53,2.9,High,High
+EMP0365,Cloud Architect,14,Self-taught,,Fintech,,Hybrid,4,186,,,4.8,32,Experimenting,3.8,62,49,3.8,Low,Low
+EMP0366,AI Researcher,18,Master,,Healthtech,,Fully Remote,8,157,,,7.4,20,Optimizing,5.9,60,52,2.5,High,Medium
+EMP0367,Product Manager,15,Bachelor,,Automotive,,Fully Remote,5,40,,,1.6,58,Integrating,1.4,62,50,3.4,High,Medium
+EMP0368,Data Scientist,2,Bootcamp,,Consulting,,Hybrid,41,248,,,7.8,57,Optimizing,0.7,71,65,1.7,Low,Medium
+EMP0369,Cloud Architect,10,PhD,,EdTech,,Hybrid,9,207,,,7.6,16,AI-First,4.3,72,64,3.1,Low,Medium
+EMP0370,Frontend Engineer,12,Bootcamp,,Automotive,,Hybrid,39,94,,,7.1,24,AI-First,6.9,64,35,3.9,Low,Low
+EMP0371,AI Researcher,17,Master,,Media,,On-site,14,247,,,2.1,38,AI-First,5.7,47,43,3.3,High,Medium
+EMP0372,Backend Engineer,8,PhD,,Automotive,,Fully Remote,13,193,,,5.3,57,AI-First,4.3,52,50,4,High,Medium
+EMP0373,Software Engineer,11,Self-taught,,E-commerce,,Fully Remote,36,210,,,6.2,68,Optimizing,8.2,57,72,1.3,Low,Medium
+EMP0374,AI Researcher,3,Bootcamp,,Consulting,,Hybrid,39,98,,,7.9,27,AI-First,7.9,46,52,3.3,Medium,Medium
+EMP0375,Data Scientist,6,PhD,,Automotive,,Fully Remote,44,90,,,1.9,31,AI-First,7.3,56,47,4,Low,Low
+EMP0376,Cloud Architect,9,PhD,,Healthtech,,Hybrid,37,146,,,6.2,21,Optimizing,0.8,63,60,3.1,Medium,Low
+EMP0377,Software Engineer,6,PhD,,Healthtech,,Fully Remote,48,182,,,3,52,Experimenting,8,48,42,4.3,High,Medium
+EMP0378,DevOps Engineer,9,Bachelor,,Consulting,,Hybrid,3,47,,,1.8,25,Experimenting,9.2,42,36,3.6,Low,Low
+EMP0379,AI Researcher,7,Bootcamp,,Cybersecurity,,Hybrid,16,133,,,3.7,54,Optimizing,0.6,35,64,2.8,High,High
+EMP0380,Data Analyst,9,PhD,,Healthtech,,Hybrid,35,181,,,6.5,44,Integrating,4,60,47,4,High,Medium
+EMP0381,Software Engineer,18,Bootcamp,,Automotive,,Hybrid,40,136,,,4,7,Optimizing,9.9,63,36,4.2,High,Low
+EMP0382,Data Scientist,12,PhD,,SaaS,,Hybrid,27,46,,,4.5,21,Integrating,6,56,32,5,Low,Low
+EMP0383,ML Engineer,8,Self-taught,,Healthtech,,Fully Remote,49,57,,,8,65,Integrating,5.1,73,76,2.5,Low,Medium
+EMP0384,Frontend Engineer,8,Self-taught,,Media,,Fully Remote,6,51,,,3.5,54,Optimizing,1.8,48,48,3.5,Low,Low
+EMP0385,AI Ethics Officer,18,Self-taught,,Cybersecurity,,Fully Remote,49,41,,,5.1,10,AI-First,5.7,59,46,3.2,Medium,Low
+EMP0386,Product Manager,15,Master,,Automotive,,Hybrid,26,217,,,3.2,32,Experimenting,4.4,64,51,3.2,Medium,Medium
+EMP0387,AI Ethics Officer,7,PhD,,Fintech,,Fully Remote,35,132,,,3.4,76,AI-First,1.3,54,53,3.8,Low,Low
+EMP0388,Data Scientist,11,Master,,Gaming,,Hybrid,48,188,,,5.7,59,Optimizing,4.6,57,43,3.6,High,Medium
+EMP0389,Backend Engineer,16,Bootcamp,,Fintech,,Fully Remote,5,46,,,7.5,62,Integrating,1.6,58,61,2.6,Low,Medium
+EMP0390,Backend Engineer,4,Master,,E-commerce,,Hybrid,35,51,,,4.6,49,Integrating,7.3,56,52,3.1,Low,Low
+EMP0391,ML Engineer,6,Bootcamp,,Gaming,,On-site,28,123,,,6.3,76,Experimenting,9.7,65,64,2.8,Medium,Medium
+EMP0392,Product Manager,3,Bootcamp,,E-commerce,,Fully Remote,43,96,,,1.2,23,Experimenting,4.7,51,38,3.4,Low,Low
+EMP0393,Data Analyst,9,Bootcamp,,Gaming,,Fully Remote,30,117,,,2.1,33,Integrating,6.3,50,40,3.4,Low,Low
+EMP0394,ML Engineer,10,Master,,Gaming,,Fully Remote,6,113,,,4.3,27,Experimenting,4.3,53,42,3.1,Medium,Low
+EMP0395,Prompt Engineer,14,PhD,,SaaS,,Hybrid,19,62,,,0.7,36,Experimenting,1.4,41,44,3.3,High,Medium
+EMP0396,AI Ethics Officer,11,Master,,EdTech,,Hybrid,5,69,,,2.4,14,Optimizing,9.7,58,32,4.5,High,Low
+EMP0397,ML Engineer,18,PhD,,Media,,Fully Remote,2,150,,,4.4,53,Integrating,1.3,71,53,3.3,Medium,Low
+EMP0398,AI Ethics Officer,12,PhD,,Fintech,,Hybrid,21,97,,,0.6,69,Optimizing,1.1,52,47,4.7,Medium,Low
+EMP0399,Software Engineer,12,Bootcamp,,Healthtech,,Fully Remote,7,134,,,2.5,33,Experimenting,4.6,54,47,3.1,Medium,Low
+EMP0400,Backend Engineer,13,Master,,Automotive,,Hybrid,21,91,,,4.4,63,Optimizing,6.6,62,66,3,Low,Medium
+EMP0401,Software Engineer,13,PhD,,Cybersecurity,,Hybrid,21,95,,,4.8,49,AI-First,3.5,71,63,3,Medium,Medium
+EMP0402,Frontend Engineer,19,Self-taught,,Media,,Hybrid,47,49,,,7.4,71,Integrating,1.9,56,76,2.8,Medium,Medium
+EMP0403,Prompt Engineer,19,PhD,,E-commerce,,Fully Remote,28,186,,,5.3,55,AI-First,8.2,53,54,2.9,Medium,Medium
+EMP0404,Product Manager,14,Self-taught,,SaaS,,On-site,27,186,,,3.6,15,Optimizing,3.6,45,39,3.5,Medium,Low
+EMP0405,Data Analyst,4,Master,,E-commerce,,Hybrid,33,147,,,7.5,10,Optimizing,1.9,64,37,4,Medium,Low
+EMP0406,AI Ethics Officer,13,Master,,EdTech,,Fully Remote,11,126,,,6.4,71,Optimizing,3.7,48,61,2.7,Medium,Medium
+EMP0407,Data Analyst,8,Master,,Cybersecurity,,Fully Remote,19,226,,,2,66,Experimenting,2.1,31,51,2.4,High,Medium
+EMP0408,AI Ethics Officer,19,PhD,,SaaS,,Hybrid,42,211,,,1.5,9,Integrating,5.2,72,30,4.7,Low,Low
+EMP0409,Data Scientist,12,Bachelor,,E-commerce,,On-site,13,226,,,5.6,13,Experimenting,6.7,61,40,4.1,High,Medium
+EMP0410,ML Engineer,18,PhD,,EdTech,,On-site,11,123,,,4.7,32,Experimenting,8,64,35,3.6,Low,Low
+EMP0411,Frontend Engineer,6,PhD,,Automotive,,Hybrid,25,43,,,6.4,42,Experimenting,2.3,54,44,3.6,Low,Medium
+EMP0412,Backend Engineer,18,Bootcamp,,Automotive,,On-site,25,136,,,6,47,AI-First,1.7,58,56,3.6,Medium,Low
+EMP0413,Cloud Architect,19,Bootcamp,,E-commerce,,Fully Remote,39,151,,,5.2,25,Experimenting,0.2,51,48,4.1,Medium,Low
+EMP0414,AI Ethics Officer,5,PhD,,Media,,Fully Remote,47,232,,,7.9,66,AI-First,2.3,54,69,2.8,High,High
+EMP0415,Data Analyst,9,Self-taught,,Cybersecurity,,On-site,26,180,,,4.5,50,Integrating,0.2,71,51,3,Medium,Medium
+EMP0416,Frontend Engineer,3,Bootcamp,,Consulting,,Hybrid,9,106,,,1.3,74,Experimenting,3.5,62,54,3.9,Medium,Low
+EMP0417,DevOps Engineer,10,PhD,,Media,,Hybrid,15,179,,,6.7,42,Integrating,1.5,45,66,2.8,Low,Medium
+EMP0418,DevOps Engineer,19,Bachelor,,Automotive,,Hybrid,44,132,,,2.4,53,Experimenting,5.8,48,50,3.3,Low,Low
+EMP0419,Software Engineer,3,Self-taught,,Cybersecurity,,On-site,32,222,,,6.3,79,AI-First,3.8,67,61,3.1,Medium,Medium
+EMP0420,Backend Engineer,15,Master,,EdTech,,Hybrid,25,228,,,7.7,43,Optimizing,0.9,74,48,4,Medium,Low
+EMP0421,Cloud Architect,1,PhD,,SaaS,,On-site,17,134,,,5.7,75,Experimenting,4,54,70,2.6,Medium,Medium
+EMP0422,Data Scientist,7,PhD,,Gaming,,Hybrid,21,80,,,5,34,AI-First,2.1,66,36,4.3,Medium,Low
+EMP0423,Data Analyst,12,Self-taught,,E-commerce,,Fully Remote,39,203,,,4,25,Optimizing,6.8,52,38,3.6,High,Medium
+EMP0424,Cloud Architect,17,Bootcamp,,Fintech,,On-site,48,41,,,3.2,5,Experimenting,3.6,65,41,3.9,Medium,Low
+EMP0425,ML Engineer,5,Bootcamp,,Cybersecurity,,Fully Remote,16,61,,,3.1,36,Optimizing,1.5,64,31,3.5,High,Medium
+EMP0426,ML Engineer,4,Bootcamp,,Healthtech,,On-site,15,189,,,5.3,12,Optimizing,3.5,54,39,4.2,Low,Low
+EMP0427,Data Analyst,12,Master,,EdTech,,Hybrid,13,80,,,6.1,73,Experimenting,2.2,51,65,2.5,Low,Medium
+EMP0428,Product Manager,18,Self-taught,,Consulting,,Hybrid,35,134,,,5.6,34,Optimizing,8,57,48,3.6,Low,Low
+EMP0429,Data Scientist,17,Self-taught,,Gaming,,Hybrid,9,155,,,2,12,Experimenting,9.8,50,29,3.3,Low,Low
+EMP0430,Frontend Engineer,19,Bootcamp,,Healthtech,,Fully Remote,20,159,,,4.2,23,Integrating,0.3,57,40,3.7,Medium,Low
+EMP0431,AI Ethics Officer,9,Bootcamp,,Consulting,,Fully Remote,47,53,,,6.4,63,Experimenting,6.9,44,68,2.8,Medium,Medium
+EMP0432,Product Manager,4,Bachelor,,Fintech,,On-site,6,132,,,4.1,59,AI-First,2.6,44,70,2.3,Medium,Medium
+EMP0433,AI Ethics Officer,2,Bachelor,,Automotive,,On-site,28,74,,,4.5,34,Optimizing,0.7,54,50,3.3,Medium,Low
+EMP0434,AI Ethics Officer,4,PhD,,Media,,Fully Remote,42,217,,,6.3,40,Experimenting,0.1,63,38,3.9,High,Medium
+EMP0435,Product Manager,2,PhD,,E-commerce,,On-site,14,48,,,5.5,59,Integrating,8.8,65,63,3.2,High,High
+EMP0436,Software Engineer,15,Self-taught,,SaaS,,On-site,33,157,,,3.6,48,Experimenting,3.5,55,48,3.5,Low,Low
+EMP0437,DevOps Engineer,2,Self-taught,,Consulting,,Hybrid,32,135,,,7.2,31,Optimizing,9.9,50,44,4.2,Low,Low
+EMP0438,AI Ethics Officer,4,Master,,Gaming,,Fully Remote,42,98,,,1.7,58,Experimenting,4.4,68,44,4.1,Low,Low
+EMP0439,Product Manager,6,Master,,Cybersecurity,,On-site,47,95,,,8,52,Optimizing,1.9,65,55,3.2,Low,Low
+EMP0440,Product Manager,7,Bachelor,,Automotive,,Hybrid,38,49,,,1.4,34,AI-First,7.8,54,31,3.3,Medium,Low
+EMP0441,Prompt Engineer,10,PhD,,Cybersecurity,,On-site,3,64,,,0.6,43,Optimizing,9.3,47,43,3.3,Medium,Low
+EMP0442,Cloud Architect,19,Bachelor,,Gaming,,On-site,8,212,,,7.2,17,Experimenting,8.2,55,64,1.8,Low,Medium
+EMP0443,AI Researcher,19,Bachelor,,Cybersecurity,,On-site,49,50,,,2.3,20,Integrating,7.5,47,31,3.9,Medium,Low
+EMP0444,Software Engineer,12,PhD,,Consulting,,Hybrid,12,140,,,6,48,Integrating,3.3,81,70,3.4,Medium,Medium
+EMP0445,Backend Engineer,3,Master,,EdTech,,Fully Remote,12,48,,,6.6,75,Optimizing,0.6,53,67,3.2,Low,Medium
+EMP0446,AI Researcher,13,PhD,,Cybersecurity,,Fully Remote,24,174,,,6.9,31,Optimizing,2,58,52,3.3,Medium,Medium
+EMP0447,Cloud Architect,18,Bootcamp,,Media,,Fully Remote,32,110,,,7.9,49,Integrating,4.5,67,57,2.7,High,High
+EMP0448,Cloud Architect,8,Bootcamp,,Fintech,,Fully Remote,45,201,,,2.7,39,Integrating,9.6,73,40,3.7,Medium,Low
+EMP0449,Cloud Architect,15,Bootcamp,,SaaS,,Hybrid,46,122,,,5.8,32,AI-First,7.2,60,53,4.3,Low,Low
+EMP0450,AI Researcher,1,Self-taught,,Consulting,,Hybrid,9,59,,,1.4,11,Experimenting,8.3,48,40,4.4,Low,Low
+EMP0451,Data Analyst,3,Master,,Healthtech,,On-site,33,153,,,3.6,66,Integrating,2.8,54,37,3.7,Low,Low
+EMP0452,DevOps Engineer,8,Master,,Gaming,,Fully Remote,49,128,,,6.9,55,Optimizing,6.8,55,80,1.6,Low,High
+EMP0453,Product Manager,4,Self-taught,,Automotive,,Hybrid,22,44,,,3.3,50,Experimenting,8.6,55,37,4.9,High,Low
+EMP0454,DevOps Engineer,16,Bachelor,,Consulting,,Fully Remote,32,151,,,4.9,24,Optimizing,4.8,50,42,3.2,Low,Low
+EMP0455,Data Scientist,10,Bootcamp,,EdTech,,Fully Remote,2,94,,,4.3,42,Optimizing,4.3,52,30,4.3,Low,Low
+EMP0456,Data Analyst,12,Bootcamp,,Automotive,,Fully Remote,14,128,,,5.3,65,Optimizing,7.2,50,57,2.3,Low,Medium
+EMP0457,Backend Engineer,14,Bachelor,,Media,,Hybrid,12,54,,,7.8,36,Experimenting,5.6,72,52,3.1,High,Medium
+EMP0458,DevOps Engineer,14,PhD,,Gaming,,Fully Remote,30,215,,,0.9,30,Experimenting,9.9,67,36,3,Low,Low
+EMP0459,ML Engineer,2,PhD,,Automotive,,Hybrid,5,43,,,4.8,62,Integrating,4.3,74,60,2.4,Low,Medium
+EMP0460,Cloud Architect,5,Master,,Cybersecurity,,Fully Remote,37,117,,,7,43,Experimenting,1.8,62,54,2.7,Medium,Medium
+EMP0461,AI Ethics Officer,5,Self-taught,,Consulting,,On-site,16,159,,,4.1,24,AI-First,4.7,69,49,3.6,Medium,Low
+EMP0462,Data Scientist,6,Master,,Fintech,,On-site,4,152,,,1.1,54,Optimizing,2.4,63,38,3.7,Low,Low
+EMP0463,Software Engineer,13,PhD,,Gaming,,On-site,30,248,,,4.7,56,Integrating,5.6,67,56,4.5,Low,Low
+EMP0464,Backend Engineer,9,Bachelor,,E-commerce,,On-site,22,60,,,3,26,AI-First,1.3,38,38,4.3,High,Medium
+EMP0465,Data Scientist,15,Master,,Media,,On-site,3,247,,,1.7,57,Optimizing,9.5,46,47,4,High,Medium
+EMP0466,Cloud Architect,14,Bootcamp,,SaaS,,On-site,7,176,,,6.9,70,Integrating,8.6,64,66,3.1,Low,Medium
+EMP0467,AI Ethics Officer,7,Bootcamp,,Gaming,,Hybrid,32,105,,,4.4,47,Integrating,1.6,64,48,3.5,Low,Low
+EMP0468,Data Analyst,2,Bachelor,,EdTech,,Fully Remote,25,146,,,7.5,27,Experimenting,1.7,59,52,3.9,Low,Low
+EMP0469,AI Ethics Officer,7,PhD,,Consulting,,Fully Remote,41,246,,,6.5,68,AI-First,5.1,58,54,2,High,Medium
+EMP0470,AI Researcher,6,Bootcamp,,Cybersecurity,,Fully Remote,18,202,,,5.7,13,Integrating,7.7,60,54,2.9,Medium,Medium
+EMP0471,AI Ethics Officer,17,Bootcamp,,SaaS,,Hybrid,6,151,,,0.5,11,AI-First,2.2,72,40,3,High,Medium
+EMP0472,AI Researcher,2,Self-taught,,SaaS,,Hybrid,3,156,,,3.7,45,Integrating,0.6,66,51,2.4,Medium,Medium
+EMP0473,Data Analyst,3,Master,,Media,,On-site,13,218,,,2,58,AI-First,5.5,68,49,3,High,Medium
+EMP0474,Frontend Engineer,5,PhD,,Automotive,,On-site,6,167,,,7.3,69,Experimenting,6.9,66,64,2.3,High,High
+EMP0475,Cloud Architect,5,Master,,EdTech,,Hybrid,43,141,,,1.8,6,AI-First,2.4,61,43,4.2,High,Low
+EMP0476,AI Researcher,1,PhD,,Automotive,,Hybrid,42,117,,,2.6,8,AI-First,7.4,72,42,3.6,Medium,Low
+EMP0477,Software Engineer,8,Bootcamp,,Cybersecurity,,On-site,21,76,,,4.4,36,Integrating,9.5,75,58,2.1,Low,Medium
+EMP0478,AI Ethics Officer,12,Self-taught,,SaaS,,Fully Remote,9,45,,,2.5,6,Optimizing,1.4,45,34,4,Medium,Low
+EMP0479,AI Ethics Officer,4,Master,,EdTech,,Hybrid,2,121,,,2.1,68,Optimizing,5.1,61,58,2.6,Medium,Medium
+EMP0480,Software Engineer,13,Bootcamp,,EdTech,,Fully Remote,7,125,,,5,18,AI-First,0.6,39,54,3.2,Medium,Low
+EMP0481,ML Engineer,15,PhD,,Healthtech,,Hybrid,12,121,,,1.2,24,Integrating,2.1,37,32,4.1,Low,Low
+EMP0482,Product Manager,11,Master,,Consulting,,Fully Remote,4,90,,,0.9,53,Integrating,0.9,53,39,3.3,Medium,Low
+EMP0483,Frontend Engineer,10,Master,,SaaS,,On-site,32,105,,,3.3,12,AI-First,4,55,42,3.7,Medium,Low
+EMP0484,Backend Engineer,3,Bootcamp,,SaaS,,Hybrid,29,135,,,5.9,67,Optimizing,8.2,49,52,3.5,Medium,Medium
+EMP0485,AI Researcher,14,Master,,EdTech,,Fully Remote,48,184,,,4.7,50,Integrating,5.8,55,39,3.6,Low,Low
+EMP0486,Software Engineer,16,Self-taught,,Automotive,,Fully Remote,44,104,,,3.7,25,Optimizing,2.2,66,54,2.8,Medium,Medium
+EMP0487,Data Analyst,10,Self-taught,,SaaS,,Hybrid,6,48,,,4.7,36,Experimenting,0.4,71,60,3,Low,Medium
+EMP0488,AI Researcher,10,Bootcamp,,EdTech,,On-site,27,180,,,3.2,12,Optimizing,5.5,64,30,3.9,High,Medium
+EMP0489,Product Manager,12,PhD,,SaaS,,Hybrid,17,140,,,7.5,20,Experimenting,1.3,45,39,3.9,Medium,Low
+EMP0490,Data Analyst,9,Bootcamp,,EdTech,,Hybrid,32,225,,,0.9,44,Integrating,3.4,52,39,3.6,Low,Low
+EMP0491,Data Scientist,1,Self-taught,,Healthtech,,Fully Remote,29,197,,,5.6,31,Integrating,5.1,68,60,2.4,Low,Medium
+EMP0492,Cloud Architect,5,Bachelor,,Consulting,,Hybrid,8,70,,,7.2,22,Integrating,9,49,47,3.3,Medium,Low
+EMP0493,AI Ethics Officer,8,Bachelor,,EdTech,,Hybrid,39,190,,,6.5,39,Integrating,0.8,51,55,3.3,Low,Low
+EMP0494,Data Scientist,11,Master,,SaaS,,Hybrid,10,102,,,1.9,56,Integrating,6.7,58,53,3.3,High,Medium
+EMP0495,AI Researcher,12,Master,,Cybersecurity,,Fully Remote,40,195,,,2.7,19,Integrating,0.1,61,42,3.5,Medium,Low
+EMP0496,Product Manager,1,Bachelor,,Consulting,,Hybrid,36,98,,,5.9,67,Experimenting,6.3,59,73,2.3,Low,Medium
+EMP0497,Frontend Engineer,11,Self-taught,,Healthtech,,Hybrid,44,49,,,1.1,57,Optimizing,5.5,69,43,3.3,Medium,Medium
+EMP0498,Cloud Architect,5,Master,,EdTech,,On-site,28,128,,,6.6,70,Integrating,8.1,72,63,2.7,Low,Medium
+EMP0499,AI Researcher,15,Bootcamp,,Cybersecurity,,On-site,13,163,,,5.9,35,Integrating,5.3,79,54,3.7,High,Medium
+EMP0500,Software Engineer,5,Bootcamp,,EdTech,,Hybrid,26,139,,,6,65,Optimizing,3.5,53,61,2.5,Low,Medium
+EMP0501,DevOps Engineer,12,Self-taught,,Automotive,,Hybrid,44,129,,,1.3,68,AI-First,2.4,56,43,3.6,High,Medium
+EMP0502,AI Researcher,5,Master,,SaaS,,Fully Remote,30,65,,,5.9,38,Optimizing,0.9,54,41,3,Medium,Low
+EMP0503,Cloud Architect,17,Bootcamp,,Gaming,,On-site,32,116,,,5.6,59,Experimenting,5.3,61,46,3.8,High,Medium
+EMP0504,AI Ethics Officer,17,Master,,Media,,Hybrid,35,56,,,6.7,63,Optimizing,8.9,48,68,2.5,Low,Medium
+EMP0505,AI Ethics Officer,12,Master,,Fintech,,Fully Remote,34,207,,,0.8,7,AI-First,5.1,49,27,3.7,Low,Low
+EMP0506,AI Researcher,15,Bootcamp,,Automotive,,Fully Remote,28,107,,,0.7,21,Integrating,7.4,63,41,3.7,Medium,Low
+EMP0507,Data Analyst,15,Bachelor,,Cybersecurity,,On-site,3,62,,,3.3,50,AI-First,3,47,52,2,Medium,Medium
+EMP0508,DevOps Engineer,6,Bootcamp,,Automotive,,Fully Remote,15,202,,,1.6,42,Integrating,4.5,71,38,3.1,Low,Low
+EMP0509,Software Engineer,12,Self-taught,,E-commerce,,Hybrid,14,242,,,4.7,39,Integrating,3.2,46,43,3.7,Medium,Low
+EMP0510,AI Researcher,18,PhD,,EdTech,,Hybrid,25,243,,,7.4,5,Integrating,1.1,43,47,3.9,Low,Low
+EMP0511,Data Analyst,14,Bootcamp,,EdTech,,Fully Remote,6,48,,,3.4,33,Optimizing,4.2,47,47,3.7,Medium,Low
+EMP0512,AI Ethics Officer,2,Master,,Fintech,,Fully Remote,35,246,,,6.8,8,Experimenting,7.6,36,49,3.4,Low,Low
+EMP0513,AI Ethics Officer,9,Master,,Fintech,,On-site,24,84,,,0.5,65,Experimenting,3.9,74,46,4.7,Low,Low
+EMP0514,Product Manager,5,Bootcamp,,E-commerce,,On-site,20,204,,,1.8,21,Experimenting,6.5,56,33,4.1,Low,Low
+EMP0515,AI Researcher,1,PhD,,SaaS,,Fully Remote,31,236,,,0.7,32,Integrating,7.6,53,41,3.1,Medium,Low
+EMP0516,DevOps Engineer,3,Bootcamp,,Media,,On-site,44,186,,,3,54,Integrating,3.2,68,63,3.4,Low,Low
+EMP0517,ML Engineer,6,PhD,,Gaming,,Hybrid,17,114,,,7.3,12,Integrating,8,66,33,3.6,High,Medium
+EMP0518,DevOps Engineer,5,PhD,,Gaming,,Hybrid,41,240,,,1.2,38,Integrating,3.4,66,37,3.4,Low,Low
+EMP0519,AI Ethics Officer,5,Self-taught,,Healthtech,,Hybrid,35,66,,,5,63,AI-First,2.6,55,63,2.2,High,High
+EMP0520,AI Ethics Officer,1,Master,,Healthtech,,On-site,12,180,,,3.9,22,Integrating,2.2,54,46,3.3,Medium,Low
+EMP0521,Data Scientist,17,Master,,SaaS,,Hybrid,15,224,,,7.5,63,Integrating,2,66,68,2.1,Medium,Medium
+EMP0522,AI Ethics Officer,19,PhD,,Healthtech,,Fully Remote,49,227,,,1.4,31,Experimenting,7.4,76,38,4,Low,Low
+EMP0523,Software Engineer,14,Master,,Healthtech,,On-site,48,179,,,2.1,20,Integrating,8.9,59,27,4,Medium,Low
+EMP0524,Backend Engineer,12,Bachelor,,E-commerce,,Hybrid,16,48,,,0.7,14,Experimenting,2.3,55,48,2.7,Medium,Medium
+EMP0525,AI Researcher,10,PhD,,E-commerce,,Fully Remote,36,131,,,3.8,26,Integrating,0.9,63,54,3.2,Medium,Medium
+EMP0526,DevOps Engineer,18,Master,,Healthtech,,Hybrid,8,116,,,2.6,20,Optimizing,3.1,62,41,4.1,Low,Low
+EMP0527,Backend Engineer,11,Bachelor,,Automotive,,Hybrid,30,123,,,7,16,Experimenting,6.6,41,42,4.4,High,Medium
+EMP0528,Data Analyst,2,Self-taught,,Consulting,,On-site,45,116,,,5,79,Integrating,3.7,50,59,2.1,High,Medium
+EMP0529,ML Engineer,18,Master,,Consulting,,Hybrid,23,194,,,5.1,55,Experimenting,5.5,77,58,2.7,Medium,Medium
+EMP0530,Software Engineer,7,Bachelor,,SaaS,,Fully Remote,24,230,,,4.5,5,Optimizing,7.4,46,38,3.1,Medium,Medium
+EMP0531,Cloud Architect,15,Bootcamp,,Gaming,,Hybrid,25,68,,,1.2,31,Optimizing,4.1,55,41,3.8,Medium,Low
+EMP0532,Prompt Engineer,11,Bootcamp,,Fintech,,Hybrid,36,189,,,3.8,71,Experimenting,10,42,71,1.9,Low,Medium
+EMP0533,DevOps Engineer,18,Bachelor,,SaaS,,Fully Remote,11,112,,,8,16,Integrating,3,51,58,3.6,Low,Low
+EMP0534,Backend Engineer,12,PhD,,Healthtech,,Hybrid,9,127,,,6.8,34,AI-First,9.8,51,44,4.1,Medium,Low
+EMP0535,Cloud Architect,6,PhD,,E-commerce,,On-site,49,145,,,7.2,13,Integrating,2,62,48,3.8,High,Medium
+EMP0536,ML Engineer,13,Master,,EdTech,,Fully Remote,49,186,,,6.7,57,Integrating,1.1,69,56,2.8,Low,Medium
+EMP0537,Data Scientist,16,Bootcamp,,Automotive,,Hybrid,13,77,,,1.3,65,Integrating,7.5,64,54,2.9,Medium,Medium
+EMP0538,Cloud Architect,18,PhD,,Cybersecurity,,Fully Remote,30,134,,,2.2,58,Integrating,7,55,51,3.1,High,Medium
+EMP0539,Software Engineer,10,PhD,,E-commerce,,Fully Remote,30,78,,,0.5,41,AI-First,8.1,69,67,3.3,Low,Low
+EMP0540,Software Engineer,8,Bootcamp,,Consulting,,Fully Remote,24,182,,,2.8,69,AI-First,3.4,43,59,2.2,Low,Medium
+EMP0541,Data Scientist,18,Self-taught,,E-commerce,,Fully Remote,27,93,,,1.3,46,Optimizing,9.3,66,45,3.7,High,Medium
+EMP0542,Prompt Engineer,1,PhD,,Automotive,,On-site,38,199,,,4,53,Integrating,1.2,53,68,2.3,Low,Medium
+EMP0543,AI Researcher,8,Bachelor,,Fintech,,Fully Remote,33,149,,,5.6,8,Integrating,0.3,63,45,3.3,Low,Low
+EMP0544,Cloud Architect,6,Master,,Healthtech,,Hybrid,39,151,,,7.1,68,Integrating,3,65,52,3.6,Medium,Low
+EMP0545,Data Scientist,5,PhD,,EdTech,,Fully Remote,7,213,,,6.1,55,AI-First,8,43,57,2.3,Medium,Low
+EMP0546,Software Engineer,15,PhD,,Consulting,,On-site,9,228,,,7.5,76,Optimizing,6.7,63,72,2.5,High,Medium
+EMP0547,Software Engineer,15,Self-taught,,Consulting,,Hybrid,18,91,,,0.9,64,Integrating,4.4,62,54,3.1,Medium,Medium
+EMP0548,Backend Engineer,2,Bachelor,,Media,,Hybrid,13,201,,,0.6,35,Experimenting,2.6,66,49,3.3,Medium,Low
+EMP0549,AI Ethics Officer,1,Master,,Gaming,,Fully Remote,23,240,,,5.5,76,Integrating,0.6,79,65,2.8,Medium,Medium
+EMP0550,Prompt Engineer,11,PhD,,Fintech,,Hybrid,15,74,,,2.7,62,AI-First,3.4,42,54,3.5,High,Medium
+EMP0551,Cloud Architect,10,Master,,Consulting,,Fully Remote,35,237,,,2.4,8,Integrating,4.6,74,25,3.9,Low,Low
+EMP0552,Cloud Architect,18,Bootcamp,,Gaming,,On-site,20,76,,,3,26,Experimenting,6.9,53,56,3.3,Low,Medium
+EMP0553,ML Engineer,18,PhD,,Consulting,,Hybrid,7,117,,,2.5,7,Experimenting,6.5,49,34,4,High,Medium
+EMP0554,Data Scientist,17,PhD,,Healthtech,,Hybrid,19,100,,,4.3,51,Integrating,9.5,65,46,3.6,High,Medium
+EMP0555,ML Engineer,8,Bootcamp,,Gaming,,Hybrid,37,150,,,3.8,42,AI-First,1,46,71,2.9,Low,Medium
+EMP0556,Data Scientist,15,Self-taught,,Automotive,,Fully Remote,38,153,,,4.3,37,AI-First,3.4,39,63,3,Low,Medium
+EMP0557,Data Analyst,8,PhD,,Media,,Hybrid,39,216,,,5.5,52,AI-First,4.8,36,53,3.2,Medium,Low
+EMP0558,Software Engineer,17,Master,,Healthtech,,Hybrid,16,48,,,3.4,69,Optimizing,6.7,63,42,3,Low,Low
+EMP0559,AI Ethics Officer,12,Bachelor,,Automotive,,Hybrid,39,58,,,2.4,30,Integrating,5,57,38,4.4,Medium,Low
+EMP0560,Backend Engineer,8,Master,,EdTech,,Hybrid,41,160,,,1.7,12,Integrating,9.1,51,49,4.2,Low,Low
+EMP0561,AI Ethics Officer,14,Self-taught,,Fintech,,Fully Remote,10,144,,,3.1,54,Integrating,6.1,71,53,3.1,Low,Medium
+EMP0562,AI Ethics Officer,4,Bachelor,,Fintech,,Fully Remote,7,195,,,6.1,42,Optimizing,0.4,47,44,3.8,Medium,Low
+EMP0563,AI Ethics Officer,1,Master,,Cybersecurity,,On-site,3,119,,,6.2,14,Integrating,1.1,66,52,3,High,High
+EMP0564,ML Engineer,1,Master,,Cybersecurity,,Hybrid,17,65,,,5.5,46,Optimizing,7.5,63,53,2.9,Medium,Medium
+EMP0565,Data Scientist,19,Bootcamp,,Gaming,,Hybrid,2,205,,,2.3,41,Experimenting,7.2,45,41,3.7,Medium,Low
+EMP0566,Frontend Engineer,16,Self-taught,,Fintech,,On-site,31,79,,,4.9,30,Integrating,1.5,58,44,4.9,High,Low
+EMP0567,Data Analyst,14,Bootcamp,,Gaming,,Fully Remote,49,64,,,4.8,16,Optimizing,0.6,41,54,4,Medium,Low
+EMP0568,DevOps Engineer,16,Bachelor,,Cybersecurity,,On-site,34,138,,,4.1,53,AI-First,5.8,62,58,3.8,Medium,Low
+EMP0569,AI Ethics Officer,5,Bootcamp,,EdTech,,On-site,2,157,,,4.6,18,Integrating,6.4,52,32,4.2,Medium,Low
+EMP0570,AI Researcher,9,Self-taught,,Consulting,,On-site,40,108,,,4.2,50,Experimenting,1.4,67,56,2.7,Low,Medium
+EMP0571,ML Engineer,2,PhD,,Automotive,,On-site,17,110,,,4.7,39,AI-First,4.7,68,51,3.8,Medium,Medium
+EMP0572,Prompt Engineer,18,PhD,,E-commerce,,Fully Remote,18,190,,,5.9,33,Optimizing,3.1,65,48,2,Medium,Medium
+EMP0573,Backend Engineer,6,Bachelor,,Gaming,,Fully Remote,49,128,,,1.3,16,Integrating,9.3,37,34,4.1,Low,Low
+EMP0574,DevOps Engineer,9,PhD,,EdTech,,Hybrid,49,104,,,6.1,48,Integrating,2.2,61,49,3.9,Low,Low
+EMP0575,Frontend Engineer,1,Bootcamp,,Automotive,,Fully Remote,39,189,,,1.5,70,Integrating,7.3,58,48,3.5,Low,Low
+EMP0576,AI Researcher,9,Bachelor,,Fintech,,Fully Remote,19,103,,,1,6,Integrating,5.2,43,36,4.6,Medium,Low
+EMP0577,Frontend Engineer,16,Self-taught,,Consulting,,Hybrid,23,235,,,7.8,63,AI-First,0.1,65,62,2.2,Low,Medium
+EMP0578,DevOps Engineer,13,Bachelor,,Automotive,,Fully Remote,23,97,,,7.7,21,Experimenting,5.2,67,56,3.9,Low,Low
+EMP0579,AI Ethics Officer,9,Bachelor,,Media,,On-site,36,195,,,1,14,Experimenting,1,56,29,4,High,Medium
+EMP0580,AI Researcher,13,Master,,Cybersecurity,,On-site,32,151,,,3.8,22,Experimenting,6.6,54,49,4.1,Medium,Low
+EMP0581,Frontend Engineer,9,Master,,Automotive,,On-site,41,162,,,1.9,26,Integrating,5.7,58,52,3.8,Low,Low
+EMP0582,Backend Engineer,11,Bachelor,,E-commerce,,Hybrid,28,245,,,4.1,62,Experimenting,0.1,62,56,3.9,Medium,Low
+EMP0583,Data Scientist,4,PhD,,EdTech,,On-site,37,136,,,6.7,57,Experimenting,2,63,64,3.4,Low,Low
+EMP0584,Software Engineer,2,Master,,Consulting,,On-site,5,235,,,7.6,5,Experimenting,7.8,42,51,3.6,Medium,Low
+EMP0585,Data Scientist,6,Self-taught,,Healthtech,,Hybrid,6,145,,,5.3,65,Experimenting,2.8,78,56,3.8,Medium,Low
+EMP0586,DevOps Engineer,14,Bootcamp,,Automotive,,Fully Remote,26,242,,,3.2,35,Integrating,5,57,51,3.3,Medium,Low
+EMP0587,ML Engineer,4,Master,,SaaS,,On-site,32,43,,,5,35,Experimenting,3.1,28,32,4.2,Medium,Low
+EMP0588,Software Engineer,6,Bachelor,,E-commerce,,On-site,15,168,,,2.8,70,Optimizing,9.2,49,35,3.8,Low,Low
+EMP0589,Data Analyst,19,PhD,,E-commerce,,Hybrid,31,65,,,7.3,23,Integrating,5.4,64,48,3.1,Medium,Low
+EMP0590,Backend Engineer,6,Bootcamp,,SaaS,,Fully Remote,48,72,,,7,57,Experimenting,7,59,66,3.1,Low,Medium
+EMP0591,Data Analyst,2,Master,,Media,,Hybrid,13,248,,,4.7,78,Integrating,0.8,45,62,3,Low,Medium
+EMP0592,AI Researcher,18,PhD,,Healthtech,,Fully Remote,28,66,,,2.9,26,AI-First,0.4,47,49,4,High,Medium
+EMP0593,Cloud Architect,13,PhD,,Cybersecurity,,On-site,46,81,,,2.7,27,AI-First,2.6,51,33,3.8,Medium,Low
+EMP0594,Software Engineer,9,PhD,,EdTech,,On-site,25,236,,,0.8,19,Experimenting,3.1,50,44,3.2,High,Medium
+EMP0595,Data Analyst,19,Bachelor,,Consulting,,Fully Remote,31,110,,,6.6,30,Optimizing,6.9,59,65,3.5,Low,Medium
+EMP0596,Data Analyst,13,Self-taught,,EdTech,,Hybrid,19,103,,,3.9,7,Integrating,5.7,64,34,3.9,Medium,Low
+EMP0597,Frontend Engineer,11,PhD,,Healthtech,,Fully Remote,15,64,,,2.9,24,Experimenting,3.7,65,49,3,Low,Low
+EMP0598,Data Scientist,1,Bootcamp,,EdTech,,Hybrid,20,111,,,4,44,Integrating,6.5,57,51,4,Medium,Low
+EMP0599,Frontend Engineer,7,Master,,SaaS,,Fully Remote,23,144,,,6.6,43,Integrating,1.6,75,59,3.5,Low,Low
+EMP0600,Software Engineer,15,Bootcamp,,E-commerce,,Hybrid,27,171,,,1.4,76,Integrating,0.6,68,68,3.7,Low,Medium
+EMP0601,Software Engineer,1,Bachelor,,EdTech,,Fully Remote,8,51,,,6.9,22,Optimizing,8.5,67,53,3.1,Low,Medium
+EMP0602,DevOps Engineer,12,Bachelor,,Gaming,,Fully Remote,29,97,,,7.2,45,Optimizing,5.6,45,64,2.6,Medium,Medium
+EMP0603,Frontend Engineer,7,Bootcamp,,Automotive,,Hybrid,39,134,,,7.6,74,Experimenting,6.5,46,57,2.6,Low,Medium
+EMP0604,Product Manager,15,Self-taught,,Healthtech,,Fully Remote,6,178,,,3.5,31,Integrating,3.1,40,52,3,High,Medium
+EMP0605,Prompt Engineer,19,Bachelor,,Media,,Hybrid,37,140,,,2.1,19,Integrating,3.7,56,52,3.1,Low,Medium
+EMP0606,Data Scientist,1,Bachelor,,Gaming,,Fully Remote,19,147,,,3.3,41,Integrating,0.8,67,41,4,Low,Low
+EMP0607,Software Engineer,17,Bootcamp,,SaaS,,Hybrid,15,98,,,3,62,AI-First,8.6,54,52,2.8,Medium,Low
+EMP0608,DevOps Engineer,17,Bachelor,,Fintech,,On-site,49,156,,,1.8,9,Optimizing,5.9,74,41,3.3,High,Medium
+EMP0609,Cloud Architect,3,Self-taught,,SaaS,,On-site,24,203,,,5.1,77,AI-First,0.8,60,66,3.6,Low,Medium
+EMP0610,Frontend Engineer,12,Self-taught,,Media,,On-site,15,148,,,4.1,11,Optimizing,8,60,30,2.5,Low,Low
+EMP0611,Data Scientist,6,Self-taught,,Media,,On-site,33,61,,,7,45,Integrating,4.4,74,58,3.3,High,Medium
+EMP0612,Cloud Architect,11,Master,,Gaming,,Fully Remote,6,104,,,0.7,14,Integrating,7.7,69,32,3.3,Low,Low
+EMP0613,Frontend Engineer,3,Self-taught,,Automotive,,Fully Remote,23,89,,,5.3,66,Integrating,0.1,58,52,2.9,Medium,Low
+EMP0614,Data Analyst,8,Self-taught,,Healthtech,,Hybrid,29,43,,,6.2,30,Integrating,0.3,58,62,3.6,Low,Medium
+EMP0615,Cloud Architect,14,Master,,Cybersecurity,,On-site,44,239,,,6.2,72,Optimizing,1.7,62,64,2.9,Medium,Medium
+EMP0616,DevOps Engineer,14,PhD,,E-commerce,,On-site,13,219,,,7.1,28,Integrating,2.1,41,60,4.3,Low,Low
+EMP0617,Data Scientist,10,Bachelor,,Gaming,,Fully Remote,19,141,,,6,45,Integrating,7.6,62,46,3.8,Medium,Low
+EMP0618,AI Ethics Officer,2,Self-taught,,Media,,Fully Remote,37,82,,,7.5,69,Optimizing,7.1,53,70,2.3,High,High
+EMP0619,AI Researcher,14,Bachelor,,Fintech,,Fully Remote,32,144,,,3,21,AI-First,6.2,60,50,3.6,High,Medium
+EMP0620,AI Researcher,9,Bootcamp,,Consulting,,Hybrid,14,213,,,4.3,28,Integrating,8.8,56,45,4.1,Medium,Low
+EMP0621,Data Scientist,3,Bachelor,,Media,,Hybrid,21,43,,,0.6,31,Optimizing,2.5,73,36,4.1,High,Medium
+EMP0622,Cloud Architect,8,Master,,Automotive,,Fully Remote,46,180,,,0.6,11,Experimenting,9,61,24,4.1,Low,Low
+EMP0623,Frontend Engineer,16,Bachelor,,Automotive,,Hybrid,37,205,,,2.3,77,Integrating,9.1,64,50,2.5,Low,Medium
+EMP0624,DevOps Engineer,2,Bachelor,,Media,,Hybrid,8,212,,,1.3,16,Experimenting,4.3,66,33,3.7,Medium,Low
+EMP0625,Prompt Engineer,6,Bachelor,,Automotive,,Hybrid,24,192,,,2.5,7,Experimenting,0.9,58,29,4.9,Medium,Low
+EMP0626,AI Researcher,12,PhD,,Gaming,,Fully Remote,35,106,,,1.8,14,Optimizing,7.3,50,31,3.6,Low,Low
+EMP0627,DevOps Engineer,5,PhD,,Media,,On-site,33,94,,,0.7,37,Integrating,3.4,65,43,3.4,Medium,Low
+EMP0628,AI Researcher,2,Bootcamp,,Media,,Hybrid,22,135,,,7.3,50,Optimizing,7.9,37,61,3.5,Medium,Medium
+EMP0629,Data Analyst,16,Master,,Healthtech,,On-site,7,206,,,0.6,63,AI-First,1.6,52,58,3.4,Medium,Medium
+EMP0630,Frontend Engineer,5,Bachelor,,E-commerce,,On-site,17,104,,,6,56,Experimenting,5.4,54,52,2.6,High,High
+EMP0631,Data Analyst,15,Bachelor,,Fintech,,Fully Remote,36,114,,,1.6,10,Optimizing,5.1,66,36,3.7,Medium,Low
+EMP0632,AI Researcher,12,Bachelor,,Automotive,,Fully Remote,48,169,,,7.3,6,Integrating,1,63,43,4.3,Low,Low
+EMP0633,AI Ethics Officer,4,Bachelor,,Healthtech,,Hybrid,21,236,,,7.2,33,Experimenting,3.6,60,50,3.3,Medium,Medium
+EMP0634,AI Ethics Officer,15,PhD,,Cybersecurity,,Fully Remote,43,159,,,5.4,44,Optimizing,0.8,72,51,4,Medium,Low
+EMP0635,Data Analyst,11,Bootcamp,,Cybersecurity,,On-site,42,125,,,5.5,65,Optimizing,4.6,59,58,3.8,Low,Low
+EMP0636,AI Ethics Officer,16,Self-taught,,EdTech,,Hybrid,12,101,,,0.5,72,Integrating,8.4,56,54,2.7,Medium,Medium
+EMP0637,AI Researcher,6,Master,,Gaming,,On-site,33,213,,,7.9,72,AI-First,2.7,57,64,2.7,High,High
+EMP0638,Data Scientist,14,Bachelor,,Gaming,,Fully Remote,15,244,,,7.1,33,Integrating,7.6,72,63,3.2,Low,Medium
+EMP0639,Data Analyst,18,Bootcamp,,SaaS,,Fully Remote,25,151,,,7.2,66,AI-First,1.8,44,50,2.6,Low,Medium
+EMP0640,Prompt Engineer,12,Self-taught,,Fintech,,Hybrid,45,198,,,5.4,64,Integrating,6.7,61,68,2.6,Low,Medium
+EMP0641,Prompt Engineer,11,Bootcamp,,Media,,Fully Remote,40,202,,,3.1,45,Experimenting,9.2,58,46,3.7,Medium,Low
+EMP0642,ML Engineer,13,PhD,,Automotive,,Hybrid,44,165,,,7.2,69,Integrating,3.2,54,63,2.6,High,High
+EMP0643,Cloud Architect,11,Self-taught,,Fintech,,On-site,32,212,,,2.7,68,Experimenting,9,52,55,3.5,Medium,Low
+EMP0644,Frontend Engineer,16,Bootcamp,,EdTech,,Hybrid,18,116,,,4.7,67,Integrating,5.1,56,65,2.5,Low,Medium
+EMP0645,AI Ethics Officer,15,PhD,,SaaS,,Hybrid,26,221,,,1.2,52,Optimizing,3.2,47,40,3.4,Medium,Low
+EMP0646,AI Ethics Officer,15,Bootcamp,,Healthtech,,Fully Remote,10,238,,,7.4,24,Integrating,9,62,46,3.8,Medium,Low
+EMP0647,Cloud Architect,4,Bootcamp,,Fintech,,Fully Remote,23,236,,,1.6,41,Experimenting,0.3,61,49,4.1,Medium,Low
+EMP0648,Software Engineer,11,Self-taught,,Healthtech,,On-site,46,161,,,2.2,68,Integrating,0.3,45,41,3.3,Low,Low
+EMP0649,Product Manager,19,PhD,,Cybersecurity,,On-site,49,196,,,4.7,9,Experimenting,6,75,41,3,Medium,Low
+EMP0650,Data Analyst,15,Bachelor,,Automotive,,Hybrid,36,239,,,6.2,38,Optimizing,8,76,47,3.4,Medium,Low
+EMP0651,Backend Engineer,4,Master,,EdTech,,On-site,38,47,,,5.1,43,Optimizing,7.5,66,45,3.7,Low,Medium
+EMP0652,AI Ethics Officer,13,Self-taught,,Media,,Hybrid,18,93,,,2.2,71,AI-First,0.8,51,42,3.2,Medium,Low
+EMP0653,Frontend Engineer,19,PhD,,Automotive,,Fully Remote,29,174,,,0.5,66,Experimenting,9.5,54,56,4,High,Medium
+EMP0654,ML Engineer,2,Bootcamp,,E-commerce,,Fully Remote,2,122,,,6.2,28,Integrating,7,63,52,3.2,Low,Medium
+EMP0655,Prompt Engineer,14,PhD,,Gaming,,On-site,10,142,,,7.9,7,Integrating,9.5,78,42,3.2,High,Medium
+EMP0656,AI Ethics Officer,4,Master,,EdTech,,Fully Remote,14,190,,,6.6,75,AI-First,3.3,77,64,3.8,Low,Low
+EMP0657,ML Engineer,16,Master,,Fintech,,Hybrid,48,139,,,4,71,Optimizing,6.9,65,50,4,Medium,Low
+EMP0658,AI Researcher,14,Bachelor,,Automotive,,Hybrid,33,71,,,7.3,54,Experimenting,8.6,62,56,2.8,Low,Medium
+EMP0659,AI Researcher,15,Bachelor,,Consulting,,Hybrid,29,101,,,3.6,33,Integrating,3.8,64,45,4,Low,Low
+EMP0660,Product Manager,3,Master,,Gaming,,Hybrid,32,212,,,4.4,78,Optimizing,9.6,51,62,2.6,Medium,Medium
+EMP0661,Data Scientist,8,Self-taught,,Gaming,,Fully Remote,9,235,,,4.1,36,Optimizing,2.6,55,52,3.7,Medium,Low
+EMP0662,Backend Engineer,16,Self-taught,,Consulting,,Fully Remote,9,69,,,3.9,43,AI-First,3.2,55,36,4.7,High,Low
+EMP0663,Software Engineer,10,Bootcamp,,SaaS,,Hybrid,35,145,,,6.3,13,Experimenting,9.2,57,49,2.8,Medium,Medium
+EMP0664,Product Manager,4,Bachelor,,SaaS,,Hybrid,24,78,,,4.5,18,AI-First,9.7,46,30,3.7,Medium,Low
+EMP0665,DevOps Engineer,18,Bootcamp,,Consulting,,Hybrid,11,172,,,2.9,72,Experimenting,2.9,63,60,2.7,High,High
+EMP0666,Software Engineer,2,Bachelor,,E-commerce,,Hybrid,38,234,,,2.4,68,AI-First,1.4,53,53,3.4,Medium,Low
+EMP0667,Data Analyst,17,Master,,Cybersecurity,,Fully Remote,49,61,,,0.8,24,AI-First,7.6,58,47,3.7,Low,Low
+EMP0668,Frontend Engineer,13,Self-taught,,Consulting,,On-site,26,195,,,4.9,32,Optimizing,9.3,54,44,3.5,Low,Low
+EMP0669,DevOps Engineer,4,Self-taught,,Cybersecurity,,Hybrid,34,189,,,2.2,18,Optimizing,6,62,46,2.6,Medium,Medium
+EMP0670,DevOps Engineer,11,Master,,Automotive,,Fully Remote,46,167,,,1.6,48,Experimenting,6.3,72,38,3.1,Medium,Low
+EMP0671,Product Manager,7,Bootcamp,,E-commerce,,Hybrid,5,68,,,5.4,43,Experimenting,7.6,51,54,2.8,Low,Low
+EMP0672,Cloud Architect,12,Bootcamp,,EdTech,,On-site,8,210,,,5.6,32,Experimenting,1.5,64,34,4.1,Low,Low
+EMP0673,Data Scientist,10,PhD,,Cybersecurity,,On-site,34,81,,,6.1,68,Experimenting,9.7,73,69,2,Low,Medium
+EMP0674,Cloud Architect,7,Bachelor,,Gaming,,Fully Remote,3,99,,,4.3,36,Integrating,3.6,66,63,2.4,Medium,Medium
+EMP0675,Product Manager,13,Bootcamp,,Automotive,,Hybrid,49,158,,,7.2,13,Experimenting,6.3,59,42,3,Low,Low
+EMP0676,Data Analyst,7,Master,,Gaming,,Fully Remote,47,116,,,7.5,32,AI-First,4.7,69,55,3.3,Low,Low
+EMP0677,Prompt Engineer,17,Bootcamp,,E-commerce,,Fully Remote,33,238,,,6.6,21,Integrating,4.7,55,53,3.8,Medium,Low
+EMP0678,AI Ethics Officer,10,Self-taught,,Cybersecurity,,Hybrid,6,241,,,5.3,59,Optimizing,7,54,45,3.6,High,Medium
+EMP0679,AI Ethics Officer,10,Bachelor,,Healthtech,,Hybrid,47,235,,,2.8,14,Optimizing,9.9,55,33,4.9,Low,Low
+EMP0680,Data Scientist,4,PhD,,E-commerce,,Hybrid,18,226,,,7.9,10,Integrating,6.6,63,42,3.7,Medium,Low
+EMP0681,Data Analyst,4,Bachelor,,E-commerce,,Fully Remote,13,135,,,2.6,52,Experimenting,7.9,55,70,2.6,Low,Medium
+EMP0682,Data Scientist,7,Self-taught,,Healthtech,,Fully Remote,13,125,,,2,79,Integrating,0.3,59,66,2.4,High,High
+EMP0683,ML Engineer,1,Self-taught,,Automotive,,Hybrid,36,151,,,3.8,71,Optimizing,8.1,49,57,3.2,Low,Medium
+EMP0684,Cloud Architect,12,Self-taught,,Cybersecurity,,Fully Remote,22,123,,,0.9,45,Integrating,3,71,51,2.9,High,Medium
+EMP0685,AI Ethics Officer,13,Self-taught,,Cybersecurity,,Fully Remote,22,45,,,7.8,64,Integrating,1.3,57,66,2.3,High,High
+EMP0686,DevOps Engineer,10,Master,,Gaming,,Fully Remote,3,112,,,4.9,46,Optimizing,1.1,50,58,2.6,High,High
+EMP0687,Cloud Architect,15,PhD,,E-commerce,,Hybrid,22,195,,,4.7,75,Experimenting,6.8,50,53,3.1,Low,Medium
+EMP0688,Backend Engineer,13,Self-taught,,E-commerce,,Fully Remote,16,116,,,5.4,32,Optimizing,10,47,61,2.7,Medium,Medium
+EMP0689,Frontend Engineer,9,Self-taught,,Media,,Hybrid,12,70,,,4.2,17,Integrating,6.7,71,37,5,Low,Low
+EMP0690,Data Analyst,9,Bootcamp,,EdTech,,Fully Remote,11,78,,,0.7,19,Optimizing,2.6,54,31,4.1,High,Medium
+EMP0691,Software Engineer,15,PhD,,E-commerce,,Fully Remote,19,89,,,5.1,40,AI-First,2,67,56,3.2,High,Medium
+EMP0692,Data Scientist,10,Bachelor,,Fintech,,Hybrid,24,117,,,5.9,19,Optimizing,5.3,72,50,3.1,High,Medium
+EMP0693,Cloud Architect,10,PhD,,EdTech,,Fully Remote,32,165,,,3.6,79,Integrating,0.7,46,61,4.5,Medium,Medium
+EMP0694,Frontend Engineer,8,PhD,,Fintech,,Hybrid,27,204,,,6.2,60,Experimenting,4,58,67,2.3,Medium,Medium
+EMP0695,Cloud Architect,16,PhD,,Cybersecurity,,Fully Remote,3,148,,,2.2,8,Optimizing,6.7,36,27,3.9,Medium,Low
+EMP0696,Software Engineer,17,Self-taught,,EdTech,,Hybrid,40,127,,,2.2,56,Integrating,9.7,57,65,3.3,Medium,Medium
+EMP0697,Frontend Engineer,5,Self-taught,,E-commerce,,Fully Remote,8,239,,,1.7,14,Experimenting,4.3,44,33,4,Medium,Low
+EMP0698,Backend Engineer,4,Master,,Healthtech,,Fully Remote,25,54,,,3.3,49,Optimizing,2,60,50,2.7,Medium,Low
+EMP0699,Software Engineer,18,Bachelor,,Gaming,,Hybrid,40,90,,,6.9,33,Integrating,8.2,35,68,2.7,High,High
+EMP0700,Product Manager,19,Bootcamp,,Fintech,,On-site,33,237,,,6.7,57,Experimenting,7.4,61,54,3.5,Medium,Low
+EMP0701,AI Researcher,4,PhD,,EdTech,,Fully Remote,27,62,,,3.4,33,AI-First,8.6,50,54,3.5,High,Medium
+EMP0702,Product Manager,7,Bachelor,,E-commerce,,Hybrid,24,192,,,4.9,27,Integrating,2.1,53,46,3.8,High,Medium
+EMP0703,AI Ethics Officer,10,Bachelor,,EdTech,,Hybrid,15,213,,,5.9,61,Integrating,4,44,53,4.3,Medium,Low
+EMP0704,Cloud Architect,18,Master,,E-commerce,,Hybrid,30,190,,,2.3,54,Optimizing,9.8,77,47,3.6,Low,Low
+EMP0705,AI Researcher,19,Bootcamp,,E-commerce,,On-site,26,49,,,1.8,25,AI-First,1.6,58,45,3.9,Medium,Low
+EMP0706,Product Manager,4,PhD,,E-commerce,,Fully Remote,32,112,,,7.8,47,Experimenting,6.7,75,67,1.6,Medium,Medium
+EMP0707,AI Researcher,10,Bootcamp,,Media,,On-site,3,152,,,5.1,14,Optimizing,2.4,75,46,4.4,Low,Low
+EMP0708,Prompt Engineer,1,Master,,Gaming,,Fully Remote,3,116,,,7.9,34,Optimizing,5,79,43,3.6,Medium,Low
+EMP0709,Cloud Architect,18,Self-taught,,Healthtech,,Fully Remote,24,71,,,3,55,Experimenting,8,59,57,2.7,High,High
+EMP0710,AI Researcher,5,Bachelor,,Healthtech,,On-site,48,152,,,5.8,37,Integrating,4.9,60,51,3.2,Low,Low
+EMP0711,DevOps Engineer,15,PhD,,EdTech,,Hybrid,12,218,,,2.2,22,Experimenting,8.1,67,32,4.3,Medium,Low
+EMP0712,Data Scientist,17,Self-taught,,EdTech,,Hybrid,30,208,,,2.5,26,Optimizing,4.3,50,45,4,High,Medium
+EMP0713,Data Scientist,3,Master,,E-commerce,,Hybrid,43,104,,,4.3,68,Optimizing,10,66,68,2.7,Medium,Medium
+EMP0714,DevOps Engineer,12,Bootcamp,,Media,,Hybrid,36,232,,,2.9,25,Experimenting,4.4,54,43,3.9,Medium,Low
+EMP0715,Frontend Engineer,2,Bachelor,,E-commerce,,Fully Remote,10,140,,,1.8,5,Optimizing,1.5,43,42,3.5,Medium,Low
+EMP0716,ML Engineer,1,PhD,,Media,,Hybrid,33,207,,,2.5,19,Optimizing,4,61,44,3.8,Medium,Low
+EMP0717,Frontend Engineer,17,Self-taught,,E-commerce,,Fully Remote,31,57,,,0.8,40,Integrating,7.4,58,47,3.5,Low,Medium
+EMP0718,Software Engineer,16,Self-taught,,Fintech,,On-site,16,203,,,5.8,51,Optimizing,8.5,48,54,3.4,High,High
+EMP0719,Software Engineer,5,Bachelor,,Fintech,,On-site,15,70,,,4.2,58,Experimenting,4.6,51,62,2.8,Medium,Medium
+EMP0720,AI Researcher,15,Bootcamp,,Cybersecurity,,Fully Remote,18,93,,,1.2,36,AI-First,5.9,67,50,3.5,Medium,Medium
+EMP0721,Product Manager,3,Master,,E-commerce,,Hybrid,23,102,,,1.8,62,Integrating,8.4,58,58,2.7,Medium,Medium
+EMP0722,Product Manager,7,Bootcamp,,Gaming,,Fully Remote,31,40,,,1.3,50,Optimizing,8.1,42,45,3.6,Low,Low
+EMP0723,Data Scientist,11,Bootcamp,,Cybersecurity,,Fully Remote,18,219,,,5.1,58,Optimizing,6.6,52,65,2.5,High,Medium
+EMP0724,Data Analyst,10,Bootcamp,,EdTech,,On-site,17,224,,,1.2,37,Integrating,8.2,55,46,3,High,Medium
+EMP0725,Frontend Engineer,9,Bachelor,,Automotive,,Fully Remote,9,48,,,6.2,43,AI-First,5.8,62,47,3.1,Low,Low
+EMP0726,Prompt Engineer,14,Bachelor,,E-commerce,,Hybrid,40,159,,,0.7,27,Optimizing,0,44,36,3.7,High,Medium
+EMP0727,Cloud Architect,13,Master,,Fintech,,On-site,32,131,,,2.4,47,AI-First,0.4,54,44,3.3,Medium,Low
+EMP0728,AI Ethics Officer,2,Bootcamp,,Automotive,,On-site,13,129,,,7.2,59,Integrating,9.8,63,46,3.7,Medium,Low
+EMP0729,Backend Engineer,3,Bachelor,,Media,,Hybrid,34,155,,,5.9,6,Experimenting,1.4,63,51,3.3,Medium,Low
+EMP0730,Product Manager,7,Master,,Automotive,,Hybrid,13,241,,,1,70,AI-First,4,40,77,2.9,Low,Medium
+EMP0731,Cloud Architect,18,Master,,Gaming,,Hybrid,26,95,,,6.7,42,Optimizing,9.3,62,65,2.8,Medium,Medium
+EMP0732,Backend Engineer,3,Bootcamp,,E-commerce,,On-site,39,214,,,4.2,33,Optimizing,2,46,49,3.5,Low,Low
+EMP0733,Cloud Architect,10,PhD,,Healthtech,,Hybrid,49,42,,,6.9,71,AI-First,8.4,53,60,3.9,Medium,Low
+EMP0734,AI Researcher,7,Bootcamp,,Automotive,,Hybrid,19,169,,,5,75,Experimenting,8.2,56,55,2.9,Medium,Low
+EMP0735,Backend Engineer,9,PhD,,Healthtech,,Fully Remote,20,93,,,5.6,40,Integrating,9.9,49,54,3.1,High,High
+EMP0736,AI Ethics Officer,17,Master,,Media,,Fully Remote,4,76,,,8,33,Experimenting,2.8,72,63,3.5,Medium,Low
+EMP0737,Cloud Architect,11,Bachelor,,Cybersecurity,,Hybrid,36,223,,,2.2,41,Optimizing,3.2,48,41,3.2,Low,Low
+EMP0738,DevOps Engineer,7,Self-taught,,Healthtech,,On-site,6,198,,,5.2,49,Optimizing,9,52,75,3.2,High,High
+EMP0739,AI Ethics Officer,14,Master,,Cybersecurity,,On-site,36,136,,,4,20,AI-First,2.3,62,32,3.8,Medium,Low
+EMP0740,Backend Engineer,19,Bachelor,,Fintech,,On-site,28,51,,,0.8,35,Integrating,5.5,52,43,3.2,Medium,Medium
+EMP0741,AI Ethics Officer,4,Master,,E-commerce,,Hybrid,38,225,,,0.6,38,Optimizing,7.1,44,43,4,Low,Low
+EMP0742,Cloud Architect,6,Bootcamp,,Automotive,,Hybrid,47,234,,,1.4,54,AI-First,2.7,59,49,3.2,High,Medium
+EMP0743,ML Engineer,10,PhD,,Fintech,,On-site,22,151,,,5.4,69,Optimizing,9.4,65,56,4,High,Medium
+EMP0744,Cloud Architect,7,Master,,Fintech,,Hybrid,17,193,,,4.8,66,Experimenting,6.7,78,60,3,High,Medium
+EMP0745,Cloud Architect,13,Bachelor,,Consulting,,Fully Remote,29,117,,,4.7,47,Optimizing,0.5,44,49,3.4,High,Medium
+EMP0746,AI Researcher,14,Bootcamp,,SaaS,,Hybrid,26,179,,,0.7,60,AI-First,1.4,55,59,2.7,Low,Medium
+EMP0747,Frontend Engineer,4,Self-taught,,Gaming,,On-site,34,129,,,4,19,AI-First,1.9,59,56,3.1,High,Medium
+EMP0748,DevOps Engineer,8,Bootcamp,,Cybersecurity,,Fully Remote,18,183,,,7.4,52,Optimizing,2.4,62,57,3,Medium,Medium
+EMP0749,Prompt Engineer,5,PhD,,Consulting,,On-site,44,220,,,3.5,53,AI-First,7.3,52,39,4.4,Low,Low
+EMP0750,Product Manager,1,Bootcamp,,SaaS,,Fully Remote,31,111,,,5.2,48,Experimenting,0.9,64,57,3.2,Medium,Medium
+EMP0751,Software Engineer,4,Self-taught,,Gaming,,Hybrid,42,216,,,6.3,14,Experimenting,3.5,44,49,3.7,Medium,Low
+EMP0752,Frontend Engineer,3,Bachelor,,Cybersecurity,,Hybrid,5,216,,,6.4,24,AI-First,9.1,34,50,3.4,Low,Low
+EMP0753,Software Engineer,9,Master,,E-commerce,,Hybrid,3,131,,,4.4,74,Experimenting,5.6,67,65,2.6,Low,Medium
+EMP0754,AI Researcher,8,PhD,,Gaming,,Hybrid,10,46,,,6.9,12,Experimenting,2.7,66,58,3.3,Low,Low
+EMP0755,DevOps Engineer,1,Self-taught,,Automotive,,On-site,32,54,,,3.4,49,Integrating,9.6,64,58,3.9,Medium,Low
+EMP0756,Cloud Architect,6,PhD,,Fintech,,Hybrid,26,144,,,7.2,38,Integrating,2.4,34,60,2.5,Low,Medium
+EMP0757,Data Scientist,9,Bootcamp,,SaaS,,Fully Remote,38,203,,,2.3,55,Optimizing,9.1,57,57,3.3,Low,Medium
+EMP0758,Product Manager,7,PhD,,SaaS,,Hybrid,37,111,,,2.6,8,Integrating,7.3,59,39,4.4,Medium,Low
+EMP0759,ML Engineer,4,Self-taught,,SaaS,,Fully Remote,6,113,,,0.9,43,AI-First,7.4,75,37,3.4,High,Medium
+EMP0760,Data Scientist,13,Master,,Cybersecurity,,Fully Remote,25,182,,,6.5,28,AI-First,7.6,62,63,3.4,High,Medium
+EMP0761,AI Researcher,17,Master,,Automotive,,Fully Remote,25,101,,,3.6,59,Integrating,5.1,50,55,3.6,Low,Medium
+EMP0762,Frontend Engineer,2,PhD,,Gaming,,On-site,30,185,,,2.2,30,Integrating,8.1,58,35,3.2,High,Medium
+EMP0763,ML Engineer,5,Bachelor,,Fintech,,Hybrid,46,85,,,2.2,29,Optimizing,8.4,65,34,4.4,Medium,Low
+EMP0764,AI Ethics Officer,12,PhD,,Automotive,,Hybrid,32,144,,,7.3,40,Optimizing,3.6,66,49,3.1,Medium,Low
+EMP0765,Backend Engineer,8,Bootcamp,,Consulting,,Fully Remote,38,148,,,6.8,75,Integrating,4,59,56,3.3,Medium,Medium
+EMP0766,ML Engineer,6,Master,,E-commerce,,Fully Remote,20,100,,,4.7,78,Integrating,8.9,62,68,3.2,Medium,Medium
+EMP0767,Prompt Engineer,8,Master,,Healthtech,,On-site,24,160,,,5.1,62,Integrating,5.2,29,57,3.7,Low,Low
+EMP0768,AI Researcher,18,Master,,Automotive,,Hybrid,36,82,,,4.1,16,Experimenting,8.7,52,49,2.6,Medium,Low
+EMP0769,Data Analyst,3,Bachelor,,Consulting,,On-site,7,211,,,3.4,5,Integrating,6.3,61,47,4.3,Medium,Low
+EMP0770,Backend Engineer,12,Bachelor,,Fintech,,Fully Remote,7,138,,,7.4,54,Optimizing,5.9,50,68,3.4,Medium,Medium
+EMP0771,Software Engineer,3,Self-taught,,Healthtech,,Fully Remote,38,233,,,1.4,29,Optimizing,0.3,67,46,4,High,Medium
+EMP0772,Product Manager,6,PhD,,Healthtech,,On-site,31,94,,,3.6,9,Optimizing,2.8,50,42,3.8,Medium,Low
+EMP0773,Software Engineer,2,PhD,,Automotive,,Hybrid,2,246,,,3.1,72,Integrating,5,60,56,2.9,Medium,Medium
+EMP0774,ML Engineer,12,Bootcamp,,SaaS,,Fully Remote,9,206,,,4.2,10,Optimizing,5.9,72,40,3.1,Medium,Low
+EMP0775,Software Engineer,2,Master,,EdTech,,Fully Remote,29,172,,,3.9,30,Experimenting,6.3,57,51,2.5,High,High
+EMP0776,Prompt Engineer,6,Bachelor,,Fintech,,On-site,26,224,,,4.4,59,Integrating,7.2,56,48,3.7,Medium,Low
+EMP0777,AI Researcher,17,Bootcamp,,SaaS,,Hybrid,34,151,,,1.5,43,Optimizing,6.6,72,45,4,High,Medium
+EMP0778,AI Ethics Officer,3,Bootcamp,,Fintech,,Hybrid,39,182,,,4.3,13,Optimizing,8.5,41,36,3.8,High,Medium
+EMP0779,Frontend Engineer,2,Bachelor,,EdTech,,Fully Remote,15,130,,,2.3,49,Integrating,3,46,58,2.8,Medium,Low
+EMP0780,Product Manager,8,PhD,,E-commerce,,Fully Remote,12,55,,,1.9,18,Optimizing,6.4,73,44,3.6,Medium,Low
+EMP0781,Prompt Engineer,12,Master,,EdTech,,On-site,3,96,,,1,59,AI-First,0.5,58,66,2.5,Low,Medium
+EMP0782,Prompt Engineer,4,PhD,,Media,,Fully Remote,31,141,,,6.2,13,Integrating,4.8,58,40,3.7,High,Medium
+EMP0783,Software Engineer,5,Bootcamp,,Automotive,,Hybrid,31,249,,,3.7,19,Optimizing,2.7,44,37,3.4,Low,Low
+EMP0784,Software Engineer,13,Master,,Automotive,,On-site,5,64,,,5.2,41,AI-First,3.8,36,53,3.5,Medium,Low
+EMP0785,ML Engineer,15,Self-taught,,Consulting,,Fully Remote,14,61,,,6,54,Optimizing,3.5,63,52,3.9,Low,Low
+EMP0786,Frontend Engineer,16,Bootcamp,,SaaS,,Hybrid,8,198,,,5.6,76,Integrating,0.6,56,68,3,Medium,Medium
+EMP0787,Data Scientist,10,PhD,,Consulting,,Hybrid,39,162,,,4,25,Experimenting,4.7,55,45,3.5,Medium,Low
+EMP0788,Software Engineer,16,PhD,,Media,,Hybrid,4,201,,,3.4,61,Integrating,9.9,70,51,3.8,High,Medium
+EMP0789,AI Researcher,12,PhD,,EdTech,,Hybrid,10,126,,,3.3,23,Integrating,3,45,52,3.3,Medium,Low
+EMP0790,Data Analyst,17,Bachelor,,Automotive,,Fully Remote,15,183,,,5.3,62,Optimizing,7.4,58,44,4,High,Medium
+EMP0791,Product Manager,16,Bootcamp,,Cybersecurity,,Hybrid,12,237,,,4.2,10,Integrating,5.5,72,45,3.2,Medium,Low
+EMP0792,Cloud Architect,12,Master,,EdTech,,Hybrid,38,226,,,6.9,8,AI-First,3.3,51,41,3.4,Low,Low
+EMP0793,Software Engineer,8,PhD,,EdTech,,Hybrid,15,182,,,7.1,47,Integrating,0.9,54,64,2.4,Low,Medium
+EMP0794,AI Researcher,3,PhD,,Media,,Fully Remote,20,121,,,1.8,46,Optimizing,2.2,46,55,2.9,Medium,Medium
+EMP0795,AI Researcher,16,Bachelor,,E-commerce,,Hybrid,9,141,,,1.5,7,Integrating,7.8,80,16,5,Low,Low
+EMP0796,Product Manager,13,Master,,Fintech,,On-site,8,180,,,5.2,5,Integrating,2.8,37,40,3.2,Medium,Low
+EMP0797,Data Scientist,19,Bootcamp,,Media,,Hybrid,8,63,,,2.8,59,Optimizing,1.4,63,53,2.1,Low,Medium
+EMP0798,AI Researcher,8,Self-taught,,Fintech,,Hybrid,4,180,,,0.6,19,Integrating,3.3,38,18,4.2,Medium,Low
+EMP0799,Data Analyst,5,Bachelor,,Automotive,,Hybrid,4,232,,,7.2,51,Experimenting,5.8,41,61,2.4,Medium,Medium
+EMP0800,AI Researcher,8,Bootcamp,,Media,,On-site,19,75,,,2.2,50,Integrating,7,64,45,3.2,Medium,Low
+EMP0801,AI Researcher,12,Self-taught,,Fintech,,On-site,46,88,,,7.5,62,Integrating,3.9,48,53,4.3,Low,Low
+EMP0802,AI Researcher,1,PhD,,Consulting,,Fully Remote,34,121,,,5.9,75,Optimizing,5,70,59,2.6,Low,Medium
+EMP0803,AI Ethics Officer,6,PhD,,Media,,Hybrid,38,87,,,6.2,43,AI-First,4.5,71,48,3.7,Medium,Low
+EMP0804,AI Ethics Officer,18,Master,,Automotive,,Fully Remote,29,136,,,2,7,Experimenting,0.1,60,31,3.9,Low,Low
+EMP0805,Data Scientist,8,Self-taught,,Media,,Hybrid,37,141,,,2.3,34,Integrating,4,72,46,3.7,Medium,Low
+EMP0806,Software Engineer,7,PhD,,Automotive,,Fully Remote,17,210,,,4.4,39,Optimizing,5.9,62,58,2.8,Medium,Medium
+EMP0807,AI Researcher,1,PhD,,Media,,On-site,16,45,,,1.8,61,AI-First,5.7,57,51,3.9,Low,Low
+EMP0808,Frontend Engineer,16,Master,,Fintech,,Fully Remote,30,248,,,2.8,33,AI-First,7.5,51,54,3.4,Medium,Low
+EMP0809,Software Engineer,12,Bootcamp,,E-commerce,,Hybrid,19,107,,,2.9,54,Optimizing,6.7,73,43,3.8,Medium,Low
+EMP0810,Data Scientist,6,PhD,,Gaming,,Hybrid,47,53,,,1.7,66,Integrating,2.8,67,54,3.2,Low,Low
+EMP0811,DevOps Engineer,2,Bachelor,,Fintech,,Fully Remote,47,69,,,2,56,Experimenting,2.6,57,67,3.4,Medium,Medium
+EMP0812,Software Engineer,14,Bachelor,,SaaS,,On-site,20,149,,,6.4,18,Integrating,4.6,63,35,4.1,Low,Low
+EMP0813,Software Engineer,4,Bootcamp,,Healthtech,,On-site,30,47,,,1.8,39,Integrating,7.3,45,32,4.1,Medium,Low
+EMP0814,Backend Engineer,1,Self-taught,,E-commerce,,Hybrid,7,221,,,0.7,32,Optimizing,0.9,69,51,3.6,High,Medium
+EMP0815,ML Engineer,18,Master,,Consulting,,Hybrid,46,105,,,5.2,62,Optimizing,9.5,71,60,2.1,Low,Medium
+EMP0816,Cloud Architect,13,Bachelor,,EdTech,,Fully Remote,48,171,,,7.8,34,Optimizing,5.4,46,50,3.4,Medium,Low
+EMP0817,Backend Engineer,2,Bachelor,,Fintech,,Hybrid,28,241,,,3,11,Integrating,3.1,63,30,4,Medium,Low
+EMP0818,Data Analyst,9,Bootcamp,,Media,,Fully Remote,8,123,,,1.4,43,Optimizing,6.9,64,45,4.1,Low,Low
+EMP0819,AI Ethics Officer,2,Self-taught,,Fintech,,Hybrid,28,227,,,4.8,73,Experimenting,0.4,52,62,2.6,Medium,Medium
+EMP0820,AI Ethics Officer,9,Self-taught,,Cybersecurity,,On-site,20,159,,,7.3,39,Experimenting,4.8,53,57,3.2,Medium,Medium
+EMP0821,ML Engineer,1,Bootcamp,,E-commerce,,Fully Remote,18,92,,,6.4,56,Experimenting,4.9,68,50,4.3,Medium,Low
+EMP0822,Product Manager,11,Bachelor,,Gaming,,On-site,42,138,,,5.2,18,AI-First,1.6,62,43,3.6,Medium,Low
+EMP0823,Product Manager,3,Master,,Consulting,,Fully Remote,12,113,,,2.9,67,Experimenting,8.4,57,51,2.6,High,Medium
+EMP0824,Data Scientist,4,Bachelor,,Cybersecurity,,On-site,6,182,,,4.6,40,Optimizing,8,65,56,4.2,High,Medium
+EMP0825,Prompt Engineer,18,Self-taught,,Automotive,,Fully Remote,3,139,,,1.2,28,Experimenting,1.5,50,32,3.6,Medium,Low
+EMP0826,ML Engineer,6,Bachelor,,Cybersecurity,,Hybrid,48,168,,,5.6,44,Integrating,3.6,52,55,2.6,High,High
+EMP0827,Cloud Architect,3,Master,,Fintech,,Fully Remote,13,189,,,5.9,33,AI-First,1,59,72,2.1,Low,Medium
+EMP0828,Software Engineer,11,PhD,,Consulting,,On-site,43,54,,,7.7,57,Integrating,8.5,53,53,3.6,Medium,Low
+EMP0829,Product Manager,15,Bachelor,,Fintech,,Hybrid,43,241,,,2.5,26,Experimenting,3.2,42,36,4.4,Low,Low
+EMP0830,Cloud Architect,5,Bootcamp,,Automotive,,Fully Remote,12,61,,,0.6,76,Integrating,4.4,47,53,4.1,Low,Low
+EMP0831,AI Researcher,10,PhD,,EdTech,,Hybrid,11,217,,,4.6,19,AI-First,3.2,51,21,4.3,Medium,Low
+EMP0832,Prompt Engineer,12,Bootcamp,,Consulting,,Hybrid,29,87,,,5.8,73,Integrating,3.1,41,52,2.8,Medium,Low
+EMP0833,Frontend Engineer,15,Bootcamp,,EdTech,,Hybrid,8,156,,,6.4,68,Integrating,7.5,64,65,2.5,Medium,Medium
+EMP0834,Software Engineer,17,Bootcamp,,E-commerce,,On-site,15,112,,,2,8,Integrating,7.5,45,34,3.9,Medium,Low
+EMP0835,Data Analyst,10,Bachelor,,E-commerce,,Hybrid,14,159,,,2.5,79,Integrating,5.2,62,67,2.8,Medium,Medium
+EMP0836,AI Researcher,6,Self-taught,,EdTech,,Fully Remote,6,218,,,4.3,22,Experimenting,6.6,45,43,4.2,Medium,Low
+EMP0837,AI Researcher,18,PhD,,E-commerce,,Fully Remote,43,56,,,3,46,Optimizing,5.1,51,47,2.8,Low,Medium
+EMP0838,ML Engineer,13,Master,,Consulting,,Hybrid,9,145,,,7,34,Optimizing,0.3,55,48,2.8,Medium,Medium
+EMP0839,Prompt Engineer,3,Self-taught,,Media,,Hybrid,2,122,,,4.1,19,Integrating,0.7,36,41,3.5,Low,Low
+EMP0840,Data Scientist,10,Bachelor,,SaaS,,Fully Remote,6,143,,,6.5,74,Optimizing,3.8,52,55,3.4,Medium,Low
+EMP0841,Data Analyst,14,Bootcamp,,E-commerce,,Fully Remote,12,130,,,4.9,59,AI-First,7.5,37,56,2.9,Low,Medium
+EMP0842,Product Manager,6,Master,,E-commerce,,Hybrid,44,218,,,6.3,57,AI-First,9.1,60,51,3,Low,Medium
+EMP0843,Cloud Architect,3,PhD,,Fintech,,On-site,49,204,,,3,20,Experimenting,0.3,59,32,4.5,Medium,Low
+EMP0844,ML Engineer,16,Self-taught,,EdTech,,Fully Remote,11,88,,,6.7,77,Integrating,3.7,58,61,3.2,Medium,Low
+EMP0845,Product Manager,7,Self-taught,,Healthtech,,Hybrid,16,98,,,2.6,38,AI-First,2.2,63,50,2.8,Medium,Low
+EMP0846,ML Engineer,14,Master,,Gaming,,Hybrid,40,177,,,4.6,31,Experimenting,8.2,74,49,3.1,Low,Low
+EMP0847,ML Engineer,9,Bachelor,,Cybersecurity,,Hybrid,48,69,,,2.1,17,Experimenting,8.5,51,44,3.8,Medium,Low
+EMP0848,ML Engineer,15,PhD,,E-commerce,,Fully Remote,30,124,,,4.1,31,AI-First,2.1,53,40,3,High,Medium
+EMP0849,Prompt Engineer,3,Master,,Cybersecurity,,Hybrid,26,60,,,2.9,77,Integrating,7.1,55,58,3.3,High,Medium
+EMP0850,Data Scientist,2,Bootcamp,,Consulting,,On-site,49,73,,,2.5,73,Integrating,7.3,46,70,2.5,Medium,Medium
+EMP0851,ML Engineer,2,PhD,,Healthtech,,Fully Remote,7,112,,,7.8,35,Integrating,1.8,41,67,2.9,Low,Medium
+EMP0852,DevOps Engineer,3,Self-taught,,Gaming,,Hybrid,12,137,,,1.7,7,Optimizing,4.3,63,25,4.2,Medium,Low
+EMP0853,Frontend Engineer,18,Master,,EdTech,,Fully Remote,18,217,,,6.4,34,Integrating,6.2,57,44,3,Low,Low
+EMP0854,Product Manager,14,Self-taught,,SaaS,,Fully Remote,16,115,,,7.9,25,AI-First,0.3,35,66,2.5,Low,Medium
+EMP0855,Software Engineer,18,Self-taught,,Gaming,,Hybrid,17,214,,,0.6,10,Optimizing,4,51,37,4.5,Low,Low
+EMP0856,Backend Engineer,10,Self-taught,,Gaming,,Hybrid,3,124,,,5.7,36,Integrating,1.5,51,50,4.5,High,Medium
+EMP0857,Cloud Architect,2,Bachelor,,SaaS,,Fully Remote,37,123,,,2.4,46,Integrating,5.4,59,46,2.6,Medium,Medium
+EMP0858,Data Analyst,1,Self-taught,,Media,,Hybrid,20,173,,,0.8,66,Experimenting,8.4,72,53,3.8,Medium,Low
+EMP0859,AI Ethics Officer,4,Bootcamp,,EdTech,,Hybrid,39,217,,,3.5,36,Optimizing,5.2,60,49,3.5,Medium,Low
+EMP0860,Data Scientist,14,Bootcamp,,Fintech,,Hybrid,22,148,,,7.5,43,Integrating,0.4,54,53,4.3,Low,Low
+EMP0861,Software Engineer,1,PhD,,Cybersecurity,,Hybrid,12,102,,,0.6,68,AI-First,0.3,48,50,3.1,Medium,Low
+EMP0862,AI Researcher,14,Self-taught,,E-commerce,,Fully Remote,42,51,,,4.9,34,Integrating,6.1,48,45,3.9,Medium,Low
+EMP0863,DevOps Engineer,16,Self-taught,,Gaming,,On-site,4,208,,,4.3,67,Integrating,3.3,48,60,2.8,Medium,Medium
+EMP0864,AI Ethics Officer,14,Master,,Consulting,,Hybrid,35,198,,,7.1,35,Integrating,5.7,64,48,4,High,Medium
+EMP0865,Backend Engineer,3,Bachelor,,SaaS,,Hybrid,19,41,,,1.1,44,Optimizing,1.6,78,35,5,Low,Low
+EMP0866,Software Engineer,3,PhD,,Cybersecurity,,On-site,16,183,,,5.6,37,Integrating,7.8,46,64,3,High,Medium
+EMP0867,AI Ethics Officer,9,Self-taught,,Healthtech,,Fully Remote,26,168,,,5.6,67,Integrating,8.6,56,60,2.4,Medium,Medium
+EMP0868,Software Engineer,6,Master,,SaaS,,Fully Remote,16,171,,,5.5,29,AI-First,8.9,63,63,3.6,Medium,Medium
+EMP0869,Cloud Architect,13,Bachelor,,Healthtech,,Hybrid,31,86,,,7.6,40,Integrating,3,39,41,3.9,Medium,Low
+EMP0870,DevOps Engineer,2,PhD,,EdTech,,Hybrid,18,232,,,6.7,28,Integrating,6.6,47,40,3.9,High,Medium
+EMP0871,Backend Engineer,8,PhD,,Gaming,,On-site,19,91,,,0.8,62,Optimizing,2.8,83,53,4,Low,Low
+EMP0872,AI Researcher,2,Self-taught,,Consulting,,On-site,32,86,,,4,43,Optimizing,7.6,48,50,2.8,Medium,Low
+EMP0873,ML Engineer,4,PhD,,E-commerce,,Fully Remote,44,138,,,3.5,50,Integrating,1.2,54,42,3.2,Medium,Low
+EMP0874,Product Manager,15,Master,,Healthtech,,Hybrid,19,244,,,2.8,14,Experimenting,7.6,49,48,3.7,Low,Low
+EMP0875,AI Researcher,4,PhD,,Cybersecurity,,Hybrid,36,89,,,3.9,36,Optimizing,4.4,34,41,3.3,Low,Low
+EMP0876,ML Engineer,13,Bootcamp,,Media,,Fully Remote,14,84,,,3.4,40,Experimenting,8.6,56,58,2.9,High,High
+EMP0877,Prompt Engineer,12,Master,,EdTech,,Hybrid,15,81,,,3.7,32,Optimizing,7.4,51,46,4.1,Low,Low
+EMP0878,Prompt Engineer,13,Bachelor,,Media,,Hybrid,37,223,,,7.8,20,Experimenting,3.8,55,43,3.8,Low,Low
+EMP0879,Prompt Engineer,14,Bachelor,,EdTech,,Hybrid,19,110,,,1.2,20,Integrating,9,57,33,3.3,High,Medium
+EMP0880,Data Scientist,18,Self-taught,,Fintech,,Fully Remote,6,96,,,7.4,22,Experimenting,2.8,57,62,3.1,Medium,Medium
+EMP0881,Frontend Engineer,6,Self-taught,,Cybersecurity,,Fully Remote,15,72,,,4.1,12,Integrating,9.7,56,39,4.3,Low,Low
+EMP0882,Data Analyst,11,Bootcamp,,Media,,Fully Remote,26,195,,,5.2,79,Optimizing,7.7,58,71,2.7,Medium,Medium
+EMP0883,Data Analyst,2,Bachelor,,Consulting,,On-site,45,153,,,6.7,74,Experimenting,9.9,50,76,2.9,Medium,Medium
+EMP0884,Prompt Engineer,19,Bachelor,,Gaming,,Fully Remote,40,83,,,3.2,5,Integrating,0.5,55,37,3.5,High,Medium
+EMP0885,Product Manager,19,Bachelor,,SaaS,,On-site,13,153,,,3.7,66,AI-First,2.7,44,55,3.3,Medium,Low
+EMP0886,Backend Engineer,5,Bachelor,,E-commerce,,Hybrid,41,95,,,3.6,42,Integrating,7.4,63,46,2.7,High,High
+EMP0887,DevOps Engineer,19,PhD,,Gaming,,Hybrid,29,83,,,3.3,49,Optimizing,9.2,57,54,3.5,Low,Low
+EMP0888,Backend Engineer,2,Master,,Gaming,,Hybrid,36,135,,,7.4,62,AI-First,0.3,54,75,2.7,Medium,Medium
+EMP0889,DevOps Engineer,10,Master,,EdTech,,Hybrid,2,112,,,6.7,5,AI-First,0,81,35,3.2,Low,Low
+EMP0890,Backend Engineer,2,Bootcamp,,Consulting,,Hybrid,4,73,,,1.3,36,AI-First,2.6,46,45,4.3,Low,Low
+EMP0891,Frontend Engineer,11,PhD,,EdTech,,Hybrid,44,53,,,1.3,12,Integrating,8.5,63,37,4.1,Medium,Low
+EMP0892,Data Scientist,18,Bachelor,,Automotive,,Hybrid,8,235,,,3.7,44,AI-First,7.7,57,36,3.5,Low,Low
+EMP0893,Data Scientist,15,Bachelor,,Healthtech,,Hybrid,10,196,,,1.2,60,Optimizing,3.4,59,43,3.9,Medium,Low
+EMP0894,Prompt Engineer,9,Self-taught,,E-commerce,,Hybrid,37,164,,,5.1,67,Optimizing,0,60,54,2.7,High,Medium
+EMP0895,ML Engineer,19,Self-taught,,Healthtech,,Fully Remote,24,118,,,1.6,78,Experimenting,5.5,55,62,2.5,Medium,Medium
+EMP0896,AI Ethics Officer,9,Bootcamp,,SaaS,,Hybrid,25,184,,,4.4,78,AI-First,2.4,43,69,2.2,Low,Medium
+EMP0897,Data Scientist,3,Bachelor,,Automotive,,On-site,11,122,,,0.6,40,Optimizing,7.5,53,28,3.6,Medium,Low
+EMP0898,Data Scientist,9,Bootcamp,,Cybersecurity,,Fully Remote,49,176,,,2.9,61,Optimizing,4.5,30,59,3.3,High,Medium
+EMP0899,AI Researcher,14,PhD,,SaaS,,Fully Remote,13,66,,,5.6,78,Experimenting,6.8,68,68,2.8,Medium,Medium
+EMP0900,AI Researcher,19,Master,,SaaS,,Fully Remote,20,216,,,4.1,49,Experimenting,8.5,65,57,3.5,Medium,Medium
+EMP0901,ML Engineer,7,Bachelor,,Fintech,,Hybrid,33,246,,,7.8,6,AI-First,5.4,73,48,2,Low,Medium
+EMP0902,Cloud Architect,16,PhD,,E-commerce,,Fully Remote,25,204,,,7.1,72,Integrating,3.4,58,73,2.4,Low,Medium
+EMP0903,AI Ethics Officer,16,Bachelor,,EdTech,,Hybrid,23,195,,,3.2,54,Integrating,7.7,58,61,2.8,Medium,Low
+EMP0904,Product Manager,1,Self-taught,,Consulting,,Fully Remote,4,89,,,0.8,33,Optimizing,2.7,61,28,4.1,Low,Low
+EMP0905,AI Researcher,4,Bootcamp,,Healthtech,,Fully Remote,41,94,,,6.8,14,Experimenting,8.9,64,47,3.4,High,Medium
+EMP0906,Product Manager,4,Self-taught,,SaaS,,Hybrid,28,171,,,7.3,31,Integrating,0.7,72,51,3.4,Medium,Low
+EMP0907,Software Engineer,7,Master,,Healthtech,,Fully Remote,20,137,,,6.7,19,Integrating,8.4,55,44,3.6,Medium,Low
+EMP0908,AI Researcher,8,Self-taught,,Healthtech,,On-site,10,186,,,1.5,64,Integrating,0.9,48,48,3.2,High,Medium
+EMP0909,Frontend Engineer,17,Bachelor,,Cybersecurity,,Fully Remote,14,76,,,8,35,Integrating,0.6,55,57,2.9,High,Medium
+EMP0910,Cloud Architect,5,Self-taught,,E-commerce,,Hybrid,3,171,,,2.4,25,Experimenting,3.6,59,31,3.9,Medium,Low
+EMP0911,AI Ethics Officer,7,Bachelor,,E-commerce,,Fully Remote,37,76,,,5.9,64,Experimenting,9.6,51,66,3.1,High,High
+EMP0912,ML Engineer,4,Master,,Media,,Fully Remote,30,218,,,7.3,62,Optimizing,9.8,70,60,3,High,Medium
+EMP0913,Software Engineer,6,Self-taught,,Gaming,,On-site,12,199,,,2.3,45,AI-First,2,73,55,2.8,High,Medium
+EMP0914,AI Ethics Officer,7,Bootcamp,,E-commerce,,On-site,35,212,,,7.3,50,Integrating,1.5,69,54,2.8,High,High
+EMP0915,Prompt Engineer,18,Bootcamp,,Healthtech,,Fully Remote,5,151,,,2.8,49,Integrating,3.5,69,44,3.8,Medium,Low
+EMP0916,Frontend Engineer,5,Bootcamp,,EdTech,,Hybrid,5,51,,,7.8,30,Experimenting,3.4,61,47,3.8,Medium,Low
+EMP0917,AI Ethics Officer,3,Self-taught,,Healthtech,,Hybrid,2,208,,,2.6,55,Optimizing,7.6,50,46,4,Low,Low
+EMP0918,Frontend Engineer,7,Self-taught,,EdTech,,Fully Remote,26,95,,,7.7,40,AI-First,4.4,45,50,3.1,Low,Low
+EMP0919,Frontend Engineer,14,Self-taught,,Media,,Fully Remote,27,119,,,0.9,56,Integrating,7.8,45,52,2.3,Low,Medium
+EMP0920,Product Manager,7,Bachelor,,EdTech,,On-site,12,53,,,5.8,55,Integrating,7.5,59,66,3,Low,Medium
+EMP0921,Backend Engineer,5,Master,,E-commerce,,On-site,24,93,,,4.5,7,Optimizing,5.8,60,44,3.2,Medium,Medium
+EMP0922,Prompt Engineer,5,Bootcamp,,Cybersecurity,,On-site,3,230,,,4.1,18,Optimizing,8.3,55,42,3.5,Low,Low
+EMP0923,Software Engineer,2,Bachelor,,EdTech,,Hybrid,20,104,,,2.2,53,Integrating,2,58,54,3.3,High,Medium
+EMP0924,AI Ethics Officer,6,Bootcamp,,Healthtech,,Hybrid,30,155,,,5.8,5,Optimizing,1.6,53,42,3.9,High,Medium
+EMP0925,DevOps Engineer,15,Bachelor,,Consulting,,Fully Remote,41,97,,,1.9,61,Optimizing,7.5,56,52,3.7,Low,Low
+EMP0926,Software Engineer,10,Self-taught,,E-commerce,,Fully Remote,5,135,,,4.6,21,AI-First,2.4,67,43,4.2,Low,Low
+EMP0927,Backend Engineer,7,Bootcamp,,Consulting,,Fully Remote,17,60,,,2.4,54,Experimenting,0,61,57,3.8,High,Medium
+EMP0928,Software Engineer,5,Self-taught,,Automotive,,Hybrid,48,43,,,7.7,18,AI-First,9.1,50,30,4.1,High,Medium
+EMP0929,Data Scientist,1,Bootcamp,,Automotive,,Hybrid,38,112,,,0.7,63,Integrating,6.2,49,33,3.1,High,Medium
+EMP0930,DevOps Engineer,13,PhD,,Healthtech,,On-site,28,166,,,2,7,Optimizing,4.4,52,44,3.2,High,Medium
+EMP0931,Backend Engineer,18,Bachelor,,Automotive,,On-site,6,85,,,2.3,44,Integrating,7.3,78,46,4.2,High,Medium
+EMP0932,Product Manager,13,PhD,,Gaming,,On-site,16,51,,,3.6,70,Integrating,3.3,59,65,2.9,Medium,Medium
+EMP0933,AI Ethics Officer,18,Bachelor,,Media,,On-site,24,167,,,2.2,38,Optimizing,9.5,50,40,4.8,Low,Low
+EMP0934,Cloud Architect,5,Master,,E-commerce,,Fully Remote,4,69,,,4.2,13,Integrating,0.7,71,55,3,High,Medium
+EMP0935,Data Analyst,13,Bootcamp,,Consulting,,Hybrid,19,133,,,7,25,Experimenting,6.4,69,50,4.5,Low,Low
+EMP0936,Backend Engineer,4,Master,,Healthtech,,Hybrid,44,99,,,5.8,29,Integrating,7.8,58,53,3.2,High,Medium
+EMP0937,ML Engineer,17,Master,,Gaming,,Fully Remote,27,139,,,4.8,48,Integrating,4.7,50,50,3.1,Medium,Low
+EMP0938,AI Ethics Officer,3,Bachelor,,Healthtech,,On-site,7,110,,,1.2,29,Experimenting,7.5,52,33,3.5,High,Medium
+EMP0939,Prompt Engineer,17,PhD,,Gaming,,On-site,45,120,,,5.7,13,AI-First,9.3,44,31,4.3,Low,Low
+EMP0940,Backend Engineer,11,Self-taught,,Automotive,,Fully Remote,18,232,,,1.7,66,Experimenting,7.4,68,59,2.3,Medium,Medium
+EMP0941,Data Scientist,4,Bachelor,,Automotive,,Fully Remote,47,181,,,6.4,30,Integrating,3.1,68,54,2.9,Medium,Medium
+EMP0942,Data Analyst,2,Self-taught,,EdTech,,Hybrid,39,150,,,2.4,61,Experimenting,5.6,68,53,3.2,High,High
+EMP0943,Data Scientist,16,Master,,Fintech,,Hybrid,43,83,,,3.6,41,Integrating,9.1,81,40,2.5,Low,Medium
+EMP0944,Data Analyst,18,Self-taught,,Healthtech,,On-site,49,147,,,3.1,20,Integrating,4.5,49,53,3.2,High,Medium
+EMP0945,Prompt Engineer,8,PhD,,EdTech,,Fully Remote,28,141,,,6.9,41,Integrating,6.8,58,56,4,High,Medium
+EMP0946,Cloud Architect,3,Bachelor,,E-commerce,,Fully Remote,21,193,,,1.4,28,Experimenting,4.7,61,46,3.7,Medium,Low
+EMP0947,ML Engineer,9,PhD,,EdTech,,Fully Remote,7,130,,,4.7,30,Experimenting,1.2,55,48,3.1,High,Medium
+EMP0948,AI Ethics Officer,6,PhD,,SaaS,,Fully Remote,36,148,,,1.6,24,Optimizing,0.6,68,31,3.7,Medium,Low
+EMP0949,Product Manager,10,Bachelor,,Automotive,,Fully Remote,13,55,,,5.8,13,Optimizing,9.5,49,53,3.4,Low,Low
+EMP0950,Data Scientist,10,PhD,,SaaS,,On-site,49,149,,,7.3,33,Integrating,6.1,38,58,2.8,Low,Low
+EMP0951,Data Scientist,13,Bootcamp,,Healthtech,,Fully Remote,4,46,,,3.8,35,Experimenting,1,46,46,3.7,High,Medium
+EMP0952,Frontend Engineer,17,Bootcamp,,Consulting,,Hybrid,49,199,,,4.2,23,AI-First,8.6,58,48,3.1,Medium,Low
+EMP0953,Data Analyst,9,Bootcamp,,Consulting,,Fully Remote,5,128,,,7.5,24,Experimenting,5.2,46,58,2.6,Low,Medium
+EMP0954,AI Researcher,17,Self-taught,,E-commerce,,Fully Remote,46,134,,,4.4,31,AI-First,7.7,44,53,3.8,Medium,Low
+EMP0955,Cloud Architect,9,PhD,,EdTech,,On-site,5,55,,,4.2,48,Integrating,1.3,53,39,4.1,Medium,Low
+EMP0956,AI Ethics Officer,9,Bachelor,,Consulting,,Hybrid,5,144,,,4.8,39,Integrating,9.1,79,39,2.8,Low,Medium
+EMP0957,Data Analyst,1,Bachelor,,Gaming,,Hybrid,40,161,,,5.7,75,Optimizing,5.9,44,69,2.5,Medium,Medium
+EMP0958,Frontend Engineer,2,Self-taught,,Gaming,,Hybrid,22,245,,,1.3,26,AI-First,7.4,69,34,4.4,Low,Low
+EMP0959,Software Engineer,16,Bachelor,,E-commerce,,Fully Remote,45,128,,,6.7,78,Integrating,0.3,60,58,3,Low,Medium
+EMP0960,Data Analyst,1,Bootcamp,,Media,,Hybrid,3,101,,,3.8,19,Integrating,3.2,77,46,3.2,Medium,Low
+EMP0961,Product Manager,10,PhD,,Automotive,,Fully Remote,17,69,,,1,17,Integrating,2.7,52,28,3.9,Medium,Low
+EMP0962,AI Ethics Officer,18,Bachelor,,EdTech,,On-site,8,238,,,6.4,8,AI-First,9.5,42,41,3.7,Low,Low
+EMP0963,Cloud Architect,8,Bachelor,,Healthtech,,Fully Remote,20,179,,,3.3,60,Optimizing,1.9,73,61,2.9,Medium,Medium
+EMP0964,Frontend Engineer,11,Master,,Cybersecurity,,Hybrid,44,106,,,1.3,27,Experimenting,7.1,61,28,4,Low,Low
+EMP0965,Software Engineer,2,Master,,Cybersecurity,,Fully Remote,34,85,,,5.3,38,Experimenting,0.4,76,41,3.6,Low,Low
+EMP0966,DevOps Engineer,8,Master,,Cybersecurity,,Hybrid,10,82,,,7.1,21,Experimenting,2,60,37,3.3,Low,Low
+EMP0967,Frontend Engineer,8,PhD,,Consulting,,On-site,38,222,,,7.2,32,Integrating,3.4,61,47,2.9,Low,Medium
+EMP0968,DevOps Engineer,17,Bootcamp,,Media,,Hybrid,18,84,,,7.7,18,Experimenting,7.9,83,51,2.8,Low,Low
+EMP0969,AI Ethics Officer,15,Bootcamp,,Media,,Hybrid,28,227,,,7,38,Optimizing,7.9,66,50,3.4,High,Medium
+EMP0970,Data Scientist,17,Bootcamp,,EdTech,,On-site,34,238,,,0.5,79,Experimenting,9.5,76,66,3.1,Medium,Medium
+EMP0971,Frontend Engineer,13,PhD,,EdTech,,Hybrid,13,119,,,3.4,61,Integrating,9.2,55,58,2.6,Low,Medium
+EMP0972,ML Engineer,19,PhD,,Media,,Fully Remote,46,71,,,6.6,59,Optimizing,0.8,59,60,2.2,Low,Medium
+EMP0973,DevOps Engineer,5,Master,,E-commerce,,Fully Remote,12,47,,,3.2,70,Integrating,8.3,50,67,2.3,Low,Medium
+EMP0974,Product Manager,12,Bachelor,,EdTech,,Hybrid,14,152,,,5,41,Experimenting,4.5,56,41,4.3,High,Medium
+EMP0975,ML Engineer,1,Self-taught,,E-commerce,,Hybrid,32,244,,,5,72,Experimenting,8.7,67,68,2.6,Medium,Medium
+EMP0976,Backend Engineer,5,Self-taught,,SaaS,,Fully Remote,14,101,,,3.2,30,Experimenting,0.9,33,43,3.5,Low,Low
+EMP0977,Backend Engineer,8,Bachelor,,Gaming,,Fully Remote,39,242,,,7.3,65,Optimizing,8.2,53,60,2.6,Medium,Medium
+EMP0978,Software Engineer,13,Master,,Automotive,,On-site,27,59,,,4.3,71,Optimizing,1.6,62,64,3.2,Medium,Medium
+EMP0979,Cloud Architect,8,Bachelor,,EdTech,,Fully Remote,32,185,,,4,78,Experimenting,3.3,29,58,3,Low,Medium
+EMP0980,Data Scientist,11,Bachelor,,Media,,Hybrid,23,140,,,8,56,Integrating,0.3,59,64,2.5,Medium,Medium
+EMP0981,AI Ethics Officer,1,Self-taught,,Gaming,,Fully Remote,7,45,,,4.2,22,Integrating,1.2,72,44,3,Medium,Low
+EMP0982,Frontend Engineer,13,Master,,Gaming,,On-site,21,123,,,1.8,57,Integrating,4.5,73,53,3.4,Low,Low
+EMP0983,AI Researcher,19,PhD,,Fintech,,Fully Remote,22,147,,,4.3,67,Integrating,8.2,50,54,3.3,Medium,Medium
+EMP0984,Product Manager,3,Self-taught,,Media,,Hybrid,11,196,,,6.6,57,Integrating,7.7,69,67,2.1,Medium,Medium
+EMP0985,DevOps Engineer,17,PhD,,Automotive,,Fully Remote,20,43,,,6.3,31,Integrating,2.4,72,35,4.4,Medium,Low
+EMP0986,AI Ethics Officer,5,Master,,Media,,Hybrid,36,110,,,6.4,35,Experimenting,1.5,36,58,2.7,Low,Medium
+EMP0987,ML Engineer,8,Bachelor,,EdTech,,On-site,27,210,,,5.8,5,Optimizing,3.9,55,27,3,Medium,Medium
+EMP0988,Prompt Engineer,14,Bootcamp,,Healthtech,,Fully Remote,8,123,,,2.4,10,AI-First,8.8,62,31,4.7,Medium,Low
+EMP0989,Backend Engineer,4,Bootcamp,,SaaS,,Hybrid,38,201,,,7,15,AI-First,0.9,77,52,3.2,Medium,Low
+EMP0990,Prompt Engineer,11,Master,,E-commerce,,Hybrid,9,139,,,7.2,38,Experimenting,5.4,56,39,3.9,Medium,Low
+EMP0991,Product Manager,15,Bootcamp,,Healthtech,,Fully Remote,6,110,,,2,67,Optimizing,0.9,77,55,4,Low,Low
+EMP0992,AI Researcher,19,PhD,,SaaS,,On-site,45,72,,,1.5,57,Optimizing,4.7,52,39,3.2,Medium,Low
+EMP0993,Frontend Engineer,7,Bootcamp,,Healthtech,,Fully Remote,37,182,,,7.8,22,AI-First,1.3,36,44,3.8,Medium,Low
+EMP0994,Software Engineer,19,Master,,E-commerce,,Hybrid,29,159,,,7,25,Integrating,0.8,51,43,4.2,Medium,Low
+EMP0995,AI Researcher,19,Master,,Consulting,,Fully Remote,4,207,,,7.2,23,Optimizing,1.9,73,40,3.2,High,Medium
+EMP0996,Product Manager,11,PhD,,Media,,Fully Remote,40,132,,,7.1,8,Experimenting,2.6,61,32,4.7,High,Low
+EMP0997,AI Researcher,5,Bootcamp,,Healthtech,,Fully Remote,9,172,,,4.6,33,Optimizing,2.8,79,65,2.1,Low,Medium
+EMP0998,Product Manager,5,Bootcamp,,EdTech,,Hybrid,16,245,,,5.3,29,Integrating,6.5,49,47,3.4,High,Medium
+EMP0999,Product Manager,8,Bachelor,,Automotive,,Hybrid,28,217,,,4.6,60,Optimizing,0.5,72,47,2.9,Medium,Medium
+EMP1000,Data Analyst,10,Self-taught,,Cybersecurity,,Hybrid,37,138,,,0.9,67,AI-First,0.8,65,47,3.8,Medium,Low
+EMP1001,DevOps Engineer,6,Master,,EdTech,,Fully Remote,17,105,,,6.1,31,Integrating,1.9,51,51,2.8,High,High
+EMP1002,Prompt Engineer,15,Bachelor,,E-commerce,,Fully Remote,27,93,,,4.3,64,Integrating,8.7,69,54,2.9,Medium,Low
+EMP1003,Backend Engineer,16,Master,,Automotive,,Hybrid,46,247,,,5.4,53,Experimenting,6.3,59,46,3,Medium,Low
+EMP1004,Data Analyst,17,Bachelor,,EdTech,,On-site,45,213,,,4.3,69,Integrating,7.3,68,52,2.7,High,High
+EMP1005,Frontend Engineer,8,Self-taught,,Gaming,,Fully Remote,5,119,,,4.2,42,Integrating,3.7,62,60,2.6,Low,Medium
+EMP1006,Data Analyst,8,Bachelor,,Media,,Hybrid,13,178,,,1.8,56,Experimenting,2.1,73,39,3.7,Low,Low
+EMP1007,Data Scientist,9,Master,,Automotive,,Fully Remote,18,163,,,2.6,5,AI-First,0.4,54,20,4.3,Medium,Low
+EMP1008,Data Scientist,2,Bootcamp,,Gaming,,Hybrid,42,216,,,1.7,44,Experimenting,4.9,81,43,3.5,High,Medium
+EMP1009,Backend Engineer,15,Master,,EdTech,,On-site,45,190,,,2,25,Optimizing,5.7,59,26,3.8,High,Medium
+EMP1010,AI Researcher,18,PhD,,SaaS,,On-site,27,94,,,7.8,19,AI-First,9,72,44,3.4,Low,Low
+EMP1011,DevOps Engineer,3,PhD,,Fintech,,Hybrid,32,44,,,1.6,54,AI-First,8.8,40,39,2.9,High,Medium
+EMP1012,Backend Engineer,17,PhD,,SaaS,,Fully Remote,16,231,,,2.5,52,Optimizing,4.2,50,40,3.3,Low,Low
+EMP1013,Product Manager,4,PhD,,Media,,On-site,35,74,,,4.9,36,Experimenting,4.2,42,51,3.2,High,Medium
+EMP1014,ML Engineer,4,Self-taught,,Automotive,,Hybrid,30,132,,,5.1,53,Optimizing,1.6,71,58,3.2,Medium,Medium
+EMP1015,DevOps Engineer,14,Bootcamp,,Automotive,,Fully Remote,10,158,,,1.7,72,Integrating,2.6,51,48,3.5,Low,Medium
+EMP1016,Cloud Architect,9,Bootcamp,,Media,,Hybrid,15,236,,,6.5,49,AI-First,9.3,66,56,2.5,Low,Medium
+EMP1017,Prompt Engineer,9,Master,,Gaming,,On-site,37,93,,,6.4,36,Optimizing,1.4,54,46,3.7,Low,Low
+EMP1018,DevOps Engineer,18,Bachelor,,Fintech,,On-site,5,42,,,2.3,8,Optimizing,9.7,61,40,3.7,Low,Low
+EMP1019,Product Manager,10,Master,,EdTech,,Fully Remote,39,45,,,2.7,69,Experimenting,5,70,44,4.3,High,Low
+EMP1020,Product Manager,4,Master,,E-commerce,,Hybrid,38,126,,,7.5,75,Integrating,4.6,43,68,2,Low,Medium
+EMP1021,Software Engineer,12,Master,,SaaS,,On-site,25,149,,,6.7,77,Optimizing,1.7,46,68,2.7,High,High
+EMP1022,Backend Engineer,8,Master,,SaaS,,Fully Remote,18,95,,,5.7,69,AI-First,6.6,60,80,2.8,Medium,Medium
+EMP1023,Product Manager,2,Bootcamp,,Cybersecurity,,Hybrid,14,41,,,1.1,22,Experimenting,4.6,61,24,4.1,Medium,Low
+EMP1024,Data Scientist,13,Bachelor,,Fintech,,Hybrid,21,121,,,3.6,58,AI-First,3.7,68,75,2,Low,Medium
+EMP1025,Frontend Engineer,16,Master,,E-commerce,,Hybrid,18,133,,,4.7,51,Experimenting,2.6,42,60,2.6,High,High
+EMP1026,ML Engineer,2,Bootcamp,,SaaS,,Fully Remote,28,205,,,1.9,10,Optimizing,0.7,48,51,3.7,Medium,Low
+EMP1027,Prompt Engineer,11,Master,,E-commerce,,Hybrid,34,223,,,3.9,70,Optimizing,5.2,54,66,2,High,High
+EMP1028,Backend Engineer,10,PhD,,EdTech,,On-site,22,44,,,5,13,Experimenting,3.1,37,36,3.6,High,Medium
+EMP1029,AI Ethics Officer,15,Master,,Automotive,,Hybrid,18,213,,,3,72,Experimenting,7.1,67,62,2.5,Low,Medium
+EMP1030,Data Scientist,17,Master,,E-commerce,,Hybrid,23,178,,,6.4,27,Optimizing,7.2,48,45,3.1,Low,Medium
+EMP1031,Cloud Architect,8,Self-taught,,SaaS,,Fully Remote,26,232,,,6.8,47,Integrating,3.3,70,56,3.4,High,Medium
+EMP1032,AI Researcher,18,PhD,,Gaming,,Fully Remote,4,177,,,2.9,55,Experimenting,6.7,57,42,3.4,High,Medium
+EMP1033,Product Manager,9,Bachelor,,Fintech,,Hybrid,28,80,,,6.8,76,Optimizing,2.6,52,60,3.1,Medium,Low
+EMP1034,AI Ethics Officer,8,Master,,Media,,Fully Remote,28,155,,,1.3,29,Optimizing,7.3,51,48,2.8,Medium,Medium
+EMP1035,Product Manager,14,Bachelor,,Healthtech,,On-site,47,83,,,6.8,39,Integrating,0.2,65,58,3.5,Medium,Low
+EMP1036,DevOps Engineer,18,PhD,,Consulting,,Fully Remote,13,129,,,1.6,21,Experimenting,1.5,64,47,3.5,Low,Low
+EMP1037,Data Scientist,12,Master,,Consulting,,Hybrid,16,72,,,1.1,22,Experimenting,2.5,76,27,4.7,Low,Low
+EMP1038,DevOps Engineer,19,Self-taught,,Healthtech,,Fully Remote,39,95,,,5.3,31,Optimizing,7.7,59,34,3.7,Medium,Low
+EMP1039,Software Engineer,14,Bootcamp,,E-commerce,,On-site,21,179,,,4,19,Integrating,0.7,51,52,3.5,Low,Medium
+EMP1040,DevOps Engineer,17,Self-taught,,Fintech,,Fully Remote,23,41,,,7.3,73,Optimizing,1.9,47,74,2.9,Medium,Medium
+EMP1041,Software Engineer,3,Self-taught,,E-commerce,,Fully Remote,3,40,,,3.2,19,Optimizing,3.6,53,43,3.8,High,Medium
+EMP1042,Cloud Architect,7,Bootcamp,,Media,,Fully Remote,5,232,,,2.7,46,Integrating,0.1,53,52,4.1,High,Low
+EMP1043,Software Engineer,17,Bootcamp,,Fintech,,On-site,46,160,,,4.3,38,Experimenting,7.6,65,56,2.3,High,Medium
+EMP1044,AI Ethics Officer,12,Bootcamp,,Healthtech,,Fully Remote,14,164,,,3.9,52,AI-First,5.6,78,54,3.3,High,Medium
+EMP1045,Product Manager,9,Master,,E-commerce,,Fully Remote,33,72,,,3.1,12,Integrating,9,37,44,3.3,Medium,Low
+EMP1046,AI Researcher,15,Bachelor,,Cybersecurity,,Fully Remote,23,243,,,5.7,14,Optimizing,0.3,56,52,3,High,Medium
+EMP1047,Prompt Engineer,18,Bachelor,,SaaS,,Hybrid,26,142,,,6.2,9,AI-First,2.7,52,44,4.3,High,Low
+EMP1048,DevOps Engineer,13,Bootcamp,,Gaming,,Fully Remote,28,75,,,6.9,52,AI-First,7.3,54,56,2.8,High,High
+EMP1049,Prompt Engineer,8,Self-taught,,Automotive,,Fully Remote,18,188,,,7.8,30,Integrating,6.8,65,57,3.5,Medium,Medium
+EMP1050,Data Scientist,14,PhD,,Gaming,,Fully Remote,7,123,,,2.5,27,Integrating,2.4,56,61,2.4,Low,Medium
+EMP1051,Software Engineer,8,Bootcamp,,Media,,Hybrid,44,203,,,5.9,66,AI-First,6,40,54,3.7,Low,Low
+EMP1052,Product Manager,14,Self-taught,,E-commerce,,Hybrid,17,65,,,3.5,17,Optimizing,7.9,38,38,3.7,Low,Low
+EMP1053,ML Engineer,7,Self-taught,,EdTech,,Hybrid,9,214,,,5.6,13,Integrating,0.3,55,31,3.8,High,Medium
+EMP1054,Backend Engineer,12,Master,,Fintech,,On-site,34,168,,,4.1,24,Integrating,7.2,45,48,2.6,Medium,Medium
+EMP1055,AI Ethics Officer,11,Master,,E-commerce,,On-site,11,205,,,8,61,Integrating,2.5,56,60,2.9,High,High
+EMP1056,AI Researcher,11,Bachelor,,Fintech,,Fully Remote,35,181,,,6,28,AI-First,9.5,61,39,3.4,Medium,Medium
+EMP1057,Data Analyst,13,Bachelor,,Automotive,,Hybrid,20,129,,,7.6,37,Integrating,5.4,37,55,4,Medium,Low
+EMP1058,AI Ethics Officer,18,PhD,,Cybersecurity,,Hybrid,15,85,,,6.8,24,Optimizing,0.3,77,62,3,Low,Medium
+EMP1059,Cloud Architect,2,PhD,,Gaming,,On-site,4,81,,,7.3,64,Optimizing,4,54,60,2.7,Low,Low
+EMP1060,ML Engineer,15,PhD,,SaaS,,Hybrid,42,174,,,6.6,52,Optimizing,9.7,37,56,2.8,Medium,Low
+EMP1061,Backend Engineer,18,PhD,,Automotive,,Hybrid,24,94,,,3.9,68,Optimizing,7.3,60,69,2,Medium,Medium
+EMP1062,ML Engineer,15,Self-taught,,Automotive,,Hybrid,41,95,,,2.4,34,AI-First,3,49,44,4.3,Low,Low
+EMP1063,DevOps Engineer,19,Self-taught,,Gaming,,On-site,12,157,,,3.3,77,Integrating,5.8,42,50,4,High,Medium
+EMP1064,Software Engineer,12,Bachelor,,Automotive,,Fully Remote,48,115,,,0.7,21,Experimenting,6,57,43,3.5,Medium,Low
+EMP1065,AI Researcher,13,Master,,EdTech,,Fully Remote,7,102,,,4.4,18,Optimizing,0.2,54,53,4.3,High,Medium
+EMP1066,Frontend Engineer,11,Master,,EdTech,,Fully Remote,35,191,,,4.3,23,Integrating,1.8,55,43,3.6,Low,Low
+EMP1067,Software Engineer,5,Bootcamp,,Consulting,,Fully Remote,2,122,,,4.4,75,Experimenting,5.5,52,62,3.5,Medium,Medium
+EMP1068,Frontend Engineer,1,Self-taught,,Consulting,,Hybrid,36,240,,,7.8,63,Experimenting,4,46,54,3.5,Low,Low
+EMP1069,Prompt Engineer,3,PhD,,EdTech,,Fully Remote,26,138,,,7.3,71,Experimenting,1.9,53,58,2.8,High,High
+EMP1070,Backend Engineer,19,PhD,,Healthtech,,Fully Remote,30,171,,,1.7,48,Optimizing,7.7,41,45,3.6,Medium,Low
+EMP1071,Product Manager,7,Bootcamp,,Cybersecurity,,On-site,24,81,,,3.3,36,Optimizing,4.9,53,48,3.6,Medium,Low
+EMP1072,Data Analyst,12,Master,,Fintech,,Hybrid,19,135,,,3.7,15,Experimenting,3.1,60,36,3.1,High,Medium
+EMP1073,Data Scientist,15,PhD,,Cybersecurity,,Hybrid,15,149,,,3.2,6,Optimizing,1.6,66,35,4,Low,Low
+EMP1074,Software Engineer,5,Master,,Media,,Fully Remote,18,109,,,6.5,72,Integrating,6.1,70,63,3.5,Low,Low
+EMP1075,AI Researcher,15,Bootcamp,,Automotive,,Fully Remote,3,67,,,4.4,21,Optimizing,6.7,67,37,3.4,High,Medium
+EMP1076,Cloud Architect,8,Master,,SaaS,,On-site,32,165,,,4.8,44,Integrating,6.7,49,50,3.2,Medium,Low
+EMP1077,Cloud Architect,10,Master,,Automotive,,Hybrid,20,131,,,6.9,50,Optimizing,2.2,49,68,2.2,Low,Medium
+EMP1078,ML Engineer,16,Master,,Cybersecurity,,Fully Remote,33,79,,,6.5,8,Integrating,6,70,40,3.4,Medium,Low
+EMP1079,AI Researcher,8,PhD,,EdTech,,On-site,29,218,,,1.5,42,Integrating,9.1,50,38,3.5,Low,Low
+EMP1080,Backend Engineer,1,Bachelor,,Gaming,,On-site,42,196,,,5.9,67,Optimizing,3.5,64,78,3.2,Low,Medium
+EMP1081,Prompt Engineer,12,Self-taught,,Media,,On-site,9,81,,,3.8,33,Experimenting,2.1,69,49,3.2,Medium,Low
+EMP1082,Frontend Engineer,5,Master,,EdTech,,Hybrid,43,157,,,2.7,23,AI-First,7.7,72,36,3.5,High,Medium
+EMP1083,ML Engineer,3,Master,,Cybersecurity,,Fully Remote,42,236,,,0.9,33,Optimizing,1.8,65,46,3.4,Medium,Low
+EMP1084,Cloud Architect,1,Master,,Gaming,,Hybrid,41,44,,,4.2,39,Integrating,2.5,62,52,2.4,Medium,Medium
+EMP1085,Data Scientist,4,Bachelor,,SaaS,,Hybrid,40,140,,,3.2,74,Optimizing,1,42,54,2,High,High
+EMP1086,Data Scientist,8,Bootcamp,,Cybersecurity,,Fully Remote,23,208,,,2.4,27,Experimenting,2.7,65,42,2.9,Low,Low
+EMP1087,Software Engineer,3,PhD,,Fintech,,Hybrid,25,100,,,5.7,50,Integrating,4.1,68,54,3.4,Medium,Low
+EMP1088,Backend Engineer,10,Bachelor,,E-commerce,,Fully Remote,39,222,,,6.3,48,AI-First,0.6,48,64,2.9,High,High
+EMP1089,Product Manager,2,Master,,Gaming,,Hybrid,3,195,,,2.3,52,Experimenting,8.7,49,55,3.6,Low,Low
+EMP1090,Cloud Architect,11,Bachelor,,Cybersecurity,,Fully Remote,42,80,,,0.9,56,Optimizing,5.1,53,31,3.2,Medium,Low
+EMP1091,Backend Engineer,10,Bachelor,,EdTech,,Hybrid,42,150,,,6.9,12,Integrating,5.9,54,62,2.8,High,High
+EMP1092,Prompt Engineer,14,Bachelor,,Fintech,,Fully Remote,20,48,,,0.6,59,Optimizing,3.7,39,46,2.7,High,High
+EMP1093,Frontend Engineer,7,Bootcamp,,Healthtech,,On-site,42,196,,,7.5,70,Experimenting,6.7,70,79,2.5,Low,Medium
+EMP1094,AI Researcher,2,Self-taught,,Gaming,,Hybrid,3,245,,,5.2,44,Integrating,4.3,62,59,2.3,Low,Medium
+EMP1095,Cloud Architect,9,PhD,,Fintech,,Hybrid,29,205,,,2.9,35,AI-First,7.6,56,48,3.3,Low,Low
+EMP1096,Data Scientist,16,Bootcamp,,EdTech,,On-site,33,101,,,2.3,52,Experimenting,8.2,55,49,3.5,Medium,Low
+EMP1097,AI Researcher,13,Bootcamp,,Cybersecurity,,Hybrid,20,93,,,0.6,65,Optimizing,6.7,57,72,2.4,Medium,Medium
+EMP1098,AI Researcher,9,Self-taught,,Automotive,,On-site,17,219,,,2.3,56,Integrating,4.9,57,49,2.2,Medium,Medium
+EMP1099,AI Researcher,4,Bootcamp,,SaaS,,Fully Remote,31,143,,,1.5,42,Integrating,7.8,56,40,4.5,High,Low
+EMP1100,Data Scientist,10,Bachelor,,Automotive,,Fully Remote,23,165,,,5.1,40,Optimizing,4.9,63,47,3.2,Low,Medium
+EMP1101,Prompt Engineer,12,Bachelor,,E-commerce,,Fully Remote,15,73,,,1.7,59,Integrating,1.1,49,51,2.5,High,High
+EMP1102,AI Ethics Officer,17,Master,,Fintech,,Fully Remote,2,204,,,4.5,17,Experimenting,1.2,52,44,3.9,Low,Low
+EMP1103,DevOps Engineer,14,Bootcamp,,E-commerce,,On-site,46,216,,,4.9,41,AI-First,9.5,59,60,3.4,Low,Low
+EMP1104,Frontend Engineer,14,Master,,SaaS,,Fully Remote,3,81,,,2.7,51,Optimizing,2.1,55,56,3,Medium,Medium
+EMP1105,AI Ethics Officer,2,PhD,,Fintech,,Hybrid,23,53,,,0.8,75,Experimenting,8.2,51,60,3.8,Low,Low
+EMP1106,Frontend Engineer,11,Bachelor,,Consulting,,Hybrid,47,249,,,0.8,26,Integrating,2.5,64,37,3.4,Medium,Low
+EMP1107,ML Engineer,16,PhD,,EdTech,,Hybrid,34,72,,,0.7,43,Optimizing,4.3,46,49,3.5,High,Medium
+EMP1108,Backend Engineer,19,Self-taught,,Fintech,,Hybrid,16,157,,,6,62,AI-First,6.5,48,66,3.1,Low,Medium
+EMP1109,Backend Engineer,6,Bachelor,,EdTech,,Hybrid,42,137,,,2.9,34,AI-First,1.6,72,45,4.3,Medium,Low
+EMP1110,Data Analyst,19,PhD,,Automotive,,Fully Remote,23,131,,,6.5,22,AI-First,7.4,63,51,2.3,Low,Medium
+EMP1111,Backend Engineer,5,Self-taught,,Media,,Fully Remote,41,139,,,3.7,22,Experimenting,6.9,64,50,4.5,Low,Low
+EMP1112,Data Scientist,4,PhD,,Gaming,,Hybrid,40,126,,,3.9,78,AI-First,5.4,45,62,3.5,Medium,Medium
+EMP1113,Product Manager,15,Self-taught,,Media,,Hybrid,42,184,,,4.3,43,AI-First,5.7,58,53,3.5,High,Medium
+EMP1114,Software Engineer,4,Self-taught,,Cybersecurity,,Hybrid,42,163,,,5.8,30,Integrating,1.1,52,61,2.6,Medium,Medium
+EMP1115,Data Analyst,10,Bachelor,,Gaming,,On-site,12,242,,,2.6,75,Integrating,4.4,72,59,2.6,Medium,Medium
+EMP1116,Software Engineer,3,Master,,Gaming,,Hybrid,5,71,,,1.4,11,Integrating,0.9,38,31,4.1,High,Low
+EMP1117,Frontend Engineer,5,Self-taught,,Healthtech,,Hybrid,8,140,,,4.7,73,Optimizing,3.1,51,50,3.6,High,Medium
+EMP1118,Software Engineer,6,Self-taught,,Gaming,,Fully Remote,22,246,,,3,69,Integrating,9,65,57,3.3,Low,Low
+EMP1119,Software Engineer,8,Bachelor,,SaaS,,Hybrid,8,235,,,3.8,50,Experimenting,5.7,65,49,3.4,Medium,Medium
+EMP1120,Data Analyst,7,Master,,Media,,Hybrid,5,78,,,5.4,22,Experimenting,7.4,55,53,3.4,Medium,Low
+EMP1121,ML Engineer,10,Bootcamp,,Automotive,,Fully Remote,13,133,,,4.2,17,Integrating,5.7,71,56,2,Medium,Medium
+EMP1122,AI Researcher,6,Bootcamp,,EdTech,,Fully Remote,28,49,,,5.2,29,Integrating,1.9,44,40,3.5,Medium,Low
+EMP1123,Backend Engineer,14,Master,,Cybersecurity,,Hybrid,18,191,,,4.6,12,Optimizing,5.9,44,35,3.1,Low,Low
+EMP1124,Backend Engineer,4,PhD,,Gaming,,Fully Remote,21,139,,,6,78,Experimenting,7.6,67,65,2.8,Medium,Medium
+EMP1125,Data Scientist,13,Bachelor,,Cybersecurity,,Fully Remote,32,97,,,5.8,36,AI-First,1.4,70,46,4.1,Medium,Low
+EMP1126,Data Analyst,17,Master,,Automotive,,Hybrid,27,236,,,4.5,21,AI-First,8.2,76,43,3.1,Medium,Low
+EMP1127,Data Scientist,7,Bootcamp,,Cybersecurity,,Fully Remote,32,140,,,5.6,52,AI-First,5.6,53,52,2.9,High,Medium
+EMP1128,Product Manager,4,Self-taught,,Automotive,,On-site,36,103,,,7.1,67,Optimizing,0,61,56,2.7,High,High
+EMP1129,Product Manager,14,Bootcamp,,Gaming,,Fully Remote,10,58,,,3.7,44,Experimenting,5.2,66,57,2.7,Medium,Medium
+EMP1130,Data Scientist,3,Self-taught,,Automotive,,Hybrid,6,140,,,3.6,19,Integrating,4,65,43,3.8,Medium,Low
+EMP1131,Data Analyst,5,Bachelor,,Gaming,,Hybrid,49,156,,,6.2,10,Experimenting,3,70,60,3.4,Medium,Low
+EMP1132,Data Scientist,16,Self-taught,,Healthtech,,On-site,9,175,,,4.9,67,AI-First,7.7,47,62,3.7,Medium,Low
+EMP1133,Backend Engineer,4,Master,,Healthtech,,Fully Remote,22,110,,,1,12,Integrating,9,59,45,3,High,High
+EMP1134,AI Ethics Officer,2,Self-taught,,Automotive,,Hybrid,17,79,,,7.2,36,Integrating,7.6,60,49,3.7,Medium,Low
+EMP1135,DevOps Engineer,18,PhD,,Healthtech,,Hybrid,17,52,,,0.7,49,Optimizing,8.5,64,40,4.1,Low,Low
+EMP1136,Software Engineer,19,Master,,EdTech,,Hybrid,19,140,,,6.1,56,AI-First,9.1,58,76,3.3,Medium,Medium
+EMP1137,DevOps Engineer,19,Bachelor,,EdTech,,Hybrid,48,163,,,6.2,17,Optimizing,9.1,63,42,3.1,Medium,Low
+EMP1138,Data Analyst,17,Master,,Healthtech,,Hybrid,29,194,,,7.6,28,Optimizing,1.1,80,46,2.5,Medium,Low
+EMP1139,Prompt Engineer,14,PhD,,Healthtech,,On-site,19,121,,,0.9,44,Integrating,4.6,50,35,3.7,Medium,Low
+EMP1140,DevOps Engineer,19,Bachelor,,Consulting,,Fully Remote,15,127,,,5,18,Optimizing,0,58,60,4.4,Low,Low
+EMP1141,Product Manager,13,Bootcamp,,Consulting,,Fully Remote,49,144,,,3.7,79,Experimenting,5.1,65,58,2.5,Low,Medium
+EMP1142,Frontend Engineer,12,PhD,,Gaming,,On-site,38,169,,,3,74,AI-First,9.2,71,61,3.2,Low,Medium
+EMP1143,Software Engineer,6,Bachelor,,Automotive,,Fully Remote,41,55,,,1.2,66,Integrating,2,58,53,2.1,Medium,Medium
+EMP1144,AI Researcher,4,Self-taught,,E-commerce,,On-site,17,53,,,4.7,65,Experimenting,6.4,56,53,4.1,Low,Low
+EMP1145,Prompt Engineer,19,Master,,E-commerce,,Hybrid,22,167,,,4.1,5,AI-First,6.4,53,37,2.8,High,Medium
+EMP1146,Data Analyst,16,Bachelor,,Healthtech,,Hybrid,2,184,,,1.3,70,Integrating,1.6,71,60,1.8,Low,High
+EMP1147,Software Engineer,13,Master,,Cybersecurity,,Fully Remote,12,99,,,5.1,36,AI-First,2.4,45,41,3.7,High,Medium
+EMP1148,DevOps Engineer,4,Self-taught,,Healthtech,,Fully Remote,12,237,,,6,17,AI-First,4.6,41,52,3.3,Low,Low
+EMP1149,Product Manager,17,Bachelor,,Consulting,,Hybrid,3,56,,,6.3,37,Optimizing,1.9,50,65,3.5,Low,Low
+EMP1150,ML Engineer,1,Bootcamp,,Gaming,,On-site,33,84,,,7.3,36,Experimenting,5.8,58,57,3.5,Medium,Medium
+EMP1151,AI Ethics Officer,18,PhD,,Healthtech,,On-site,20,77,,,3.6,60,Experimenting,4.8,48,65,1.8,Low,Medium
+EMP1152,AI Researcher,17,Bachelor,,Media,,Fully Remote,6,163,,,7.6,28,AI-First,5.2,49,42,3.5,High,Medium
+EMP1153,Prompt Engineer,15,Self-taught,,Cybersecurity,,Fully Remote,4,143,,,7,8,AI-First,1.3,62,31,3.6,Low,Low
+EMP1154,AI Ethics Officer,11,Bachelor,,Media,,Fully Remote,29,103,,,2.7,27,Integrating,5.2,70,45,2.8,Medium,Low
+EMP1155,Software Engineer,13,Master,,Gaming,,On-site,27,160,,,1.7,33,Integrating,0.5,54,38,4,High,Medium
+EMP1156,Product Manager,1,Bachelor,,Gaming,,Fully Remote,24,45,,,3.8,25,Experimenting,8.8,63,52,3.8,Medium,Low
+EMP1157,Product Manager,17,Bootcamp,,EdTech,,Fully Remote,31,227,,,3.5,34,AI-First,3.4,62,44,3.1,Low,Low
+EMP1158,DevOps Engineer,6,Bachelor,,Fintech,,Fully Remote,9,151,,,4.8,24,Experimenting,8.6,67,47,3.3,Low,Low
+EMP1159,Backend Engineer,4,PhD,,Media,,Fully Remote,37,141,,,4.9,20,Experimenting,7,78,46,3.3,Medium,Low
+EMP1160,DevOps Engineer,16,Bachelor,,EdTech,,On-site,30,88,,,6.1,71,Optimizing,7.7,37,64,2.5,Low,Medium
+EMP1161,Backend Engineer,15,Master,,Consulting,,Hybrid,14,60,,,4.3,53,Experimenting,3.1,58,50,3.1,Medium,Low
+EMP1162,Backend Engineer,15,Bachelor,,SaaS,,Fully Remote,26,62,,,1.3,62,AI-First,2.3,73,40,3.3,High,Medium
+EMP1163,AI Researcher,6,Bootcamp,,Cybersecurity,,Fully Remote,23,115,,,6.9,48,Experimenting,4.1,74,56,3.2,High,High
+EMP1164,DevOps Engineer,15,Self-taught,,SaaS,,Fully Remote,47,224,,,2.8,29,Experimenting,0.2,60,55,2.9,Low,Medium
+EMP1165,Cloud Architect,14,Bachelor,,Automotive,,Fully Remote,34,103,,,7.8,27,Integrating,9.2,49,48,3.6,Low,Medium
+EMP1166,ML Engineer,11,Bachelor,,Consulting,,Fully Remote,38,196,,,1.4,63,Integrating,3.9,44,46,3.2,Low,Low
+EMP1167,Prompt Engineer,7,PhD,,Consulting,,Hybrid,8,66,,,7.7,5,Experimenting,9.9,55,48,3.7,Medium,Low
+EMP1168,Data Scientist,9,Bootcamp,,SaaS,,Fully Remote,24,173,,,1.2,19,Integrating,7.6,65,28,3.8,Medium,Low
+EMP1169,Data Scientist,16,Self-taught,,Media,,Fully Remote,7,188,,,2.2,56,Integrating,0.8,51,59,3.3,High,Medium
+EMP1170,DevOps Engineer,5,Master,,Fintech,,Fully Remote,16,110,,,0.8,62,AI-First,6.6,27,41,3.2,Medium,Low
+EMP1171,DevOps Engineer,10,Bachelor,,Media,,Hybrid,16,146,,,5.8,45,Experimenting,2.7,50,52,3.7,Low,Low
+EMP1172,AI Ethics Officer,18,Self-taught,,SaaS,,Hybrid,41,208,,,6.9,48,AI-First,2.4,53,78,1.5,Medium,High
+EMP1173,Prompt Engineer,3,Master,,Automotive,,Hybrid,35,247,,,3.8,8,Optimizing,2.6,42,30,4,Low,Low
+EMP1174,Prompt Engineer,13,Bootcamp,,Media,,Hybrid,15,172,,,7.5,72,Experimenting,9.2,49,78,2.1,Low,Medium
+EMP1175,AI Researcher,11,Bootcamp,,E-commerce,,Hybrid,30,182,,,4.9,11,Experimenting,5,72,44,3.5,Low,Low
+EMP1176,DevOps Engineer,17,Self-taught,,Media,,Fully Remote,17,188,,,5.2,50,Integrating,6.7,53,57,2.5,Low,Medium
+EMP1177,Prompt Engineer,13,Master,,Gaming,,On-site,30,97,,,6.8,13,Experimenting,2.8,60,41,3.5,Medium,Low
+EMP1178,AI Ethics Officer,6,Bootcamp,,EdTech,,Fully Remote,24,171,,,2.7,37,Integrating,5.2,70,52,2.7,Medium,Medium
+EMP1179,Backend Engineer,17,Self-taught,,Cybersecurity,,Hybrid,11,236,,,3.2,37,Experimenting,3.5,75,44,3.4,Low,Low
+EMP1180,Product Manager,13,Bootcamp,,Media,,Hybrid,48,174,,,7.3,8,Optimizing,3.2,80,37,3.6,High,Medium
+EMP1181,Product Manager,19,Bootcamp,,Fintech,,Hybrid,5,74,,,7.3,69,Integrating,2.5,79,76,2.6,Medium,Medium
+EMP1182,Backend Engineer,19,Bootcamp,,Fintech,,On-site,13,203,,,7.8,38,Experimenting,4.1,66,53,3.3,Low,Medium
+EMP1183,Data Analyst,10,PhD,,Media,,Hybrid,43,160,,,7.3,68,Integrating,6.6,40,50,4.3,Low,Low
+EMP1184,AI Ethics Officer,3,Master,,Healthtech,,On-site,35,182,,,1.5,29,Optimizing,2.2,41,39,3.4,Medium,Low
+EMP1185,Prompt Engineer,14,Self-taught,,Consulting,,On-site,5,169,,,6.7,59,Experimenting,9.7,55,67,2.7,High,High
+EMP1186,Cloud Architect,19,Self-taught,,Media,,On-site,21,159,,,3.6,13,AI-First,1.2,67,46,5,Medium,Low
+EMP1187,AI Ethics Officer,5,Master,,Consulting,,On-site,29,224,,,7.9,21,Integrating,4.8,54,46,3.4,High,Medium
+EMP1188,Backend Engineer,5,Master,,E-commerce,,On-site,29,44,,,4,25,AI-First,0.9,41,37,4.2,Medium,Low
+EMP1189,ML Engineer,17,Master,,SaaS,,Hybrid,7,110,,,4.7,64,Experimenting,0.2,45,47,3.7,Medium,Low
+EMP1190,Frontend Engineer,10,Master,,E-commerce,,Fully Remote,15,125,,,4.5,17,AI-First,9.2,64,43,4.7,Medium,Low
+EMP1191,Software Engineer,5,Bachelor,,Media,,Fully Remote,36,134,,,2.9,7,Optimizing,8.1,57,39,3,Medium,Low
+EMP1192,Backend Engineer,4,Self-taught,,Fintech,,Hybrid,48,199,,,1.1,72,Integrating,6.9,53,59,2.3,Medium,Medium
+EMP1193,Cloud Architect,6,Bachelor,,Healthtech,,On-site,2,239,,,7.2,8,Integrating,8.7,62,45,2.9,High,Medium
+EMP1194,Prompt Engineer,4,Bootcamp,,Automotive,,Hybrid,20,80,,,6.5,11,Experimenting,8,74,44,3.6,Low,Low
+EMP1195,Cloud Architect,7,Bootcamp,,Consulting,,On-site,2,209,,,1.5,30,AI-First,6.5,63,39,3.2,Medium,Low
+EMP1196,Cloud Architect,7,Self-taught,,EdTech,,On-site,14,114,,,6.3,79,Optimizing,8.5,44,67,1.7,Medium,Medium
+EMP1197,DevOps Engineer,18,Bootcamp,,Consulting,,Fully Remote,9,232,,,5.2,28,Experimenting,3.9,71,47,3,Medium,Low
+EMP1198,DevOps Engineer,3,Master,,Gaming,,Fully Remote,19,207,,,3.6,14,Experimenting,5.5,50,48,3.6,Low,Low
+EMP1199,AI Researcher,1,Bachelor,,Cybersecurity,,Fully Remote,36,122,,,2.4,17,Experimenting,7.8,60,42,3.1,Medium,Low
+EMP1200,Backend Engineer,4,Master,,Media,,Fully Remote,24,77,,,6.9,48,Optimizing,0.8,49,59,3.6,Medium,Low
+EMP1201,AI Researcher,6,Bootcamp,,E-commerce,,Hybrid,27,81,,,5.8,43,Optimizing,8.6,45,54,2.6,Medium,Medium
+EMP1202,Backend Engineer,9,Bachelor,,EdTech,,On-site,42,204,,,4.6,23,Integrating,1.6,46,38,3.7,High,Low
+EMP1203,AI Ethics Officer,14,Master,,Fintech,,Hybrid,39,95,,,5.1,55,Integrating,8.6,49,56,2.9,Medium,Medium
+EMP1204,Software Engineer,12,Self-taught,,Fintech,,Hybrid,21,110,,,1.2,23,Integrating,3.1,25,34,4,Low,Low
+EMP1205,Cloud Architect,4,Master,,Fintech,,Fully Remote,3,94,,,4.1,56,Integrating,3.3,54,57,3.2,High,Medium
+EMP1206,AI Ethics Officer,12,Bootcamp,,Automotive,,Fully Remote,27,221,,,2,51,Experimenting,0.7,73,47,4.2,High,Medium
+EMP1207,Frontend Engineer,10,Bachelor,,Gaming,,Hybrid,37,61,,,2.1,34,Integrating,8.9,52,57,3.4,Low,Medium
+EMP1208,Product Manager,7,Self-taught,,Fintech,,Fully Remote,26,66,,,5.5,50,Experimenting,1.7,85,45,3.3,Low,Low
+EMP1209,Data Scientist,3,Bachelor,,Fintech,,Fully Remote,31,144,,,7.3,25,AI-First,6.3,71,27,4.4,Low,Low
+EMP1210,Backend Engineer,14,Self-taught,,Media,,Hybrid,19,214,,,3.5,79,Optimizing,6.4,61,62,3.3,Medium,Medium
+EMP1211,Frontend Engineer,10,Bachelor,,Gaming,,Fully Remote,8,77,,,2.1,52,AI-First,2.8,42,44,4.6,High,Medium
+EMP1212,Product Manager,16,Bootcamp,,Healthtech,,On-site,28,151,,,5.4,66,Integrating,9.9,40,61,2.9,High,Medium
+EMP1213,Prompt Engineer,16,Self-taught,,Healthtech,,Fully Remote,12,78,,,7,62,AI-First,0.6,56,52,3.2,High,Medium
+EMP1214,Data Analyst,10,PhD,,Gaming,,Fully Remote,38,182,,,6.1,22,Optimizing,6.1,52,64,3.5,Low,Medium
+EMP1215,Software Engineer,13,Bachelor,,Cybersecurity,,Fully Remote,9,158,,,7,63,Integrating,4.8,57,59,2,Medium,Medium
+EMP1216,AI Researcher,6,Bachelor,,Automotive,,Fully Remote,12,233,,,4.5,52,Experimenting,2.5,68,48,3.3,Low,Medium
+EMP1217,AI Researcher,12,Master,,EdTech,,Hybrid,25,228,,,6.1,67,Optimizing,1.6,76,77,2.8,Low,Medium
+EMP1218,AI Ethics Officer,9,Self-taught,,Consulting,,Hybrid,31,99,,,1.6,16,AI-First,7.4,60,44,4.1,Medium,Low
+EMP1219,DevOps Engineer,13,PhD,,Media,,Hybrid,31,175,,,3.1,38,Experimenting,9.2,61,58,2,Low,Medium
+EMP1220,Product Manager,4,Bootcamp,,SaaS,,Hybrid,16,83,,,3.4,65,Experimenting,1.1,52,54,2.5,Medium,Medium
+EMP1221,Data Analyst,11,Master,,Healthtech,,Fully Remote,36,82,,,4.3,57,Optimizing,1.9,57,56,1.9,Medium,Medium
+EMP1222,Frontend Engineer,18,PhD,,Gaming,,Hybrid,40,173,,,7.5,29,AI-First,9.9,60,48,3.8,High,Medium
+EMP1223,Software Engineer,11,Self-taught,,EdTech,,Fully Remote,25,194,,,7.1,66,Optimizing,0.2,58,58,3.2,Low,Medium
+EMP1224,Product Manager,4,PhD,,Gaming,,Fully Remote,9,212,,,1.5,8,Integrating,5.1,64,38,4.4,High,Medium
+EMP1225,Data Analyst,18,Bachelor,,Consulting,,Hybrid,44,62,,,1.8,17,Integrating,5.2,45,35,3.8,High,Low
+EMP1226,Data Scientist,1,Bachelor,,EdTech,,On-site,43,248,,,3.2,46,Integrating,2.6,44,67,3.9,High,Medium
+EMP1227,Backend Engineer,7,Master,,Healthtech,,Hybrid,21,161,,,2.7,53,AI-First,6.6,41,58,2.6,High,Medium
+EMP1228,AI Researcher,6,Self-taught,,Fintech,,Fully Remote,42,180,,,5.1,60,Optimizing,9.4,47,73,2.4,Medium,Medium
+EMP1229,Frontend Engineer,15,Self-taught,,Gaming,,Fully Remote,48,235,,,7.3,51,Integrating,4.5,53,42,3.8,Medium,Low
+EMP1230,AI Researcher,18,PhD,,SaaS,,On-site,27,123,,,7.7,12,Integrating,7.5,66,64,2.5,Medium,Medium
+EMP1231,Frontend Engineer,11,Master,,Healthtech,,Fully Remote,25,145,,,5.4,59,AI-First,6.5,58,39,3.9,Medium,Low
+EMP1232,AI Ethics Officer,15,Self-taught,,E-commerce,,Fully Remote,23,103,,,6.8,22,Optimizing,4.7,45,40,3.6,Medium,Low
+EMP1233,DevOps Engineer,16,Bachelor,,SaaS,,Fully Remote,6,192,,,4.4,39,AI-First,0.5,49,36,3.7,High,Medium
+EMP1234,Frontend Engineer,7,PhD,,Cybersecurity,,Fully Remote,16,164,,,2.1,36,Integrating,7.4,51,46,3.4,Medium,Low
+EMP1235,AI Researcher,10,Bootcamp,,Automotive,,Fully Remote,37,91,,,4.4,28,Optimizing,3.6,62,47,3.8,Low,Low
+EMP1236,AI Ethics Officer,12,Bachelor,,Healthtech,,Hybrid,38,87,,,4.7,11,Optimizing,2.2,70,49,3.2,Medium,Low
+EMP1237,Frontend Engineer,14,Master,,Fintech,,Hybrid,30,100,,,6.1,17,Integrating,9.5,46,46,2.9,Low,Medium
+EMP1238,Data Scientist,5,Self-taught,,Healthtech,,On-site,16,56,,,2.1,73,AI-First,7.7,61,65,2.9,Medium,Medium
+EMP1239,DevOps Engineer,18,Bachelor,,Consulting,,Fully Remote,28,79,,,3.3,46,Experimenting,9.6,51,42,3.3,Low,Low
+EMP1240,Frontend Engineer,5,Bootcamp,,EdTech,,Fully Remote,9,114,,,3.2,35,Optimizing,2.6,54,56,2.6,Medium,Medium
+EMP1241,AI Ethics Officer,3,Bootcamp,,Gaming,,Hybrid,30,128,,,7.7,78,AI-First,8.4,45,68,1.9,High,High
+EMP1242,Prompt Engineer,5,Master,,EdTech,,Hybrid,20,108,,,3.8,30,Integrating,6.1,57,65,3.3,Medium,Low
+EMP1243,Product Manager,17,Bachelor,,EdTech,,Hybrid,32,124,,,6.2,36,Optimizing,9.8,46,60,3.3,Low,Medium
+EMP1244,ML Engineer,19,PhD,,Healthtech,,On-site,10,65,,,6.1,56,Integrating,9.5,51,56,3.8,Medium,Low
+EMP1245,Data Analyst,19,Bachelor,,Consulting,,Fully Remote,11,247,,,2.5,24,Optimizing,9.7,71,41,3.6,Low,Low
+EMP1246,ML Engineer,12,Bootcamp,,Gaming,,On-site,38,223,,,4.8,44,AI-First,9.5,68,44,4.1,Medium,Low
+EMP1247,Prompt Engineer,9,Master,,Gaming,,Hybrid,11,79,,,7.2,63,Optimizing,0.1,75,66,2.3,Medium,Medium
+EMP1248,ML Engineer,1,Master,,EdTech,,Fully Remote,34,135,,,4.1,18,Optimizing,7.4,69,41,2.7,High,Medium
+EMP1249,Prompt Engineer,18,PhD,,Cybersecurity,,On-site,26,235,,,7.6,48,Integrating,2.7,63,65,2.5,Low,Medium
+EMP1250,Software Engineer,4,Master,,Automotive,,Hybrid,5,156,,,2.1,52,Experimenting,7.1,63,39,3.6,Medium,Low
+EMP1251,Prompt Engineer,10,Master,,Consulting,,Fully Remote,6,175,,,1.1,47,Integrating,9.8,52,43,3.7,High,Medium
+EMP1252,Prompt Engineer,7,Master,,Cybersecurity,,Fully Remote,24,112,,,7.2,20,Optimizing,0.4,41,41,4.3,High,Medium
+EMP1253,Cloud Architect,1,Master,,Media,,Fully Remote,40,84,,,6.9,39,Experimenting,5.7,61,46,3.6,Low,Low
+EMP1254,Prompt Engineer,17,Master,,Media,,Hybrid,6,56,,,7.9,57,Optimizing,7.3,46,67,3.9,Medium,Low
+EMP1255,Data Scientist,2,Bootcamp,,SaaS,,Fully Remote,9,208,,,5.6,38,Integrating,2.5,69,61,3,Low,Medium
+EMP1256,Product Manager,11,Bachelor,,EdTech,,Fully Remote,18,116,,,7.5,7,Optimizing,2.3,67,28,4.1,Medium,Low
+EMP1257,Backend Engineer,9,Self-taught,,Gaming,,Fully Remote,2,176,,,6.7,72,Experimenting,0.6,53,79,2.5,Low,Medium
+EMP1258,Frontend Engineer,7,Master,,Healthtech,,Hybrid,13,237,,,6.8,9,Optimizing,0.9,55,57,3.3,High,Medium
+EMP1259,Data Analyst,17,Self-taught,,Gaming,,On-site,36,130,,,4.8,14,Optimizing,6.6,59,33,4.1,Low,Low
+EMP1260,DevOps Engineer,17,Self-taught,,Gaming,,Hybrid,15,145,,,3.4,56,AI-First,5.1,52,60,2.4,Medium,Medium
+EMP1261,Product Manager,2,Bootcamp,,Fintech,,Fully Remote,49,140,,,7.5,33,Optimizing,0.3,57,51,3.7,Medium,Low
+EMP1262,AI Researcher,6,Master,,Gaming,,On-site,19,142,,,3.7,35,Optimizing,9.7,62,47,4.7,High,Medium
+EMP1263,Backend Engineer,14,Self-taught,,SaaS,,Hybrid,11,63,,,4.5,70,AI-First,6.6,43,64,2.4,Medium,Medium
+EMP1264,Software Engineer,6,Master,,Cybersecurity,,On-site,16,112,,,3.8,73,Optimizing,5.2,49,63,2.9,Low,Medium
+EMP1265,Software Engineer,2,PhD,,Media,,Hybrid,43,160,,,4.7,41,Integrating,2.7,63,47,2.7,Low,Medium
+EMP1266,Prompt Engineer,1,PhD,,Gaming,,Hybrid,34,145,,,4,31,AI-First,6.6,75,42,4,Low,Low
+EMP1267,Product Manager,10,PhD,,Gaming,,Hybrid,20,178,,,0.9,37,Optimizing,3.6,70,38,4.1,High,Medium
+EMP1268,AI Ethics Officer,5,Self-taught,,Fintech,,Fully Remote,35,74,,,7.1,72,Integrating,7,34,74,1.8,Medium,Medium
+EMP1269,Cloud Architect,2,PhD,,Consulting,,Hybrid,46,196,,,3.8,63,Optimizing,6.8,57,41,3,Medium,Low
+EMP1270,ML Engineer,16,Bootcamp,,Healthtech,,On-site,26,175,,,4.9,68,AI-First,0.9,68,58,2,Low,Low
+EMP1271,AI Researcher,2,Bootcamp,,Consulting,,On-site,17,56,,,1.5,48,AI-First,9.1,54,59,3.8,High,Medium
+EMP1272,Software Engineer,10,Self-taught,,Healthtech,,On-site,9,238,,,0.5,53,AI-First,4.9,47,52,2.8,Medium,Medium
+EMP1273,Data Analyst,2,Master,,Automotive,,Hybrid,36,179,,,2.3,57,Integrating,3.9,46,60,2.9,High,High
+EMP1274,Software Engineer,16,Bachelor,,Gaming,,Fully Remote,22,246,,,5.8,78,Integrating,9.6,54,63,2.7,Medium,Medium
+EMP1275,DevOps Engineer,16,Master,,Fintech,,Fully Remote,20,132,,,1.2,53,Experimenting,4.4,52,38,4.2,Low,Low
+EMP1276,Frontend Engineer,19,Master,,E-commerce,,Hybrid,47,148,,,7.3,70,Experimenting,7.2,62,66,3.1,Medium,Medium
+EMP1277,Software Engineer,7,Master,,EdTech,,Hybrid,12,89,,,2.1,67,AI-First,6.6,47,48,3.7,Low,Low
+EMP1278,DevOps Engineer,12,Master,,Media,,Fully Remote,45,153,,,2,29,Integrating,1.7,41,60,2.6,Medium,Medium
+EMP1279,Product Manager,15,Bachelor,,Cybersecurity,,Fully Remote,12,63,,,1.9,8,Optimizing,9.9,58,34,4.2,Medium,Low
+EMP1280,Product Manager,8,PhD,,Media,,Hybrid,12,76,,,0.6,55,Optimizing,4.6,72,52,3.7,Low,Low
+EMP1281,Cloud Architect,6,Master,,Cybersecurity,,Hybrid,23,245,,,6.3,15,Optimizing,3.9,69,60,3.3,Low,Medium
+EMP1282,Backend Engineer,10,Bootcamp,,Automotive,,On-site,22,50,,,7.1,21,Experimenting,9.2,65,41,3,Low,Low
+EMP1283,Software Engineer,3,Self-taught,,Consulting,,Hybrid,28,138,,,5.1,70,Integrating,5.3,66,42,3,High,Medium
+EMP1284,Data Analyst,19,Self-taught,,SaaS,,Hybrid,19,248,,,1.9,74,Integrating,7.1,46,59,3.9,Low,Low
+EMP1285,Software Engineer,17,Bootcamp,,Gaming,,Hybrid,43,226,,,2.6,77,Integrating,8.5,49,63,3.9,Low,Medium
+EMP1286,Data Analyst,7,Master,,E-commerce,,On-site,49,94,,,4.1,73,AI-First,2.4,45,56,3.1,Low,Medium
+EMP1287,Data Scientist,4,Bachelor,,Cybersecurity,,Hybrid,41,66,,,7.7,33,Optimizing,1.7,74,46,3.4,Medium,Low
+EMP1288,Prompt Engineer,14,PhD,,EdTech,,On-site,39,106,,,2.4,77,Integrating,0.7,54,60,3.1,Medium,Medium
+EMP1289,Backend Engineer,15,Self-taught,,Cybersecurity,,On-site,31,227,,,6,76,AI-First,9,39,64,3.2,High,High
+EMP1290,Data Scientist,8,PhD,,SaaS,,On-site,46,41,,,3.8,24,Integrating,2,70,47,2.7,Low,Medium
+EMP1291,Software Engineer,15,Bachelor,,Media,,Fully Remote,48,107,,,2.7,31,Optimizing,3.1,56,35,3.9,Medium,Low
+EMP1292,Backend Engineer,14,Self-taught,,Fintech,,Fully Remote,46,185,,,3.9,12,Experimenting,2.9,66,43,3.1,Medium,Low
+EMP1293,Data Scientist,9,PhD,,Media,,Fully Remote,34,187,,,1,65,Optimizing,3,64,58,3.1,High,Medium
+EMP1294,ML Engineer,8,Bachelor,,Automotive,,Fully Remote,22,102,,,6.5,32,Integrating,6.7,36,40,3.2,Low,Low
+EMP1295,Software Engineer,17,PhD,,Fintech,,Fully Remote,3,245,,,2.3,74,Experimenting,9.5,58,68,2.4,Low,Medium
+EMP1296,Data Scientist,2,Master,,Media,,Fully Remote,14,111,,,5.9,7,Integrating,3.3,51,45,3.6,Medium,Low
+EMP1297,ML Engineer,3,Bachelor,,EdTech,,Fully Remote,3,169,,,1,73,Integrating,4.1,35,60,2.7,Low,Medium
+EMP1298,ML Engineer,8,PhD,,Media,,Hybrid,44,122,,,7.7,77,Optimizing,7.7,52,58,2.5,Low,Medium
+EMP1299,Product Manager,12,Master,,EdTech,,Hybrid,46,81,,,1.9,11,Experimenting,4.3,59,42,4.3,Medium,Low
+EMP1300,Cloud Architect,1,Master,,EdTech,,Fully Remote,32,195,,,7.1,64,Optimizing,9.3,72,50,2.8,Medium,Low
+EMP1301,Software Engineer,10,Bachelor,,Fintech,,Hybrid,11,196,,,6.6,8,Optimizing,5,60,38,2.6,Medium,Low
+EMP1302,ML Engineer,3,Bootcamp,,Consulting,,Hybrid,24,236,,,7.8,9,Optimizing,3.5,61,50,3.6,Medium,Low
+EMP1303,Product Manager,6,Self-taught,,Healthtech,,Hybrid,23,146,,,4.1,15,Optimizing,9.7,48,40,3.5,Medium,Medium
+EMP1304,Data Scientist,7,Bachelor,,Gaming,,On-site,48,67,,,6,19,Experimenting,4.3,68,47,3.4,Medium,Low
+EMP1305,DevOps Engineer,18,Master,,Cybersecurity,,Fully Remote,30,227,,,3.3,68,Integrating,2.3,63,72,2.7,Medium,Medium
+EMP1306,Software Engineer,11,Master,,Healthtech,,Fully Remote,34,144,,,1.9,17,AI-First,1.8,53,38,4.4,Medium,Low
+EMP1307,Backend Engineer,19,Bachelor,,SaaS,,Hybrid,32,151,,,3.8,11,Optimizing,10,52,46,4.4,Low,Low
+EMP1308,Data Analyst,5,Bootcamp,,Consulting,,Fully Remote,15,172,,,1.7,10,Optimizing,7.5,59,35,4,Low,Low
+EMP1309,Data Analyst,19,Self-taught,,Healthtech,,Hybrid,11,54,,,7.9,60,Optimizing,4.1,89,63,2.3,Medium,Medium
+EMP1310,Data Scientist,11,PhD,,Fintech,,Fully Remote,19,149,,,1.2,68,Integrating,8.3,67,44,3.6,Medium,Low
+EMP1311,AI Ethics Officer,12,Bachelor,,SaaS,,Fully Remote,12,112,,,4.9,54,Optimizing,5.5,50,58,3.4,High,Medium
+EMP1312,AI Ethics Officer,10,Self-taught,,E-commerce,,Fully Remote,40,199,,,5.2,34,AI-First,3.2,80,70,3.2,Medium,Medium
+EMP1313,Data Scientist,8,Self-taught,,Consulting,,Fully Remote,48,219,,,4.5,26,Experimenting,7.4,52,47,3.5,Low,Low
+EMP1314,ML Engineer,9,Master,,Healthtech,,Hybrid,4,129,,,5.5,29,AI-First,7.5,69,47,3.2,Low,Low
+EMP1315,Cloud Architect,4,PhD,,SaaS,,Hybrid,3,76,,,1.4,32,Experimenting,5,51,51,2.8,Low,Medium
+EMP1316,Software Engineer,5,Bachelor,,E-commerce,,Fully Remote,9,182,,,4.7,43,Integrating,0.5,55,60,2.9,Medium,Medium
+EMP1317,Data Analyst,8,Master,,Media,,Fully Remote,32,208,,,2.7,71,AI-First,0.8,54,60,2.2,Medium,Medium
+EMP1318,Data Analyst,9,Master,,SaaS,,Fully Remote,9,43,,,7.6,9,Optimizing,7.9,55,45,3.7,Medium,Low
+EMP1319,Cloud Architect,15,Bootcamp,,Fintech,,Fully Remote,44,220,,,6.2,69,AI-First,8.2,56,72,2.7,Medium,Medium
+EMP1320,ML Engineer,15,Self-taught,,Media,,On-site,49,123,,,7.8,19,AI-First,6.8,48,52,3.4,High,High
+EMP1321,Data Analyst,16,Bachelor,,Fintech,,Fully Remote,3,194,,,0.8,71,Integrating,8.4,46,60,3.4,High,Medium
+EMP1322,Backend Engineer,14,Bachelor,,Healthtech,,Hybrid,23,188,,,2.6,44,Optimizing,7.2,61,41,4.4,Medium,Low
+EMP1323,Software Engineer,8,Bachelor,,Gaming,,On-site,6,99,,,2,73,Integrating,9,47,51,3.3,High,Medium
+EMP1324,Frontend Engineer,18,Master,,Healthtech,,Fully Remote,8,125,,,0.6,47,Integrating,1.5,54,46,3.5,Medium,Low
+EMP1325,Data Analyst,10,Bootcamp,,Media,,Hybrid,21,231,,,2.3,5,Integrating,3.9,86,26,3.9,High,Low
+EMP1326,Data Scientist,6,PhD,,EdTech,,On-site,29,110,,,5.6,26,Optimizing,4.6,78,46,3.7,High,Medium
+EMP1327,Backend Engineer,12,Master,,Healthtech,,On-site,14,214,,,2.2,66,Integrating,3,65,43,3.6,High,Medium
+EMP1328,Data Analyst,2,PhD,,Media,,Hybrid,3,221,,,4.3,30,Optimizing,7.3,67,35,4.4,Medium,Low
+EMP1329,Prompt Engineer,7,Bootcamp,,SaaS,,Hybrid,33,70,,,7.2,22,Optimizing,9.1,53,70,3.2,High,Medium
+EMP1330,Backend Engineer,16,Self-taught,,Automotive,,On-site,27,56,,,5.7,52,Experimenting,4.1,52,52,3.4,Medium,Low
+EMP1331,Product Manager,3,Bachelor,,Healthtech,,Fully Remote,4,217,,,3.5,13,Optimizing,9.4,50,36,3.8,Low,Low
+EMP1332,Frontend Engineer,13,PhD,,SaaS,,On-site,42,46,,,3.3,5,Integrating,5.2,52,38,3.6,Medium,Low
+EMP1333,AI Researcher,3,Master,,Fintech,,Hybrid,43,165,,,3.9,13,Integrating,5.2,67,33,4.1,High,Medium
+EMP1334,Data Scientist,18,PhD,,Consulting,,Hybrid,14,122,,,1.8,27,Optimizing,6,45,37,4,Low,Low
+EMP1335,Data Scientist,11,Self-taught,,Gaming,,On-site,22,67,,,5.3,49,Integrating,2.7,83,69,2.6,Medium,Medium
+EMP1336,Software Engineer,8,Bachelor,,Fintech,,On-site,46,49,,,3.2,6,AI-First,3.8,54,41,3.8,Medium,Low
+EMP1337,Cloud Architect,6,PhD,,Fintech,,Fully Remote,38,66,,,6.9,18,Optimizing,5.5,44,57,2.7,Medium,Medium
+EMP1338,Backend Engineer,1,Self-taught,,Media,,Fully Remote,24,180,,,6.2,42,Integrating,9.4,61,67,3,High,Medium
+EMP1339,ML Engineer,1,Master,,EdTech,,Hybrid,8,233,,,5.1,44,Optimizing,6.4,52,55,2.8,High,Medium
+EMP1340,Data Scientist,8,Bootcamp,,Cybersecurity,,Hybrid,18,227,,,3.2,67,Experimenting,3.3,52,54,3.6,Medium,Medium
+EMP1341,Backend Engineer,5,Master,,Automotive,,Hybrid,29,166,,,2.1,20,Experimenting,0.1,45,28,3.9,Low,Low
+EMP1342,Backend Engineer,16,Bachelor,,EdTech,,On-site,48,82,,,6.3,79,Experimenting,9.8,55,63,3.7,Medium,Low
+EMP1343,Prompt Engineer,11,Master,,Media,,On-site,31,108,,,4.1,10,Integrating,4.9,79,39,3.7,Medium,Low
+EMP1344,DevOps Engineer,5,Master,,Gaming,,Hybrid,6,102,,,2.2,7,Experimenting,9.4,52,30,4.1,Medium,Low
+EMP1345,DevOps Engineer,4,Master,,Automotive,,Fully Remote,25,109,,,2,18,AI-First,5.5,64,51,2.6,Low,Medium
+EMP1346,AI Researcher,6,Master,,Automotive,,Hybrid,8,138,,,1.7,70,Integrating,6.1,61,63,3.6,Medium,Low
+EMP1347,Product Manager,14,Bachelor,,Media,,Hybrid,35,232,,,6.3,79,Optimizing,7.1,62,74,2.5,Low,Medium
+EMP1348,AI Researcher,19,Self-taught,,E-commerce,,Hybrid,43,234,,,2.2,71,Integrating,3.2,48,54,4.1,Medium,Low
+EMP1349,Data Analyst,9,PhD,,Fintech,,Hybrid,34,221,,,4.4,35,Integrating,7,40,41,3.7,Low,Low
+EMP1350,ML Engineer,12,Bootcamp,,Consulting,,Hybrid,28,203,,,3.9,37,Integrating,5.3,52,59,2.9,Medium,Medium
+EMP1351,Data Analyst,11,PhD,,E-commerce,,Fully Remote,15,110,,,4.8,5,Optimizing,6.7,71,43,3.3,Low,Medium
+EMP1352,AI Ethics Officer,14,PhD,,Media,,Fully Remote,20,132,,,7.1,48,Integrating,8.4,71,64,3.2,High,High
+EMP1353,Data Analyst,16,Bootcamp,,E-commerce,,Hybrid,49,182,,,7,19,Integrating,1.8,56,54,3.5,Medium,Low
+EMP1354,Software Engineer,1,Bachelor,,Consulting,,Fully Remote,39,242,,,3.9,41,Integrating,6.1,57,52,2.6,Low,Low
+EMP1355,Data Analyst,13,Bootcamp,,Media,,Fully Remote,13,185,,,0.6,31,Optimizing,0.5,56,56,2.8,Medium,Medium
+EMP1356,AI Researcher,13,Bachelor,,Media,,Fully Remote,4,171,,,3.7,52,Experimenting,1,57,47,3.8,High,Medium
+EMP1357,Data Scientist,2,PhD,,Automotive,,Hybrid,8,50,,,5,31,Optimizing,6.7,44,46,3.1,High,Medium
+EMP1358,Data Scientist,4,Bachelor,,E-commerce,,Fully Remote,36,173,,,4.7,16,Integrating,0.7,49,57,2.7,Medium,Medium
+EMP1359,DevOps Engineer,6,Self-taught,,SaaS,,On-site,26,161,,,5.4,71,Optimizing,6,73,62,3,Low,Medium
+EMP1360,Cloud Architect,5,Bootcamp,,Healthtech,,Hybrid,16,218,,,1.7,34,Integrating,2.2,59,42,3.6,Medium,Low
+EMP1361,ML Engineer,3,Self-taught,,Media,,Hybrid,20,225,,,5.3,70,Integrating,3,55,59,2.8,High,Medium
+EMP1362,ML Engineer,1,PhD,,E-commerce,,Hybrid,20,227,,,1.9,11,Experimenting,1.3,80,42,4.5,Medium,Low
+EMP1363,Software Engineer,4,Bootcamp,,Cybersecurity,,Fully Remote,24,57,,,6.1,38,AI-First,2.5,76,51,3.2,High,Medium
+EMP1364,AI Researcher,2,PhD,,Gaming,,Hybrid,12,246,,,3,36,Integrating,8.2,79,44,2.9,Low,Low
+EMP1365,DevOps Engineer,5,Self-taught,,Cybersecurity,,On-site,22,106,,,5.8,43,AI-First,6.4,49,59,2.2,Low,Medium
+EMP1366,Prompt Engineer,3,PhD,,E-commerce,,Hybrid,35,184,,,0.9,47,Integrating,9.5,55,46,4,High,Medium
+EMP1367,AI Ethics Officer,9,Bootcamp,,Fintech,,On-site,40,136,,,3.6,47,Experimenting,0.5,64,43,3,Medium,Low
+EMP1368,ML Engineer,6,Bootcamp,,Fintech,,Hybrid,8,73,,,5.8,7,Integrating,7.9,76,43,3.6,Low,Low
+EMP1369,Data Scientist,18,PhD,,E-commerce,,Fully Remote,43,197,,,2.2,50,Experimenting,7,56,60,2.6,Medium,Medium
+EMP1370,Data Analyst,6,Bootcamp,,Automotive,,Fully Remote,45,186,,,6.5,36,AI-First,2.6,54,59,3,High,Medium
+EMP1371,Data Analyst,19,Bootcamp,,Automotive,,Hybrid,28,176,,,5.2,47,Optimizing,7.3,44,66,3,Low,Medium
+EMP1372,Cloud Architect,12,PhD,,Media,,Fully Remote,24,207,,,4.9,7,Optimizing,7.2,67,36,3.1,Low,Low
+EMP1373,DevOps Engineer,11,Self-taught,,Consulting,,Fully Remote,39,83,,,3.2,78,Optimizing,4.6,66,68,2.5,Low,Low
+EMP1374,AI Researcher,2,Bootcamp,,Healthtech,,On-site,21,134,,,4.1,67,Integrating,6.9,54,53,2.9,High,Medium
+EMP1375,AI Researcher,15,Bootcamp,,Media,,Fully Remote,28,226,,,5,44,AI-First,4.4,55,43,3.1,High,Medium
+EMP1376,Product Manager,12,Bootcamp,,Cybersecurity,,Fully Remote,9,130,,,4,22,Integrating,3.4,52,38,3.5,Medium,Low
+EMP1377,Frontend Engineer,12,Bootcamp,,Healthtech,,On-site,38,150,,,5.7,71,Optimizing,4.7,68,63,2.6,Medium,Medium
+EMP1378,ML Engineer,9,PhD,,Cybersecurity,,On-site,4,192,,,3.8,66,Integrating,9,54,65,3.3,Low,Medium
+EMP1379,AI Researcher,2,Self-taught,,Automotive,,Fully Remote,3,110,,,2,14,AI-First,3.8,41,40,3.3,Low,Low
+EMP1380,Cloud Architect,3,Self-taught,,E-commerce,,On-site,23,92,,,2.1,56,Optimizing,4,78,49,3.6,High,Medium
+EMP1381,Data Scientist,12,Bachelor,,Consulting,,On-site,7,215,,,0.5,77,AI-First,6.1,54,45,3.7,Low,Low
+EMP1382,DevOps Engineer,16,Bootcamp,,Cybersecurity,,Hybrid,40,110,,,2.8,50,Integrating,7.5,55,56,2.4,Medium,Medium
+EMP1383,AI Ethics Officer,1,Bootcamp,,Automotive,,Fully Remote,41,92,,,6.1,59,Experimenting,7.3,62,67,2.5,Medium,Medium
+EMP1384,Product Manager,3,Bachelor,,Consulting,,Fully Remote,37,147,,,6.5,50,Integrating,0.2,52,60,2.9,Low,Medium
+EMP1385,Cloud Architect,2,Self-taught,,Media,,Hybrid,45,216,,,2,79,Optimizing,6.9,59,49,3.5,Medium,Medium
+EMP1386,Backend Engineer,9,Master,,E-commerce,,Fully Remote,25,210,,,7.7,64,Optimizing,4.5,58,71,2.5,Medium,Medium
+EMP1387,Software Engineer,19,Master,,Gaming,,On-site,13,58,,,4.3,30,Experimenting,5.2,67,57,3.6,Medium,Low
+EMP1388,AI Ethics Officer,15,Self-taught,,Fintech,,Hybrid,18,105,,,7.4,31,Integrating,5.6,48,66,2.9,Low,Medium
+EMP1389,Backend Engineer,18,Bootcamp,,EdTech,,Hybrid,23,201,,,5.8,42,Experimenting,7.3,58,50,3.6,Low,Low
+EMP1390,Prompt Engineer,11,Master,,Consulting,,On-site,20,248,,,5.9,26,AI-First,8.3,59,53,2.9,Medium,Medium
+EMP1391,Data Analyst,16,PhD,,Gaming,,On-site,10,240,,,1.1,30,Experimenting,6.5,54,36,4,High,Low
+EMP1392,Software Engineer,17,PhD,,Gaming,,Fully Remote,13,221,,,2.1,73,Optimizing,5.6,71,48,4.4,Low,Low
+EMP1393,ML Engineer,5,Bachelor,,Consulting,,Fully Remote,33,40,,,0.6,39,Integrating,3.7,62,55,3.4,High,Medium
+EMP1394,Data Scientist,12,Self-taught,,Gaming,,Hybrid,32,145,,,5.9,70,Integrating,1.4,68,67,3.3,Medium,Medium
+EMP1395,Software Engineer,11,Self-taught,,Cybersecurity,,Fully Remote,18,94,,,3.1,77,AI-First,9.6,64,69,2.6,High,High
+EMP1396,Frontend Engineer,15,Master,,Gaming,,Hybrid,24,54,,,6.4,55,Experimenting,4.6,63,49,3.8,Low,Low
+EMP1397,Backend Engineer,3,Bootcamp,,Automotive,,Hybrid,11,166,,,3,22,Experimenting,5.7,45,44,4,Low,Low
+EMP1398,ML Engineer,1,Self-taught,,Healthtech,,On-site,31,54,,,6.6,47,Experimenting,7.5,54,61,3.1,Low,Medium
+EMP1399,Frontend Engineer,16,Master,,Cybersecurity,,Hybrid,20,160,,,1.5,16,Integrating,0.7,56,31,3.9,Medium,Low
+EMP1400,Data Analyst,2,Master,,Gaming,,Hybrid,27,190,,,1.8,7,Optimizing,8.6,67,47,2.7,High,High
+EMP1401,Frontend Engineer,2,Self-taught,,Media,,Fully Remote,27,105,,,3.1,11,Integrating,8,56,37,3.8,Low,Low
+EMP1402,Product Manager,3,Master,,Fintech,,Hybrid,12,213,,,3.6,10,Optimizing,7.7,61,43,3.8,Medium,Low
+EMP1403,Product Manager,8,Bachelor,,E-commerce,,Fully Remote,21,153,,,3.1,49,Experimenting,0.2,59,46,3.1,Low,Low
+EMP1404,Prompt Engineer,15,Bachelor,,Gaming,,On-site,46,176,,,6.2,43,AI-First,5.3,63,45,2.9,Medium,Medium
+EMP1405,DevOps Engineer,7,Self-taught,,SaaS,,Fully Remote,5,233,,,1.2,55,Optimizing,0.5,50,56,3.2,Low,Medium
+EMP1406,AI Ethics Officer,6,Bootcamp,,Fintech,,Hybrid,48,233,,,3.1,13,AI-First,5.5,39,43,3.7,Low,Low
+EMP1407,AI Ethics Officer,9,Bachelor,,Media,,Fully Remote,13,185,,,6.8,27,AI-First,7.2,39,53,2.6,Low,Medium
+EMP1408,ML Engineer,1,Bachelor,,Automotive,,Fully Remote,26,184,,,1,16,Integrating,1.2,63,34,3.9,High,Low
+EMP1409,Data Analyst,8,Self-taught,,Gaming,,Hybrid,11,111,,,7.6,66,Integrating,6.9,42,67,2.9,Low,Medium
+EMP1410,AI Researcher,3,PhD,,Automotive,,Hybrid,23,137,,,7.9,77,Optimizing,4.5,79,79,3,Low,Medium
+EMP1411,Prompt Engineer,4,Master,,Gaming,,Fully Remote,8,201,,,1.2,44,Experimenting,8.1,66,40,3.4,Low,Low
+EMP1412,Product Manager,15,Bachelor,,EdTech,,Fully Remote,25,236,,,2.7,58,Integrating,5.3,44,57,4.1,High,Medium
+EMP1413,ML Engineer,6,PhD,,Healthtech,,Hybrid,3,231,,,3.3,11,Experimenting,3.4,63,41,3.7,Medium,Low
+EMP1414,AI Researcher,15,Bootcamp,,Automotive,,Hybrid,33,83,,,6.3,21,Integrating,3.3,63,47,2.8,Medium,Medium
+EMP1415,AI Ethics Officer,3,PhD,,Healthtech,,Fully Remote,22,196,,,5,54,Integrating,9,68,43,3.4,Medium,Low
+EMP1416,DevOps Engineer,14,Self-taught,,Fintech,,Hybrid,8,229,,,5.3,28,Experimenting,4.5,45,48,2.8,Low,Medium
+EMP1417,Frontend Engineer,14,Bootcamp,,EdTech,,Fully Remote,9,55,,,6.2,6,Experimenting,4.1,63,49,3.3,Medium,Medium
+EMP1418,Product Manager,4,Bootcamp,,E-commerce,,Hybrid,39,117,,,1.4,37,Optimizing,0.4,68,46,3.7,Low,Low
+EMP1419,ML Engineer,12,PhD,,Cybersecurity,,Fully Remote,22,91,,,6.7,25,Experimenting,3.6,73,39,3.8,Medium,Low
+EMP1420,Software Engineer,17,Self-taught,,Healthtech,,Hybrid,9,41,,,5.8,78,AI-First,8.5,36,74,2,Medium,High
+EMP1421,AI Researcher,7,Bachelor,,EdTech,,Fully Remote,26,100,,,4.8,57,Experimenting,7.6,49,69,2.1,Medium,Medium
+EMP1422,Frontend Engineer,9,PhD,,Healthtech,,On-site,29,171,,,7.2,50,Optimizing,2.2,51,58,3.3,Low,Medium
+EMP1423,Product Manager,3,Bachelor,,Consulting,,Fully Remote,29,165,,,5.8,49,Integrating,4.1,80,74,2.9,Low,Medium
+EMP1424,AI Ethics Officer,13,PhD,,Media,,Fully Remote,32,91,,,2,13,Experimenting,2,60,31,3.7,High,Medium
+EMP1425,Cloud Architect,15,Bachelor,,E-commerce,,Fully Remote,37,80,,,3.7,10,Integrating,9.5,64,30,2.7,Medium,Medium
+EMP1426,Data Analyst,18,PhD,,Media,,On-site,26,219,,,4.2,55,Integrating,6,58,46,2.9,Low,Medium
+EMP1427,AI Researcher,19,Bootcamp,,Gaming,,Hybrid,42,70,,,0.9,39,AI-First,7.5,67,45,4,Low,Low
+EMP1428,AI Ethics Officer,1,Master,,Healthtech,,Hybrid,38,193,,,7.7,57,Optimizing,7.1,55,48,3,High,Medium
+EMP1429,Product Manager,6,Bootcamp,,Gaming,,On-site,39,194,,,1.5,23,Experimenting,8.7,47,37,3.6,High,Medium
+EMP1430,AI Researcher,2,Bachelor,,SaaS,,On-site,13,160,,,5.7,73,Experimenting,9.5,54,86,2.4,High,High
+EMP1431,Prompt Engineer,14,Self-taught,,Healthtech,,Hybrid,38,90,,,4.3,29,Integrating,0.3,51,35,3.7,Low,Low
+EMP1432,Frontend Engineer,6,Bootcamp,,EdTech,,Fully Remote,38,134,,,0.7,15,Experimenting,9.8,51,31,4.7,Medium,Low
+EMP1433,Product Manager,14,Master,,E-commerce,,On-site,32,215,,,7.4,78,Integrating,8.7,51,59,2.8,Low,Medium
+EMP1434,Prompt Engineer,4,Bachelor,,Gaming,,Fully Remote,19,50,,,6.9,21,AI-First,3.8,45,47,3,Medium,Low
+EMP1435,Backend Engineer,8,Bootcamp,,Healthtech,,Hybrid,27,175,,,4.4,40,Integrating,8.4,58,48,4,Low,Low
+EMP1436,ML Engineer,3,PhD,,SaaS,,Hybrid,7,51,,,2.2,25,Optimizing,7.4,51,36,3.8,Low,Low
+EMP1437,Cloud Architect,19,Self-taught,,Media,,Hybrid,10,138,,,1.4,22,Optimizing,7.9,51,38,3.2,Low,Low
+EMP1438,Frontend Engineer,14,Bachelor,,EdTech,,Hybrid,12,84,,,3.2,64,Optimizing,2.2,52,60,3.2,Medium,Medium
+EMP1439,AI Researcher,17,Bootcamp,,Consulting,,Hybrid,32,73,,,2.4,22,Experimenting,6.5,54,52,3.1,Medium,Medium
+EMP1440,Data Analyst,8,Bachelor,,Healthtech,,On-site,47,244,,,4.3,5,Optimizing,0.3,60,37,3.2,Medium,Low
+EMP1441,AI Ethics Officer,14,PhD,,Consulting,,Fully Remote,3,111,,,7.7,18,AI-First,8.5,60,50,3.4,High,Medium
+EMP1442,Software Engineer,6,Master,,Fintech,,Fully Remote,30,214,,,4.8,12,Experimenting,9.5,40,46,3.4,Medium,Low
+EMP1443,AI Ethics Officer,16,Bootcamp,,E-commerce,,Hybrid,47,60,,,7.2,70,Integrating,6.6,72,55,2.3,Medium,Medium
+EMP1444,AI Researcher,19,Bachelor,,Healthtech,,On-site,43,80,,,5.4,55,AI-First,5.1,62,56,2.6,High,High
+EMP1445,Cloud Architect,14,Bachelor,,Automotive,,Fully Remote,6,242,,,4.1,64,Optimizing,7.3,60,53,4.2,Medium,Low
+EMP1446,AI Ethics Officer,19,Bachelor,,SaaS,,Fully Remote,24,61,,,6.9,38,Integrating,3.3,72,62,3,Low,Low
+EMP1447,ML Engineer,3,Master,,Gaming,,Fully Remote,37,60,,,4,40,Integrating,6.3,52,64,3.5,High,Medium
+EMP1448,Cloud Architect,10,Bachelor,,Automotive,,Fully Remote,8,195,,,7,66,Integrating,7.2,55,57,3.3,Low,Low
+EMP1449,Product Manager,19,Self-taught,,Fintech,,On-site,14,234,,,2.7,5,Integrating,1.4,75,47,4.1,Medium,Low
+EMP1450,Prompt Engineer,9,Self-taught,,E-commerce,,Hybrid,43,110,,,1.5,46,Integrating,1.4,73,35,4.1,Low,Low
+EMP1451,Software Engineer,13,Bachelor,,Media,,Hybrid,11,53,,,6.9,5,Integrating,7.2,53,46,3,Medium,Low
+EMP1452,Data Scientist,7,Self-taught,,EdTech,,Hybrid,37,118,,,4.9,58,Optimizing,4.3,70,59,3.3,Medium,Medium
+EMP1453,AI Researcher,14,Bootcamp,,Consulting,,Hybrid,17,112,,,7.2,51,Optimizing,8.9,60,47,3,Low,Medium
+EMP1454,DevOps Engineer,9,Self-taught,,Fintech,,Fully Remote,16,91,,,7.5,43,AI-First,3.1,79,51,3.8,Medium,Medium
+EMP1455,Data Scientist,19,Bachelor,,Gaming,,Fully Remote,44,210,,,0.9,34,Experimenting,0.4,63,34,4,High,Medium
+EMP1456,AI Ethics Officer,15,PhD,,EdTech,,Hybrid,20,238,,,4.3,11,Optimizing,6.5,41,31,4,Low,Low
+EMP1457,AI Researcher,14,Bootcamp,,Media,,Fully Remote,22,115,,,3.3,26,Integrating,6.8,53,23,4,Medium,Low
+EMP1458,Prompt Engineer,6,Master,,Gaming,,Hybrid,36,58,,,5.2,54,Integrating,5.5,95,54,3.6,Low,Low
+EMP1459,Backend Engineer,4,Bachelor,,SaaS,,Fully Remote,16,66,,,6.5,49,AI-First,6.8,41,57,3,High,Medium
+EMP1460,Prompt Engineer,8,Master,,Consulting,,Fully Remote,49,185,,,2.6,78,Integrating,5.2,64,57,2.1,Medium,Medium
+EMP1461,DevOps Engineer,17,PhD,,Automotive,,Fully Remote,15,52,,,4.7,76,Experimenting,6.9,83,68,1.9,High,High
+EMP1462,Software Engineer,9,Master,,Healthtech,,Hybrid,30,146,,,5.8,14,Experimenting,0.4,50,30,3.4,Low,Low
+EMP1463,Prompt Engineer,1,Bachelor,,Fintech,,Fully Remote,6,168,,,1.5,18,Integrating,3.7,36,35,4.2,Low,Low
+EMP1464,Data Analyst,14,Bachelor,,Healthtech,,On-site,19,124,,,6.6,50,Optimizing,2.1,28,78,2.8,Low,Medium
+EMP1465,Backend Engineer,11,PhD,,EdTech,,Fully Remote,2,201,,,5,79,AI-First,1,50,70,2.8,Low,Medium
+EMP1466,Data Scientist,3,Bachelor,,Healthtech,,Hybrid,28,180,,,7.6,10,Optimizing,2.3,38,55,3.3,Medium,Medium
+EMP1467,Product Manager,9,PhD,,Automotive,,On-site,28,148,,,3,25,AI-First,1.9,66,35,4.6,High,Low
+EMP1468,ML Engineer,14,PhD,,Cybersecurity,,On-site,26,154,,,1.3,66,Optimizing,9.7,64,50,3.5,Medium,Low
+EMP1469,Data Analyst,9,Bachelor,,EdTech,,On-site,42,90,,,4.3,23,AI-First,2.9,34,27,4.4,High,Medium
+EMP1470,Backend Engineer,4,Self-taught,,Consulting,,Fully Remote,22,40,,,1.1,66,Experimenting,2.3,38,56,3.1,Low,Low
+EMP1471,Product Manager,4,PhD,,Gaming,,Fully Remote,15,160,,,7.8,57,AI-First,8.3,72,73,2.3,High,High
+EMP1472,Product Manager,8,Bachelor,,Consulting,,Hybrid,21,195,,,0.8,28,Integrating,4.2,59,28,3.9,Low,Low
+EMP1473,AI Researcher,2,Self-taught,,Healthtech,,Fully Remote,29,162,,,6.2,60,AI-First,4.2,78,51,4.3,High,Medium
+EMP1474,Backend Engineer,9,PhD,,E-commerce,,Fully Remote,22,71,,,4.4,66,Experimenting,4.4,63,58,2.5,Low,Medium
+EMP1475,Software Engineer,14,Self-taught,,EdTech,,On-site,24,239,,,3.3,38,Optimizing,4.2,44,49,3.5,High,Medium
+EMP1476,AI Ethics Officer,9,Bootcamp,,Gaming,,Hybrid,12,222,,,1,26,Optimizing,3.3,64,35,3.1,Low,Low
+EMP1477,DevOps Engineer,16,Bootcamp,,Media,,Hybrid,3,193,,,5.2,72,AI-First,2.9,57,55,2.9,Low,Low
+EMP1478,DevOps Engineer,17,Self-taught,,SaaS,,On-site,21,181,,,4.9,61,Optimizing,8.8,44,51,3.7,Medium,Low
+EMP1479,Data Scientist,16,PhD,,Consulting,,Hybrid,25,132,,,2.6,14,Integrating,1.6,50,39,2.8,Medium,Low
+EMP1480,Data Scientist,12,Bachelor,,Consulting,,Hybrid,26,107,,,7.3,70,Integrating,1.8,76,70,3.1,Medium,Medium
+EMP1481,DevOps Engineer,3,Master,,EdTech,,Hybrid,38,102,,,2.8,12,Integrating,5.7,54,38,4.8,High,Medium
+EMP1482,Prompt Engineer,11,Bachelor,,E-commerce,,Fully Remote,23,121,,,3.9,42,Experimenting,3.4,58,49,3.5,Medium,Low
+EMP1483,Software Engineer,14,Master,,Healthtech,,Fully Remote,25,181,,,4.6,66,Experimenting,4.2,62,44,4.2,Medium,Low
+EMP1484,Prompt Engineer,18,Master,,Healthtech,,On-site,16,194,,,1.3,32,Experimenting,8.1,59,49,3.5,Low,Medium
+EMP1485,Prompt Engineer,5,PhD,,EdTech,,On-site,13,80,,,7.5,14,Integrating,9,62,48,3.8,Medium,Low
+EMP1486,ML Engineer,16,Self-taught,,Consulting,,On-site,47,42,,,3.3,49,AI-First,7.9,65,47,3.7,Medium,Low
+EMP1487,Frontend Engineer,5,Bachelor,,Gaming,,Hybrid,32,133,,,1.1,69,AI-First,2.3,69,54,2.9,High,Medium
+EMP1488,AI Ethics Officer,3,Self-taught,,SaaS,,On-site,44,98,,,3.4,71,Experimenting,9.8,55,51,3,Medium,Medium
+EMP1489,ML Engineer,12,Bootcamp,,EdTech,,Fully Remote,32,190,,,5,13,Experimenting,3.6,44,40,4.3,Medium,Low
+EMP1490,AI Researcher,1,PhD,,Gaming,,Fully Remote,31,57,,,4.4,9,Experimenting,1.7,58,42,3.6,Low,Low
+EMP1491,Frontend Engineer,9,PhD,,Gaming,,Hybrid,42,143,,,5.7,14,Integrating,5,44,40,3.6,Low,Low
+EMP1492,Frontend Engineer,9,Bootcamp,,Media,,Hybrid,21,113,,,0.9,16,Experimenting,7.3,56,23,4.2,Medium,Low
+EMP1493,Backend Engineer,4,Bachelor,,Automotive,,Fully Remote,9,159,,,2.6,62,Integrating,0.8,44,39,3.9,Low,Low
+EMP1494,Software Engineer,3,Bootcamp,,Cybersecurity,,Fully Remote,45,115,,,6.6,25,Integrating,6.3,62,54,2.6,Low,Medium
+EMP1495,Software Engineer,17,Bachelor,,SaaS,,Fully Remote,31,208,,,1.1,25,Integrating,8.6,66,39,3.6,Low,Low
+EMP1496,Frontend Engineer,2,Master,,Fintech,,Hybrid,36,47,,,6.9,69,Integrating,2.6,74,63,3.1,High,Medium
+EMP1497,Prompt Engineer,1,PhD,,E-commerce,,Hybrid,22,199,,,1.2,7,Integrating,6.9,39,25,3.5,Low,Low
+EMP1498,Backend Engineer,8,Bachelor,,Cybersecurity,,Hybrid,48,120,,,6.8,73,Optimizing,4,44,65,2.9,High,High
+EMP1499,AI Ethics Officer,13,Self-taught,,Media,,Fully Remote,41,208,,,3.2,68,Optimizing,4.1,77,53,2.8,Low,Medium
+EMP1500,Frontend Engineer,15,Self-taught,,SaaS,,Hybrid,29,212,,,5.1,53,Integrating,2.8,50,51,3.5,Low,Medium

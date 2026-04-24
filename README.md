@@ -4,7 +4,7 @@ This is our project for predicting if employees will quit or get burned out in A
 
 HOW TO SETUP
 ------------
-Since the .venv folder is ignored, you have to make your own when you first download the code.
+Since the .venv folder is ignored, you have to make your own when you first download the code. A virtual environment (venv) is basically a private sandbox for this project. It keeps all the libraries we use separate so they don't interfere with other Python stuff on your computer.
 
 For Mac:
 1. cd CS450FinalProject
